@@ -1,0 +1,51 @@
+/* Richard Davies, Data Science for Economists */
+
+/* This is my second CSS file */
+
+
+/* Import a font */
+@import url('https://fonts.googleapis.com/css2?family=Lora&display=swap');
+
+
+
+/* Set the background color for my page: */
+
+/* Book on colour = Joseph Albers - Interaction of Colour */
+
+body{
+    background-color: rgba(169, 169, 205, 0.765);
+ }
+
+
+/* Choose the appearance of the tags, h1, h3 and p: */
+h1, h3, p{
+    color:rgb(0, 0, 0);
+    font-family: 'Lora', serif;
+    text-align: center;
+}
+    
+.myWeek1{
+    margin: auto;
+    max-width: 550px;
+    background-color: rgb(227, 228, 237);
+
+      
+    border-width: 3.5px;
+    border-style: solid;
+    border-radius: 15px;
+    border-color: rgb(112, 104, 102);
+}
+
+
+/* Set the apperance of the class, chart */
+.chart{
+    background-color: white;
+    width:400px;
+    border-width: 2px;
+    border-style: solid;
+    border-radius: 10px;
+    border-color: rgb(0, 50, 100);
+    
+}
+    
+
