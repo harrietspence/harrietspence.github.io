@@ -1,6 +1,8 @@
-
 /* Import a font */
 @import url('https://fonts.googleapis.com/css2?family=Lora&display=swap');
+
+
+@import url('https://fonts.googleapis.com/css2?family=Lora:ital@1&display=swap');
 
 
 
@@ -30,6 +32,7 @@ h2{
 h3{
     color:rgb(0, 0, 0);
     font-family: 'Lora', serif;
+    font-style: italic;
     text-align: center;
 }
 
@@ -90,4 +93,3 @@ p{
   }
   
   
-    
