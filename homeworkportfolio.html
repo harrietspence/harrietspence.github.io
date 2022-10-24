@@ -45,10 +45,24 @@
        
         // Embed charts:
         vegaEmbed('#Chart1', myChart1);
-        
+    
     </script>
-
  <!--Chart 2 -->
+ <div class="myWeek1"> ;
+    <h3>Global Population Demographics</h3>
+    <p> Korea's Ageing Population compared to other countries</p>
+    <div class="chart" id="Chart2"></div>
+    
+</div> 
+<script>
+    //Define charts:
+    var myChart2 = "Week1chart2.json";
+   
+    // Embed charts:
+    vegaEmbed('#Chart2', myChart2);
+
+</script>
+ 
 
 
 
@@ -57,8 +71,9 @@
         <h1>Week 2:</h1>
         <h2>Replicating a chart from the Financial Times & an original chart</h2>
         <h3>IMF Lending Outstanding</h3>
-        <p>The nominal credit outstanding for all members of the IMF</p>
+        <p>The nominal credit outstanding for all members of the IMF from 1984 to 2022</p>
         <div class="chart" id="Chart3"></div>
+        <p>Excel</p>
 
     <div>
     <script>
@@ -69,6 +84,23 @@
     </script>
 
 
+<!--Chart 4 -->
+<div class="myWeek2">;
+    <h3> IMF lending as a % of Global GDP</h3>
+    <p>Improving the chart above by dividing through by GDP</p>
+    <div class="chart" id="Chart3"></div>
+
+<div>
+<script>
+
+    var myChart3 = "data_IMF_creditoutstandingGDP.json";
+    vegaEmbed('#Chart3', myChart3);
+
+    
+        
+</script>
+
+    
 
     </div>
 
