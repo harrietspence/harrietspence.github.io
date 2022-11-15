@@ -1,0 +1,20 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "title": {
+    "text": "Top 10 Billionaires by Age",
+    "subtitle": "Source: forbes.com",
+    "subtitleFontStyle": "Arial",
+    "anchor": "start",
+    "color": "black"
+  },
+    "data": {
+    "url": "https://raw.githubusercontent.com/harrietspence/harrietspence.github.io/main/week4.csv"
+  },
+  "mark": "bar",
+  "height": 300,
+  "width": 300,
+  "encoding": {
+    "x": {"field": "name", "type":"nominal"},
+    "y": {"field": "age", "type": "quantitative"}
+  }
+  }
