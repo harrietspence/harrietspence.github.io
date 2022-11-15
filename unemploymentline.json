@@ -1,0 +1,689 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "description": "A simple bar chart with embedded data.",
+  "data": {
+    "values": 
+    [
+  {
+    "LOCATION": "FRANCE",
+    "TIME": "1993",
+    "Value": 11.825
+  },
+  {
+    "LOCATION": "FRANCE",
+    "TIME": "1994",
+    "Value": 12.275
+  },
+  {
+    "LOCATION": "FRANCE",
+    "TIME": "1995",
+    "Value": 11.95
+  },
+  {
+    "LOCATION": "FRANCE",
+    "TIME": "1996",
+    "Value": 12.4
+  },
+  {
+    "LOCATION": "FRANCE",
+    "TIME": "1997",
+    "Value": 12.33333
+  },
+  {
+    "LOCATION": "FRANCE",
+    "TIME": "1998",
+    "Value": 12.05
+  },
+  {
+    "LOCATION": "FRANCE",
+    "TIME": "1999",
+    "Value": 11.31667
+  },
+  {
+    "LOCATION": "FRANCE",
+    "TIME": "2000",
+    "Value": 9.558333
+  },
+  {
+    "LOCATION": "FRANCE",
+    "TIME": "2001",
+    "Value": 8.741667
+  },
+  {
+    "LOCATION": "FRANCE",
+    "TIME": "2002",
+    "Value": 8.633333
+  },
+  {
+    "LOCATION": "FRANCE",
+    "TIME": "2003",
+    "Value": 8.508333
+  },
+  {
+    "LOCATION": "FRANCE",
+    "TIME": "2004",
+    "Value": 8.9
+  },
+  {
+    "LOCATION": "FRANCE",
+    "TIME": "2005",
+    "Value": 8.883333
+  },
+  {
+    "LOCATION": "FRANCE",
+    "TIME": "2006",
+    "Value": 8.85
+  },
+  {
+    "LOCATION": "FRANCE",
+    "TIME": "2007",
+    "Value": 8.016666
+  },
+  {
+    "LOCATION": "FRANCE",
+    "TIME": "2008",
+    "Value": 7.433333
+  },
+  {
+    "LOCATION": "FRANCE",
+    "TIME": "2009",
+    "Value": 9.116667
+  },
+  {
+    "LOCATION": "FRANCE",
+    "TIME": "2010",
+    "Value": 9.275
+  },
+  {
+    "LOCATION": "FRANCE",
+    "TIME": "2011",
+    "Value": 9.216666
+  },
+  {
+    "LOCATION": "FRANCE",
+    "TIME": "2012",
+    "Value": 9.758333
+  },
+  {
+    "LOCATION": "FRANCE",
+    "TIME": "2013",
+    "Value": 10.3
+  },
+  {
+    "LOCATION": "FRANCE",
+    "TIME": "2014",
+    "Value": 10.275
+  },
+  {
+    "LOCATION": "FRANCE",
+    "TIME": "2015",
+    "Value": 10.35
+  },
+  {
+    "LOCATION": "FRANCE",
+    "TIME": "2016",
+    "Value": 10.06667
+  },
+  {
+    "LOCATION": "FRANCE",
+    "TIME": "2017",
+    "Value": 9.425
+  },
+  {
+    "LOCATION": "FRANCE",
+    "TIME": "2018",
+    "Value": 9.025
+  },
+  {
+    "LOCATION": "FRANCE",
+    "TIME": "2019",
+    "Value": 8.433333
+  },
+  {
+    "LOCATION": "FRANCE",
+    "TIME": "2020",
+    "Value": 8.033334
+  },
+  {
+    "LOCATION": "GERMANY",
+    "TIME": "1993",
+    "Value": 7.791667
+  },
+  {
+    "LOCATION": "GERMANY",
+    "TIME": "1994",
+    "Value": 8.45
+  },
+  {
+    "LOCATION": "GERMANY",
+    "TIME": "1995",
+    "Value": 8.25
+  },
+  {
+    "LOCATION": "GERMANY",
+    "TIME": "1996",
+    "Value": 8.941667
+  },
+  {
+    "LOCATION": "GERMANY",
+    "TIME": "1997",
+    "Value": 9.675
+  },
+  {
+    "LOCATION": "GERMANY",
+    "TIME": "1998",
+    "Value": 9.45
+  },
+  {
+    "LOCATION": "GERMANY",
+    "TIME": "1999",
+    "Value": 8.625
+  },
+  {
+    "LOCATION": "GERMANY",
+    "TIME": "2000",
+    "Value": 8.008333
+  },
+  {
+    "LOCATION": "GERMANY",
+    "TIME": "2001",
+    "Value": 7.858333
+  },
+  {
+    "LOCATION": "GERMANY",
+    "TIME": "2002",
+    "Value": 8.683333
+  },
+  {
+    "LOCATION": "GERMANY",
+    "TIME": "2003",
+    "Value": 9.808333
+  },
+  {
+    "LOCATION": "GERMANY",
+    "TIME": "2004",
+    "Value": 10.5
+  },
+  {
+    "LOCATION": "GERMANY",
+    "TIME": "2005",
+    "Value": 11.28333
+  },
+  {
+    "LOCATION": "GERMANY",
+    "TIME": "2006",
+    "Value": 10.275
+  },
+  {
+    "LOCATION": "GERMANY",
+    "TIME": "2007",
+    "Value": 8.541667
+  },
+  {
+    "LOCATION": "GERMANY",
+    "TIME": "2008",
+    "Value": 7.425
+  },
+  {
+    "LOCATION": "GERMANY",
+    "TIME": "2009",
+    "Value": 7.225
+  },
+  {
+    "LOCATION": "GERMANY",
+    "TIME": "2010",
+    "Value": 6.575
+  },
+  {
+    "LOCATION": "GERMANY",
+    "TIME": "2011",
+    "Value": 5.516667
+  },
+  {
+    "LOCATION": "GERMANY",
+    "TIME": "2012",
+    "Value": 5.083333
+  },
+  {
+    "LOCATION": "GERMANY",
+    "TIME": "2013",
+    "Value": 4.95
+  },
+  {
+    "LOCATION": "GERMANY",
+    "TIME": "2014",
+    "Value": 4.708333
+  },
+  {
+    "LOCATION": "GERMANY",
+    "TIME": "2015",
+    "Value": 4.366667
+  },
+  {
+    "LOCATION": "GERMANY",
+    "TIME": "2016",
+    "Value": 3.908333
+  },
+  {
+    "LOCATION": "GERMANY",
+    "TIME": "2017",
+    "Value": 3.566667
+  },
+  {
+    "LOCATION": "GERMANY",
+    "TIME": "2018",
+    "Value": 3.208333
+  },
+  {
+    "LOCATION": "GERMANY",
+    "TIME": "2019",
+    "Value": 2.975
+  },
+  {
+    "LOCATION": "GERMANY",
+    "TIME": "2020",
+    "Value": 3.625
+  },
+  {
+    "LOCATION": "GREECE",
+    "TIME": "1999",
+    "Value": 11.98333
+  },
+  {
+    "LOCATION": "GREECE",
+    "TIME": "2000",
+    "Value": 11.23333
+  },
+  {
+    "LOCATION": "GREECE",
+    "TIME": "2001",
+    "Value": 10.675
+  },
+  {
+    "LOCATION": "GREECE",
+    "TIME": "2002",
+    "Value": 10.33333
+  },
+  {
+    "LOCATION": "GREECE",
+    "TIME": "2003",
+    "Value": 9.741667
+  },
+  {
+    "LOCATION": "GREECE",
+    "TIME": "2004",
+    "Value": 10.60833
+  },
+  {
+    "LOCATION": "GREECE",
+    "TIME": "2005",
+    "Value": 10.00833
+  },
+  {
+    "LOCATION": "GREECE",
+    "TIME": "2006",
+    "Value": 9.033334
+  },
+  {
+    "LOCATION": "GREECE",
+    "TIME": "2007",
+    "Value": 8.416667
+  },
+  {
+    "LOCATION": "GREECE",
+    "TIME": "2008",
+    "Value": 7.766667
+  },
+  {
+    "LOCATION": "GREECE",
+    "TIME": "2009",
+    "Value": 9.75
+  },
+  {
+    "LOCATION": "GREECE",
+    "TIME": "2010",
+    "Value": 12.95833
+  },
+  {
+    "LOCATION": "GREECE",
+    "TIME": "2011",
+    "Value": 18.09167
+  },
+  {
+    "LOCATION": "GREECE",
+    "TIME": "2012",
+    "Value": 24.80833
+  },
+  {
+    "LOCATION": "GREECE",
+    "TIME": "2013",
+    "Value": 27.825
+  },
+  {
+    "LOCATION": "GREECE",
+    "TIME": "2014",
+    "Value": 26.65
+  },
+  {
+    "LOCATION": "GREECE",
+    "TIME": "2015",
+    "Value": 24.98333
+  },
+  {
+    "LOCATION": "GREECE",
+    "TIME": "2016",
+    "Value": 23.875
+  },
+  {
+    "LOCATION": "GREECE",
+    "TIME": "2017",
+    "Value": 21.84167
+  },
+  {
+    "LOCATION": "GREECE",
+    "TIME": "2018",
+    "Value": 19.74167
+  },
+  {
+    "LOCATION": "GREECE",
+    "TIME": "2019",
+    "Value": 17.88333
+  },
+  {
+    "LOCATION": "GREECE",
+    "TIME": "2020",
+    "Value": 17.61667
+  },
+  {
+    "LOCATION": "SPAIN",
+    "TIME": "1993",
+    "Value": 20.84167
+  },
+  {
+    "LOCATION": "SPAIN",
+    "TIME": "1994",
+    "Value": 22.05
+  },
+  {
+    "LOCATION": "SPAIN",
+    "TIME": "1995",
+    "Value": 20.75
+  },
+  {
+    "LOCATION": "SPAIN",
+    "TIME": "1996",
+    "Value": 19.89167
+  },
+  {
+    "LOCATION": "SPAIN",
+    "TIME": "1997",
+    "Value": 18.39167
+  },
+  {
+    "LOCATION": "SPAIN",
+    "TIME": "1998",
+    "Value": 16.40833
+  },
+  {
+    "LOCATION": "SPAIN",
+    "TIME": "1999",
+    "Value": 13.6
+  },
+  {
+    "LOCATION": "SPAIN",
+    "TIME": "2000",
+    "Value": 11.91667
+  },
+  {
+    "LOCATION": "SPAIN",
+    "TIME": "2001",
+    "Value": 10.55833
+  },
+  {
+    "LOCATION": "SPAIN",
+    "TIME": "2002",
+    "Value": 11.44167
+  },
+  {
+    "LOCATION": "SPAIN",
+    "TIME": "2003",
+    "Value": 11.49167
+  },
+  {
+    "LOCATION": "SPAIN",
+    "TIME": "2004",
+    "Value": 10.95833
+  },
+  {
+    "LOCATION": "SPAIN",
+    "TIME": "2005",
+    "Value": 9.166667
+  },
+  {
+    "LOCATION": "SPAIN",
+    "TIME": "2006",
+    "Value": 8.458333
+  },
+  {
+    "LOCATION": "SPAIN",
+    "TIME": "2007",
+    "Value": 8.225
+  },
+  {
+    "LOCATION": "SPAIN",
+    "TIME": "2008",
+    "Value": 11.26667
+  },
+  {
+    "LOCATION": "SPAIN",
+    "TIME": "2009",
+    "Value": 17.86667
+  },
+  {
+    "LOCATION": "SPAIN",
+    "TIME": "2010",
+    "Value": 19.875
+  },
+  {
+    "LOCATION": "SPAIN",
+    "TIME": "2011",
+    "Value": 21.40833
+  },
+  {
+    "LOCATION": "SPAIN",
+    "TIME": "2012",
+    "Value": 24.79167
+  },
+  {
+    "LOCATION": "SPAIN",
+    "TIME": "2013",
+    "Value": 26.11667
+  },
+  {
+    "LOCATION": "SPAIN",
+    "TIME": "2014",
+    "Value": 24.45
+  },
+  {
+    "LOCATION": "SPAIN",
+    "TIME": "2015",
+    "Value": 22.075
+  },
+  {
+    "LOCATION": "SPAIN",
+    "TIME": "2016",
+    "Value": 19.65
+  },
+  {
+    "LOCATION": "SPAIN",
+    "TIME": "2017",
+    "Value": 17.23333
+  },
+  {
+    "LOCATION": "SPAIN",
+    "TIME": "2018",
+    "Value": 15.26667
+  },
+  {
+    "LOCATION": "SPAIN",
+    "TIME": "2019",
+    "Value": 14.10833
+  },
+  {
+    "LOCATION": "SPAIN",
+    "TIME": "2020",
+    "Value": 15.53333
+  },
+  {
+    "LOCATION": "UNITED KINGDOM",
+    "TIME": "1993",
+    "Value": 10.4
+  },
+  {
+    "LOCATION": "UNITED KINGDOM",
+    "TIME": "1994",
+    "Value": 9.525
+  },
+  {
+    "LOCATION": "UNITED KINGDOM",
+    "TIME": "1995",
+    "Value": 8.65
+  },
+  {
+    "LOCATION": "UNITED KINGDOM",
+    "TIME": "1996",
+    "Value": 8.125
+  },
+  {
+    "LOCATION": "UNITED KINGDOM",
+    "TIME": "1997",
+    "Value": 7
+  },
+  {
+    "LOCATION": "UNITED KINGDOM",
+    "TIME": "1998",
+    "Value": 6.275
+  },
+  {
+    "LOCATION": "UNITED KINGDOM",
+    "TIME": "1999",
+    "Value": 5.975
+  },
+  {
+    "LOCATION": "UNITED KINGDOM",
+    "TIME": "2000",
+    "Value": 5.45
+  },
+  {
+    "LOCATION": "UNITED KINGDOM",
+    "TIME": "2001",
+    "Value": 5.075
+  },
+  {
+    "LOCATION": "UNITED KINGDOM",
+    "TIME": "2002",
+    "Value": 5.175
+  },
+  {
+    "LOCATION": "UNITED KINGDOM",
+    "TIME": "2003",
+    "Value": 5.025
+  },
+  {
+    "LOCATION": "UNITED KINGDOM",
+    "TIME": "2004",
+    "Value": 4.75
+  },
+  {
+    "LOCATION": "UNITED KINGDOM",
+    "TIME": "2005",
+    "Value": 4.8
+  },
+  {
+    "LOCATION": "UNITED KINGDOM",
+    "TIME": "2006",
+    "Value": 5.425
+  },
+  {
+    "LOCATION": "UNITED KINGDOM",
+    "TIME": "2007",
+    "Value": 5.325
+  },
+  {
+    "LOCATION": "UNITED KINGDOM",
+    "TIME": "2008",
+    "Value": 5.7
+  },
+  {
+    "LOCATION": "UNITED KINGDOM",
+    "TIME": "2009",
+    "Value": 7.625
+  },
+  {
+    "LOCATION": "UNITED KINGDOM",
+    "TIME": "2010",
+    "Value": 7.875
+  },
+  {
+    "LOCATION": "UNITED KINGDOM",
+    "TIME": "2011",
+    "Value": 8.125
+  },
+  {
+    "LOCATION": "UNITED KINGDOM",
+    "TIME": "2012",
+    "Value": 7.975
+  },
+  {
+    "LOCATION": "UNITED KINGDOM",
+    "TIME": "2013",
+    "Value": 7.6
+  },
+  {
+    "LOCATION": "UNITED KINGDOM",
+    "TIME": "2014",
+    "Value": 6.175
+  },
+  {
+    "LOCATION": "UNITED KINGDOM",
+    "TIME": "2015",
+    "Value": 5.35
+  },
+  {
+    "LOCATION": "UNITED KINGDOM",
+    "TIME": "2016",
+    "Value": 4.9
+  },
+  {
+    "LOCATION": "UNITED KINGDOM",
+    "TIME": "2017",
+    "Value": 4.425
+  },
+  {
+    "LOCATION": "UNITED KINGDOM",
+    "TIME": "2018",
+    "Value": 4.1
+  },
+  {
+    "LOCATION": "UNITED KINGDOM",
+    "TIME": "2019",
+    "Value": 3.825
+  },
+  {
+    "LOCATION": "UNITED KINGDOM",
+    "TIME": "2020",
+    "Value": 4.575
+  }
+]
+
+  },
+
+ "mark": "line",
+    "height": 350,
+      "width": 380,
+    "encoding": {
+      "x": {"field": "TIME", "type": "temporal", "axis":{"grid": false}},
+      "y": {"field": "Value", "type": "quantitative", "scale": {"domain": [0, 85]},"axis":{"grid": false}, "title":"Unemployment Rate"},
+      "color": {"field": "LOCATION", "type": "nominal", "scale": {"scheme": "blues"}}
+    }
+  }
