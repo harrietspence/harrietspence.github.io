@@ -28,7 +28,7 @@
     "y": {
       "field": "value",
       "type": "quantitative",
-      "title": "(%)",
+      "title": "Thousand tonnes CO2 equivalent",
       "scale": {"domain": [0, 250000]}
     }
   },
