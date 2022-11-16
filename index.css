@@ -38,5 +38,30 @@ h1, h3, p{
     border-color: red;
 
     
+
 }
+
+.chart3{
+    background-color: white;
+    width: auto;  
+    height: auto; 
+    border-width: 2px;
+    border-style: solid;
+    border-radius: 5px;
+    border-color: grey;
+    margin-bottom: 0.5cm;
+   
+
+}
+
+.container {
+    display: flex;
+    flex-flow: wrap;
+    column-gap: 20px;
+    margin-top: 10px;
+    padding-top: 0px;
+    padding-bottom: 0px;
+    justify-content: center;
+    align-content: center;
+  }
     
