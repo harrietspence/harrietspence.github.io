@@ -1,0 +1,392 @@
+{
+    "description": {
+        "cdid": "K8AR",
+        "contact": {
+            "email": "blue.book.coordination@ons.gov.uk  ",
+            "name": "Claire Evans",
+            "telephone": "+44 1633 456545"
+        },
+        "datasetId": "BB",
+        "datasetUri": "/economy/grossdomesticproductgdp/datasets/bluebook",
+        "date": "2020",
+        "nextRelease": "October 2023",
+        "number": "18620",
+        "preUnit": "",
+        "releaseDate": "2022-10-31T00:00:00.000Z",
+        "sampleSize": "0",
+        "source": "",
+        "title": "Air emissions All greenhouse gases-Mining and quarrying-Thousand tonnes CO2 equivalent",
+        "unit": ""
+    },
+    "months": [],
+    "quarters": [],
+    "relatedDatasets": [
+        {
+            "uri": "/economy/grossdomesticproductgdp/datasets/bluebook"
+        }
+    ],
+    "relatedDocuments": [
+        {
+            "uri": "/economy/grossdomesticproductgdp/compendium/unitedkingdomnationalaccountsthebluebook/latest"
+        }
+    ],
+    "sourceDatasets": [],
+    "type": "timeseries",
+    "uri": "/economy/grossdomesticproductgdp/timeseries/k8ar/bb",
+    "versions": [
+        {
+            "correctionNotice": "",
+            "label": "v1",
+            "updateDate": "2016-07-29T08:30:00.000Z",
+            "uri": "/economy/grossdomesticproductgdp/timeseries/k8ar/bb/previous/v1"
+        },
+        {
+            "correctionNotice": "",
+            "label": "v2",
+            "updateDate": "2017-10-31T09:30:00.000Z",
+            "uri": "/economy/grossdomesticproductgdp/timeseries/k8ar/bb/previous/v2"
+        },
+        {
+            "correctionNotice": "",
+            "label": "v3",
+            "updateDate": "2018-07-31T08:30:00.000Z",
+            "uri": "/economy/grossdomesticproductgdp/timeseries/k8ar/bb/previous/v3"
+        },
+        {
+            "correctionNotice": "",
+            "label": "v4",
+            "updateDate": "2019-10-31T09:30:00.000Z",
+            "uri": "/economy/grossdomesticproductgdp/timeseries/k8ar/bb/previous/v4"
+        },
+        {
+            "correctionNotice": "",
+            "label": "v5",
+            "updateDate": "2020-11-02T11:01:02.615Z",
+            "uri": "/economy/grossdomesticproductgdp/timeseries/k8ar/bb/previous/v5"
+        },
+        {
+            "correctionNotice": "",
+            "label": "v6",
+            "updateDate": "2021-10-29T08:30:00.000Z",
+            "uri": "/economy/grossdomesticproductgdp/timeseries/k8ar/bb/previous/v6"
+        },
+        {
+            "correctionNotice": "",
+            "label": "v7",
+            "updateDate": "2022-10-31T09:30:00.000Z",
+            "uri": "/economy/grossdomesticproductgdp/timeseries/k8ar/bb/previous/v7"
+        }
+    ],
+    "years": [
+        {
+            "date": "1990",
+            "label": "1990",
+            "month": "",
+            "quarter": "",
+            "sourceDataset": "BB",
+            "updateDate": "2022-10-31T00:00:00.000Z",
+            "value": "48694",
+            "year": "1990"
+        },
+        {
+            "date": "1991",
+            "label": "1991",
+            "month": "",
+            "quarter": "",
+            "sourceDataset": "BB",
+            "updateDate": "2022-10-31T00:00:00.000Z",
+            "value": "48707",
+            "year": "1991"
+        },
+        {
+            "date": "1992",
+            "label": "1992",
+            "month": "",
+            "quarter": "",
+            "sourceDataset": "BB",
+            "updateDate": "2022-10-31T00:00:00.000Z",
+            "value": "49331",
+            "year": "1992"
+        },
+        {
+            "date": "1993",
+            "label": "1993",
+            "month": "",
+            "quarter": "",
+            "sourceDataset": "BB",
+            "updateDate": "2022-10-31T00:00:00.000Z",
+            "value": "49142",
+            "year": "1993"
+        },
+        {
+            "date": "1994",
+            "label": "1994",
+            "month": "",
+            "quarter": "",
+            "sourceDataset": "BB",
+            "updateDate": "2022-10-31T00:00:00.000Z",
+            "value": "43789",
+            "year": "1994"
+        },
+        {
+            "date": "1995",
+            "label": "1995",
+            "month": "",
+            "quarter": "",
+            "sourceDataset": "BB",
+            "updateDate": "2022-10-31T00:00:00.000Z",
+            "value": "45512",
+            "year": "1995"
+        },
+        {
+            "date": "1996",
+            "label": "1996",
+            "month": "",
+            "quarter": "",
+            "sourceDataset": "BB",
+            "updateDate": "2022-10-31T00:00:00.000Z",
+            "value": "45809",
+            "year": "1996"
+        },
+        {
+            "date": "1997",
+            "label": "1997",
+            "month": "",
+            "quarter": "",
+            "sourceDataset": "BB",
+            "updateDate": "2022-10-31T00:00:00.000Z",
+            "value": "44971",
+            "year": "1997"
+        },
+        {
+            "date": "1998",
+            "label": "1998",
+            "month": "",
+            "quarter": "",
+            "sourceDataset": "BB",
+            "updateDate": "2022-10-31T00:00:00.000Z",
+            "value": "43786",
+            "year": "1998"
+        },
+        {
+            "date": "1999",
+            "label": "1999",
+            "month": "",
+            "quarter": "",
+            "sourceDataset": "BB",
+            "updateDate": "2022-10-31T00:00:00.000Z",
+            "value": "40140",
+            "year": "1999"
+        },
+        {
+            "date": "2000",
+            "label": "2000",
+            "month": "",
+            "quarter": "",
+            "sourceDataset": "BB",
+            "updateDate": "2022-10-31T00:00:00.000Z",
+            "value": "38103",
+            "year": "2000"
+        },
+        {
+            "date": "2001",
+            "label": "2001",
+            "month": "",
+            "quarter": "",
+            "sourceDataset": "BB",
+            "updateDate": "2022-10-31T00:00:00.000Z",
+            "value": "38066",
+            "year": "2001"
+        },
+        {
+            "date": "2002",
+            "label": "2002",
+            "month": "",
+            "quarter": "",
+            "sourceDataset": "BB",
+            "updateDate": "2022-10-31T00:00:00.000Z",
+            "value": "36529",
+            "year": "2002"
+        },
+        {
+            "date": "2003",
+            "label": "2003",
+            "month": "",
+            "quarter": "",
+            "sourceDataset": "BB",
+            "updateDate": "2022-10-31T00:00:00.000Z",
+            "value": "33928",
+            "year": "2003"
+        },
+        {
+            "date": "2004",
+            "label": "2004",
+            "month": "",
+            "quarter": "",
+            "sourceDataset": "BB",
+            "updateDate": "2022-10-31T00:00:00.000Z",
+            "value": "32737",
+            "year": "2004"
+        },
+        {
+            "date": "2005",
+            "label": "2005",
+            "month": "",
+            "quarter": "",
+            "sourceDataset": "BB",
+            "updateDate": "2022-10-31T00:00:00.000Z",
+            "value": "30701",
+            "year": "2005"
+        },
+        {
+            "date": "2006",
+            "label": "2006",
+            "month": "",
+            "quarter": "",
+            "sourceDataset": "BB",
+            "updateDate": "2022-10-31T00:00:00.000Z",
+            "value": "28245",
+            "year": "2006"
+        },
+        {
+            "date": "2007",
+            "label": "2007",
+            "month": "",
+            "quarter": "",
+            "sourceDataset": "BB",
+            "updateDate": "2022-10-31T00:00:00.000Z",
+            "value": "27702",
+            "year": "2007"
+        },
+        {
+            "date": "2008",
+            "label": "2008",
+            "month": "",
+            "quarter": "",
+            "sourceDataset": "BB",
+            "updateDate": "2022-10-31T00:00:00.000Z",
+            "value": "26968",
+            "year": "2008"
+        },
+        {
+            "date": "2009",
+            "label": "2009",
+            "month": "",
+            "quarter": "",
+            "sourceDataset": "BB",
+            "updateDate": "2022-10-31T00:00:00.000Z",
+            "value": "26866",
+            "year": "2009"
+        },
+        {
+            "date": "2010",
+            "label": "2010",
+            "month": "",
+            "quarter": "",
+            "sourceDataset": "BB",
+            "updateDate": "2022-10-31T00:00:00.000Z",
+            "value": "26291",
+            "year": "2010"
+        },
+        {
+            "date": "2011",
+            "label": "2011",
+            "month": "",
+            "quarter": "",
+            "sourceDataset": "BB",
+            "updateDate": "2022-10-31T00:00:00.000Z",
+            "value": "23694",
+            "year": "2011"
+        },
+        {
+            "date": "2012",
+            "label": "2012",
+            "month": "",
+            "quarter": "",
+            "sourceDataset": "BB",
+            "updateDate": "2022-10-31T00:00:00.000Z",
+            "value": "21941",
+            "year": "2012"
+        },
+        {
+            "date": "2013",
+            "label": "2013",
+            "month": "",
+            "quarter": "",
+            "sourceDataset": "BB",
+            "updateDate": "2022-10-31T00:00:00.000Z",
+            "value": "20645",
+            "year": "2013"
+        },
+        {
+            "date": "2014",
+            "label": "2014",
+            "month": "",
+            "quarter": "",
+            "sourceDataset": "BB",
+            "updateDate": "2022-10-31T00:00:00.000Z",
+            "value": "20582",
+            "year": "2014"
+        },
+        {
+            "date": "2015",
+            "label": "2015",
+            "month": "",
+            "quarter": "",
+            "sourceDataset": "BB",
+            "updateDate": "2022-10-31T00:00:00.000Z",
+            "value": "21938",
+            "year": "2015"
+        },
+        {
+            "date": "2016",
+            "label": "2016",
+            "month": "",
+            "quarter": "",
+            "sourceDataset": "BB",
+            "updateDate": "2022-10-31T00:00:00.000Z",
+            "value": "20897",
+            "year": "2016"
+        },
+        {
+            "date": "2017",
+            "label": "2017",
+            "month": "",
+            "quarter": "",
+            "sourceDataset": "BB",
+            "updateDate": "2022-10-31T00:00:00.000Z",
+            "value": "20902",
+            "year": "2017"
+        },
+        {
+            "date": "2018",
+            "label": "2018",
+            "month": "",
+            "quarter": "",
+            "sourceDataset": "BB",
+            "updateDate": "2022-10-31T00:00:00.000Z",
+            "value": "20699",
+            "year": "2018"
+        },
+        {
+            "date": "2019",
+            "label": "2019",
+            "month": "",
+            "quarter": "",
+            "sourceDataset": "BB",
+            "updateDate": "2022-10-31T00:00:00.000Z",
+            "value": "20437",
+            "year": "2019"
+        },
+        {
+            "date": "2020",
+            "label": "2020",
+            "month": "",
+            "quarter": "",
+            "sourceDataset": "BB",
+            "updateDate": "2022-10-31T00:00:00.000Z",
+            "value": "18620",
+            "year": "2020"
+        }
+    ]
+}
