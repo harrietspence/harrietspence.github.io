@@ -683,7 +683,7 @@
       "width": 380,
     "encoding": {
       "x": {"field": "TIME", "type": "temporal", "axis":{"grid": false}},
-      "y": {"field": "Value", "type": "quantitative", "scale": {"domain": [0, 85]},"axis":{"grid": false}, "title":"Unemployment Rate"},
+      "y": {"field": "Value", "type": "quantitative", "scale": {"domain": [0, 40]},"axis":{"grid": false}, "title":"Unemployment Rate"},
       "color": {"field": "LOCATION", "type": "nominal", "scale": {"scheme": "set2"}}
     }
   }
