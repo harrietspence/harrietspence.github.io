@@ -44,49 +44,32 @@ p{
     
 .myWeek1{
     margin: auto;
-    max-width: 550px;
-    background-color: rgb(227, 228, 237);
-
-      
-    border-width: 3.5px;
+    max-width: 1200px;
+    text-align: center;
+    border-top: 2px;
+    border-bottom: 2px;
+    border-left: 0cm;
+    border-right: 0cm;
     border-style: solid;
-    border-radius: 15px;
-    border-color: rgb(112, 104, 102);
+    border-color: (rgb(100,100,100)) ;
 }
-.myWeek2{
-    margin: auto;
-    max-width: 550px;
-    background-color: rgb(227, 228, 237);
 
-      
-    border-width: 3.5px;
-    border-style: solid;
-    border-radius: 15px;
-    border-color: rgb(112, 104, 102);
-}
-.myWeek3{
-    margin: auto;
-    max-width: 550px;
-    background-color: rgb(227, 228, 237);
-
-      
-    border-width: 3.5px;
-    border-style: solid;
-    border-radius: 15px;
-    border-color: rgb(112, 104, 102);
-}
 
 /* Set the apperance of the class, chart */
 .chart{
     background-color: white;
-    width:250px;
-    margin-left: 120px;
-    margin-right: 120px;
-    width: 50%;
+    width:auto;
+    height: auto;
     border-width: 2px;
     border-style: solid;
-    border-radius: 10px;
+    border-radius: 0px;
+    margin-left: 120px;
+    margin-right: 120px;
     border-color: rgb(0, 50, 100);
+    margin-bottom: 0.25cm;
+  
+    
+
     
 }
 
@@ -108,20 +91,6 @@ p{
 
 .button:hover {opacity: 1}
 
-}
-
-.chart3 {
-    background-color: white;
-    width: auto;  
-    height: auto; 
-    border-width: 2px;
-    border-style: solid;
-    border-radius: 5px;
-    border-color: grey;
-    margin-bottom: 0.5cm;
-   
-
-}
 
 .container {
     display: flex;
@@ -133,10 +102,6 @@ p{
     justify-content: center;
     align-content: center;
  }
-
-</style>
-</head>
-<body>
 
   
   
