@@ -1,0 +1,23 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v3.json",
+  "data": {"url": "https://raw.githubusercontent.com/harrietspence/harrietspence.github.io/main/P_10cities_gun.csv"},
+
+  "repeat": {"layer": ["# Killed", "# Injured"]},
+  "spec": {
+  "mark": "bar",
+  "encoding": {
+    "x": {
+      "field": "City Or County",
+      "type": "ordinal",
+      "axis": {"title": "Cities"}
+    },
+    "y": {
+      "aggregate": "sum",
+      "field": {"repeat": "layer"},
+      "type": "quantitative"
+    },
+      "color": {"datum": {"repeat": "layer"}, "title": "Key"},
+      "xOffset": {"datum": {"repeat": "layer"}}
+}
+}
+}
