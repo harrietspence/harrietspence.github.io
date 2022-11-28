@@ -1,0 +1,63 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "width": 450,
+  "height": 450,
+  "view": {"stroke": "transparent"},
+  "title": {
+    "text": "Firearm Mortality Rates in the US",
+    "fontSize": 12,
+    "subtitle": [
+      "Source: Centers for Disease Control and Prevention"
+    
+    ],
+    "subtitleFontStyle": "italic",
+    "subtitleFontSize": 10,
+    "anchor": "middle"
+  },
+  "params": [
+    {
+      "name": "yearSelector",
+      "value": 2020,
+      "bind": {
+        "input": "range",
+        "min": 2014,
+        "max": 2020,
+        "step": 1,
+        "name": "Year:"
+      }
+    }
+  ],
+  "data": {
+    "url": "https://raw.githubusercontent.com/harrietspence/harrietspence.github.io/main/P_tidy_states_guns.csv",
+    "format": {"type": "csv"}
+  },
+  "transform": [
+    {"filter": "datum.YEAR == yearSelector"},
+    {
+      "lookup": "State",
+      "from": {
+        "data": {
+          "url": "https://raw.githubusercontent.com/harrietspence/harrietspence.github.io/main/USStates_geo.json",
+          "format": {"property": "features"}
+        },
+        "key": "properties.NAME",
+        "fields": ["properties", "type", "geometry"]
+      }
+    }
+  ],
+  "projection": {"type": "albersUsa"},
+  "mark": "geoshape",
+  "encoding": {
+    "color": {
+      "field": "Firearm Mortality Rate",
+      "legend": {"title": null, "orient": "right", "direction": "vertical"},
+      "type": "quantitative",
+      "scale": {"scheme": "lighttealblue"}
+    },
+    "tooltip": [
+      {"field": "properties.NAME", "type":"nominal", "title": "State"},
+      {"field": "Firearm Mortality Rate", "type":"nominal", "title": "Firearm Mortality Rate"},
+      {"field": "YEAR", "type":"nominal", "title": "Year"}
+    ]
+  }
+}
