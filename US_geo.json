@@ -3,15 +3,15 @@
   "width": 500,
   "height": 300,
   "data": {
-    "url": "https://raw.githubusercontent.com/harrietspence/harrietspence.github.io/main/USStates_geo.json",
+    "url": "https://raw.githubusercontent.com/harrietspence/harrietspence.github.io/main/Boundaries%20-%20Community%20Areas%20(current).geojson",
     "format": {"property": "features"}
   },
-  "projection": {"type": "albersUsa"},
+  "projection": {"type": "mercator"},
   "mark": {
     "type": "geoshape",
     "fill": "lightgray",
     "stroke": "darkgray",
     "strokeWidth": 0.4
   },
-  "encoding": {"tooltip": {"field": "properties.NAME", "type": "nominal"}}
+  "encoding": {"tooltip": {"field": "properties.community", "type": "nominal"}}
 }
