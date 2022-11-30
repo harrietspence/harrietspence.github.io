@@ -4,11 +4,11 @@
   "height": 450,
   "view": {"stroke": "transparent"},
   "title": {
-    "text": "Reported Gun Crimes in Chicago",
+    "text": "Reported gun related crimes in Chicago",
     "fontSize": 18,
     "subtitle": [
       "Source: Chicago Data Portal",
-      "Chicago Police Department's CLEAR system",
+      "Chicago Police Department's CLEAR system"
     
     ],
     "subtitleFontStyle": "italic",
@@ -53,7 +53,7 @@
       "field": "Total for Year",
       "legend": {"title": null, "orient": "right", "direction": "vertical"},
       "type": "quantitative",
-      "scale": {"scheme": "lightgreyred"}
+      "scale": {"scheme": "orangered"}
     },
     "tooltip": [
       {"field": "properties.community", "type":"nominal", "title": "Neighbourhood"},
