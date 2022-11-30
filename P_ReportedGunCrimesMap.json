@@ -1,0 +1,64 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "width": 450,
+  "height": 450,
+  "view": {"stroke": "transparent"},
+  "title": {
+    "text": "Reported Gun Crimes in Chicago",
+    "fontSize": 18,
+    "subtitle": [
+      "Source: Chicago Data Portal",
+      "Chicago Police Department's CLEAR system",
+    
+    ],
+    "subtitleFontStyle": "italic",
+    "subtitleFontSize": 12,
+    "anchor": "middle"
+  },
+  "params": [
+    {
+      "name": "yearSelector",
+      "value": 2021,
+      "bind": {
+        "input": "range",
+        "min": 2014,
+        "max": 2022,
+        "step": 1,
+        "name": "Year:"
+      }
+    }
+  ],
+  "data": {
+    "url": "https://raw.githubusercontent.com/harrietspence/harrietspence.github.io/main/ChicagoDataPortal22_tidy.csv",
+    "format": {"type": "csv"}
+  },
+  "transform": [
+    {"filter": "datum.Year == yearSelector"},
+    {
+      "lookup": "Community Area",
+      "from": {
+        "data": {
+          "url": "https://raw.githubusercontent.com/harrietspence/harrietspence.github.io/main/Boundaries%20-%20Community%20Areas%20(current).geojson",
+          "format": {"property": "features"}
+        },
+        "key": "properties.area_numbe",
+        "fields": ["properties", "type", "geometry"]
+      }
+    }
+  ],
+  "projection": {"type": "mercator"},
+  "mark": "geoshape",
+  "encoding": {
+    "color": {
+      "field": "Total for Year",
+      "legend": {"title": null, "orient": "right", "direction": "vertical"},
+      "type": "quantitative",
+      "scale": {"scheme": "lightgreyred"}
+    },
+    "tooltip": [
+      {"field": "properties.community", "type":"nominal", "title": "Neighbourhood"},
+      {"field": "Total for Year", "type":"nominal", "title": "Total gun related incidents reported in given year"},
+      {"field": "Year", "type":"nominal", "title": "Year"}
+    ]
+  }
+}
