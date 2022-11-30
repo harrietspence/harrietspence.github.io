@@ -3,13 +3,15 @@
   "description": "GHG Electricity, gas, steam and air conditioning supply",
   "data": {
     "url": "https://raw.githubusercontent.com/harrietspence/harrietspence.github.io/main/Wk5_ONS-k8av.json",
-
     "format": {"type": "json", "property": "years"}
   },
-  "width": 350,
-  "height": 350,
+  "width": 200,
+  "height": 200,
   "title": {
-    "text": "Greenhouse gas emssissions: Wholesale and retail trade; repair of motor vehicles-Thousand tonnes CO2 equivalent",
+    "text": [
+      "GHG emssissions: Wholesale and retail trade;",
+      "repair of motor vehicles - Thousand tonnes",
+    "CO2 equivalent"],
     "subtitle": "Source: ONS",
     "subtitleFontStyle": "italic",
     "subtitleFontSize": 8,
