@@ -30,7 +30,7 @@
       "bind": {
         "input": "select",
         "options": [
-          "null",
+          null,
                 "2014",
                 "2015",
                 "2016",
