@@ -9,8 +9,8 @@
   "height": 200,
   "title": {
     "text": [
-      "Greenhouse gas emssissions: Electricity, gas,",
-      "steam and air conditioning supply-Thousand",
+      "GHG emssissions: Electricity, gas, steam",
+      "and air conditioning supply - Thousand",
       "tonnes CO2 equivalent."],
     "subtitle": "Source: ONS",
     "subtitleFontStyle": "italic",
