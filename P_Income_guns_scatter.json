@@ -1,0 +1,62 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "data": {
+    "url": "https://raw.githubusercontent.com/harrietspence/harrietspence.github.io/main/US_income_firearms.csv"
+  },
+  "title": {
+    "text": "Firearm Mortality Rates and Income",
+    "fontSize": 18,
+    "subtitle": "Sources: Bureau of Economic Analysis (BEA) and the CDC",
+    "subtitleFontStyle": "italic",
+    "subtitlePadding": 4,
+    "subtitleFontSize": 12,
+    "anchor": "start",
+    "color": "black"
+  },
+
+  "height": 300,
+  "width": 300,
+       "mark": {
+        "type": "point",
+        "size": 80,
+        "filled": true,
+        "color": "#FFA057",
+        "strokeWidth": 12,
+        "opacity": 0.7},
+  "selection": {
+    "Year": {
+      "type": "single",
+      "fields": ["Year"],
+      "bind": {
+        "input": "select",
+        "options": [
+          "null",
+                "2014",
+                "2015",
+                "2016",
+                "2017",                
+                "2018",
+                "2019",
+                "2020"
+                       ],
+        "name": "Year"
+      }
+    }
+  },
+  "transform": [{"filter": {"selection": "Year"}}],
+  "encoding": {
+    "x": {
+      "field": "Per capita personal income",
+      "type": "quantitative",
+      "title": "Per capita personal income",
+      "scale": {"domain": [30000, 80000]}
+    },
+    "y": {
+      "field": "Firearm Mortality rate",
+      "type": "quantitative",
+      "title": "Firearm Mortality rate",
+      "scale": {"domain": [0, 30]}
+    },
+    "tooltip": [{"field": "State", "type": "nominal", "title": "State"}]
+  }
+}
