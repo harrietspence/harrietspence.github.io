@@ -2,16 +2,15 @@
   "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
   "description": "GHG Electricity, gas, steam and air conditioning supply",
   "data": {
-    "url": "https://raw.githubusercontent.com/harrietspence/harrietspence.github.io/main/Wk5_ONS-fs9r.json",
+    "url": "https://raw.githubusercontent.com/harrietspence/harrietspence.github.io/main/Wk5_ONS-k8b4.json",
     "format": {"type": "json", "property": "years"}
   },
   "width": 200,
   "height": 200,
   "title": {
     "text": [
-      "GHG emssissions: Electricity, gas, steam",
-      "and air conditioning supply - Thousand",
-      "tonnes CO2 equivalent."],
+      "GHG emssissions: Consumer expenditure -",
+      "Thousand tonnes CO2 equivalent"],
     "subtitle": "Source: ONS",
     "subtitleFontStyle": "italic",
     "subtitleFontSize": 8,
