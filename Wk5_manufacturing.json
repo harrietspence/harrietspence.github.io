@@ -3,13 +3,13 @@
   "description": "GHG Electricity, gas, steam and air conditioning supply",
   "data": {
     "url": "https://raw.githubusercontent.com/harrietspence/harrietspence.github.io/main/Wk5_ONS-k8as.json",
-
     "format": {"type": "json", "property": "years"}
   },
-  "width": 350,
-  "height": 350,
+  "width": 200,
+  "height": 200,
   "title": {
-    "text": "Greenhouse gas emssissions: Manufacturing-Thousand tonnes CO2 equivalent",
+    "text": [
+      "GHG emssissions: Manufacturing -","Thousand tonnes CO2 equivalent"],
     "subtitle": "Source: ONS",
     "subtitleFontStyle": "italic",
     "subtitleFontSize": 8,
