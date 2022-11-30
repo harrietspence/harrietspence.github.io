@@ -2,7 +2,6 @@
   "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
   "width": 500,
   "height": 300,
-  "background": "null",  
   "data": {
     "url": "https://raw.githubusercontent.com/harrietspence/harrietspence.github.io/main/Boundaries%20-%20Community%20Areas%20(current).geojson",
     "format": {"property": "features"}
