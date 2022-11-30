@@ -9,7 +9,9 @@
   "width": 350,
   "height": 350,
   "title": {
-    "text": "Greenhouse gas emssissions: Agriculture, forestry and fishing-Thousand tonnes CO2 equivalent",
+    "text": 
+        ["Greenhouse gas emssissions:", 
+    "Agriculture, forestry and fishing-Thousand tonnes CO2   equivalent"],
     "subtitle": "Source: ONS",
     "subtitleFontStyle": "italic",
     "subtitleFontSize": 8,
