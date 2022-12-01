@@ -1,0 +1,3197 @@
+,Product,Date,level_2,value
+0,Developing/Printing,01/03/1989,p_mean,3.534822
+1,Developing/Printing,01/03/1989,p25,2.99
+2,Developing/Printing,01/03/1989,p_median,3.49
+3,Developing/Printing,01/03/1989,p75,3.99
+4,35mm colour film - 24 EXP,01/03/1989,p_mean,2.311552
+5,35mm colour film - 24 EXP,01/03/1989,p25,1.99
+6,35mm colour film - 24 EXP,01/03/1989,p_median,1.99
+7,35mm colour film - 24 EXP,01/03/1989,p75,2.79
+8,35mm colour film - 24 EXP,01/05/1989,p_mean,2.379194
+9,35mm colour film - 24 EXP,01/05/1989,p25,1.99
+10,35mm colour film - 24 EXP,01/05/1989,p_median,2.415
+11,35mm colour film - 24 EXP,01/05/1989,p75,2.79
+12,Developing/Printing,01/05/1989,p_mean,3.478667
+13,Developing/Printing,01/05/1989,p25,2.99
+14,Developing/Printing,01/05/1989,p_median,3.49
+15,Developing/Printing,01/05/1989,p75,3.99
+16,35mm colour film - 24 EXP,01/06/1989,p_mean,2.376308
+17,35mm colour film - 24 EXP,01/06/1989,p25,1.99
+18,35mm colour film - 24 EXP,01/06/1989,p_median,2.29
+19,35mm colour film - 24 EXP,01/06/1989,p75,2.79
+20,Developing/Printing,01/06/1989,p_mean,3.497705
+21,Developing/Printing,01/06/1989,p25,2.99
+22,Developing/Printing,01/06/1989,p_median,3.49
+23,Developing/Printing,01/06/1989,p75,3.99
+24,35mm colour film - 24 EXP,01/07/1989,p_mean,2.351964
+25,35mm colour film - 24 EXP,01/07/1989,p25,1.99
+26,35mm colour film - 24 EXP,01/07/1989,p_median,2.22
+27,35mm colour film - 24 EXP,01/07/1989,p75,2.79
+28,Developing/Printing,01/07/1989,p_mean,3.516491
+29,Developing/Printing,01/07/1989,p25,2.99
+30,Developing/Printing,01/07/1989,p_median,3.49
+31,Developing/Printing,01/07/1989,p75,3.99
+32,Developing/Printing,01/08/1989,p_mean,3.583968
+33,Developing/Printing,01/08/1989,p25,2.99
+34,Developing/Printing,01/08/1989,p_median,3.49
+35,Developing/Printing,01/08/1989,p75,3.99
+36,35mm colour film - 24 EXP,01/08/1989,p_mean,2.348033
+37,35mm colour film - 24 EXP,01/08/1989,p25,1.99
+38,35mm colour film - 24 EXP,01/08/1989,p_median,2.19
+39,35mm colour film - 24 EXP,01/08/1989,p75,2.79
+40,35mm colour film - 24 EXP,01/09/1989,p_mean,2.362459
+41,35mm colour film - 24 EXP,01/09/1989,p25,1.99
+42,35mm colour film - 24 EXP,01/09/1989,p_median,2.25
+43,35mm colour film - 24 EXP,01/09/1989,p75,2.79
+44,Developing/Printing,01/09/1989,p_mean,3.588923
+45,Developing/Printing,01/09/1989,p25,2.99
+46,Developing/Printing,01/09/1989,p_median,3.49
+47,Developing/Printing,01/09/1989,p75,3.99
+48,Developing/Printing,01/10/1989,p_mean,3.536462
+49,Developing/Printing,01/10/1989,p25,2.99
+50,Developing/Printing,01/10/1989,p_median,3.49
+51,Developing/Printing,01/10/1989,p75,3.99
+52,35mm colour film - 24 EXP,01/10/1989,p_mean,2.437167
+53,35mm colour film - 24 EXP,01/10/1989,p25,1.995
+54,35mm colour film - 24 EXP,01/10/1989,p_median,2.34
+55,35mm colour film - 24 EXP,01/10/1989,p75,2.79
+56,35mm colour film - 24 EXP,01/11/1989,p_mean,2.407164
+57,35mm colour film - 24 EXP,01/11/1989,p25,2.0
+58,35mm colour film - 24 EXP,01/11/1989,p_median,2.29
+59,35mm colour film - 24 EXP,01/11/1989,p75,2.79
+60,Developing/Printing,01/11/1989,p_mean,3.663714
+61,Developing/Printing,01/11/1989,p25,3.49
+62,Developing/Printing,01/11/1989,p_median,3.49
+63,Developing/Printing,01/11/1989,p75,3.99
+64,35mm colour film - 24 EXP,01/12/1989,p_mean,2.409851
+65,35mm colour film - 24 EXP,01/12/1989,p25,2.0
+66,35mm colour film - 24 EXP,01/12/1989,p_median,2.29
+67,35mm colour film - 24 EXP,01/12/1989,p75,2.79
+68,Developing/Printing,01/12/1989,p_mean,3.646119
+69,Developing/Printing,01/12/1989,p25,3.49
+70,Developing/Printing,01/12/1989,p_median,3.49
+71,Developing/Printing,01/12/1989,p75,3.99
+72,35mm colour film - 24 EXP,01/01/1990,p_mean,2.430968
+73,35mm colour film - 24 EXP,01/01/1990,p25,2.19
+74,35mm colour film - 24 EXP,01/01/1990,p_median,2.29
+75,35mm colour film - 24 EXP,01/01/1990,p75,2.79
+76,Developing/Printing,01/01/1990,p_mean,3.695588
+77,Developing/Printing,01/01/1990,p25,3.49
+78,Developing/Printing,01/01/1990,p_median,3.69
+79,Developing/Printing,01/01/1990,p75,3.99
+80,35mm Compact Camera,01/02/1990,p_mean,52.52
+81,35mm Compact Camera,01/02/1990,p25,44.59
+82,35mm Compact Camera,01/02/1990,p_median,49.95
+83,35mm Compact Camera,01/02/1990,p75,49.99
+84,35mm colour film - 24 EXP,01/02/1990,p_mean,2.556316
+85,35mm colour film - 24 EXP,01/02/1990,p25,2.19
+86,35mm colour film - 24 EXP,01/02/1990,p_median,2.65
+87,35mm colour film - 24 EXP,01/02/1990,p75,2.99
+88,Developing/Printing,01/02/1990,p_mean,3.707973
+89,Developing/Printing,01/02/1990,p25,3.49
+90,Developing/Printing,01/02/1990,p_median,3.69
+91,Developing/Printing,01/02/1990,p75,3.99
+92,Developing/Printing,01/03/1990,p_mean,3.73718
+93,Developing/Printing,01/03/1990,p25,3.49
+94,Developing/Printing,01/03/1990,p_median,3.69
+95,Developing/Printing,01/03/1990,p75,4.0
+96,35mm colour film - 24 EXP,01/03/1990,p_mean,2.577778
+97,35mm colour film - 24 EXP,01/03/1990,p25,2.19
+98,35mm colour film - 24 EXP,01/03/1990,p_median,2.5
+99,35mm colour film - 24 EXP,01/03/1990,p75,2.99
+100,35mm Compact Camera,01/03/1990,p_mean,51.2646
+101,35mm Compact Camera,01/03/1990,p25,39.99
+102,35mm Compact Camera,01/03/1990,p_median,49.95
+103,35mm Compact Camera,01/03/1990,p75,49.99
+104,35mm Compact Camera,01/04/1990,p_mean,51.84081
+105,35mm Compact Camera,01/04/1990,p25,39.99
+106,35mm Compact Camera,01/04/1990,p_median,49.95
+107,35mm Compact Camera,01/04/1990,p75,49.99
+108,Developing/Printing,01/04/1990,p_mean,3.757297
+109,Developing/Printing,01/04/1990,p25,3.49
+110,Developing/Printing,01/04/1990,p_median,3.69
+111,Developing/Printing,01/04/1990,p75,4.38
+112,35mm colour film - 24 EXP,01/04/1990,p_mean,2.590533
+113,35mm colour film - 24 EXP,01/04/1990,p25,2.19
+114,35mm colour film - 24 EXP,01/04/1990,p_median,2.49
+115,35mm colour film - 24 EXP,01/04/1990,p75,2.99
+116,35mm colour film - 24 EXP,01/05/1990,p_mean,2.635663
+117,35mm colour film - 24 EXP,01/05/1990,p25,2.19
+118,35mm colour film - 24 EXP,01/05/1990,p_median,2.59
+119,35mm colour film - 24 EXP,01/05/1990,p75,2.99
+120,Developing/Printing,01/05/1990,p_mean,3.75141
+121,Developing/Printing,01/05/1990,p25,3.49
+122,Developing/Printing,01/05/1990,p_median,3.69
+123,Developing/Printing,01/05/1990,p75,4.29
+124,35mm Compact Camera,01/05/1990,p_mean,49.24053
+125,35mm Compact Camera,01/05/1990,p25,39.99
+126,35mm Compact Camera,01/05/1990,p_median,49.95
+127,35mm Compact Camera,01/05/1990,p75,49.99
+128,35mm Compact Camera,01/06/1990,p_mean,47.61846
+129,35mm Compact Camera,01/06/1990,p25,39.99
+130,35mm Compact Camera,01/06/1990,p_median,49.95
+131,35mm Compact Camera,01/06/1990,p75,49.99
+132,Developing/Printing,01/06/1990,p_mean,3.8
+133,Developing/Printing,01/06/1990,p25,3.49
+134,Developing/Printing,01/06/1990,p_median,3.69
+135,Developing/Printing,01/06/1990,p75,4.49
+136,35mm colour film - 24 EXP,01/06/1990,p_mean,2.620685
+137,35mm colour film - 24 EXP,01/06/1990,p25,2.25
+138,35mm colour film - 24 EXP,01/06/1990,p_median,2.5
+139,35mm colour film - 24 EXP,01/06/1990,p75,2.99
+140,Developing/Printing,01/07/1990,p_mean,3.807746
+141,Developing/Printing,01/07/1990,p25,3.49
+142,Developing/Printing,01/07/1990,p_median,3.69
+143,Developing/Printing,01/07/1990,p75,4.49
+144,35mm Compact Camera,01/07/1990,p_mean,49.54784
+145,35mm Compact Camera,01/07/1990,p25,39.99
+146,35mm Compact Camera,01/07/1990,p_median,49.95
+147,35mm Compact Camera,01/07/1990,p75,49.99
+148,35mm colour film - 24 EXP,01/07/1990,p_mean,2.612105
+149,35mm colour film - 24 EXP,01/07/1990,p25,2.19
+150,35mm colour film - 24 EXP,01/07/1990,p_median,2.44
+151,35mm colour film - 24 EXP,01/07/1990,p75,2.99
+152,Developing/Printing,01/08/1990,p_mean,3.753649
+153,Developing/Printing,01/08/1990,p25,3.49
+154,Developing/Printing,01/08/1990,p_median,3.69
+155,Developing/Printing,01/08/1990,p75,4.49
+156,35mm Compact Camera,01/08/1990,p_mean,49.95472
+157,35mm Compact Camera,01/08/1990,p25,39.99
+158,35mm Compact Camera,01/08/1990,p_median,49.95
+159,35mm Compact Camera,01/08/1990,p75,49.99
+160,35mm colour film - 24 EXP,01/08/1990,p_mean,2.64782
+161,35mm colour film - 24 EXP,01/08/1990,p25,2.25
+162,35mm colour film - 24 EXP,01/08/1990,p_median,2.645
+163,35mm colour film - 24 EXP,01/08/1990,p75,2.99
+164,35mm Compact Camera,01/09/1990,p_mean,49.27296
+165,35mm Compact Camera,01/09/1990,p25,39.99
+166,35mm Compact Camera,01/09/1990,p_median,49.95
+167,35mm Compact Camera,01/09/1990,p75,49.99
+168,Developing/Printing,01/09/1990,p_mean,3.809205
+169,Developing/Printing,01/09/1990,p25,3.49
+170,Developing/Printing,01/09/1990,p_median,3.95
+171,Developing/Printing,01/09/1990,p75,4.49
+172,35mm colour film - 24 EXP,01/09/1990,p_mean,2.678256
+173,35mm colour film - 24 EXP,01/09/1990,p25,2.25
+174,35mm colour film - 24 EXP,01/09/1990,p_median,2.645
+175,35mm colour film - 24 EXP,01/09/1990,p75,2.99
+176,Developing/Printing,01/10/1990,p_mean,3.783441
+177,Developing/Printing,01/10/1990,p25,3.49
+178,Developing/Printing,01/10/1990,p_median,3.99
+179,Developing/Printing,01/10/1990,p75,4.49
+180,35mm Compact Camera,01/10/1990,p_mean,48.32353
+181,35mm Compact Camera,01/10/1990,p25,39.99
+182,35mm Compact Camera,01/10/1990,p_median,49.95
+183,35mm Compact Camera,01/10/1990,p75,49.99
+184,35mm colour film - 24 EXP,01/10/1990,p_mean,2.663118
+185,35mm colour film - 24 EXP,01/10/1990,p25,2.29
+186,35mm colour film - 24 EXP,01/10/1990,p_median,2.6
+187,35mm colour film - 24 EXP,01/10/1990,p75,2.99
+188,35mm colour film - 24 EXP,01/11/1990,p_mean,2.673838
+189,35mm colour film - 24 EXP,01/11/1990,p25,2.29
+190,35mm colour film - 24 EXP,01/11/1990,p_median,2.6
+191,35mm colour film - 24 EXP,01/11/1990,p75,2.99
+192,35mm Compact Camera,01/11/1990,p_mean,48.40667
+193,35mm Compact Camera,01/11/1990,p25,39.99
+194,35mm Compact Camera,01/11/1990,p_median,49.95
+195,35mm Compact Camera,01/11/1990,p75,49.99
+196,Developing/Printing,01/11/1990,p_mean,3.86835
+197,Developing/Printing,01/11/1990,p25,3.49
+198,Developing/Printing,01/11/1990,p_median,3.99
+199,Developing/Printing,01/11/1990,p75,4.49
+200,35mm colour film - 24 EXP,01/12/1990,p_mean,2.730952
+201,35mm colour film - 24 EXP,01/12/1990,p25,2.29
+202,35mm colour film - 24 EXP,01/12/1990,p_median,2.89
+203,35mm colour film - 24 EXP,01/12/1990,p75,2.99
+204,35mm Compact Camera,01/12/1990,p_mean,49.45484
+205,35mm Compact Camera,01/12/1990,p25,39.99
+206,35mm Compact Camera,01/12/1990,p_median,49.95
+207,35mm Compact Camera,01/12/1990,p75,49.99
+208,Developing/Printing,01/12/1990,p_mean,3.858868
+209,Developing/Printing,01/12/1990,p25,3.49
+210,Developing/Printing,01/12/1990,p_median,3.99
+211,Developing/Printing,01/12/1990,p75,4.49
+212,35mm Compact Camera,01/01/1991,p_mean,47.41404
+213,35mm Compact Camera,01/01/1991,p25,39.95
+214,35mm Compact Camera,01/01/1991,p_median,44.495
+215,35mm Compact Camera,01/01/1991,p75,49.99
+216,Developing/Printing,01/01/1991,p_mean,3.850312
+217,Developing/Printing,01/01/1991,p25,3.49
+218,Developing/Printing,01/01/1991,p_median,3.99
+219,Developing/Printing,01/01/1991,p75,4.49
+220,35mm colour film - 24 EXP,01/01/1991,p_mean,2.710918
+221,35mm colour film - 24 EXP,01/01/1991,p25,2.29
+222,35mm colour film - 24 EXP,01/01/1991,p_median,2.75
+223,35mm colour film - 24 EXP,01/01/1991,p75,2.99
+224,Developing/Printing,01/02/1991,p_mean,3.964574
+225,Developing/Printing,01/02/1991,p25,3.49
+226,Developing/Printing,01/02/1991,p_median,3.99
+227,Developing/Printing,01/02/1991,p75,4.49
+228,35mm colour film - 24 EXP,01/02/1991,p_mean,2.680458
+229,35mm colour film - 24 EXP,01/02/1991,p25,2.29
+230,35mm colour film - 24 EXP,01/02/1991,p_median,2.85
+231,35mm colour film - 24 EXP,01/02/1991,p75,2.99
+232,35mm Compact Camera,01/02/1991,p_mean,48.92016
+233,35mm Compact Camera,01/02/1991,p25,34.5
+234,35mm Compact Camera,01/02/1991,p_median,39.99
+235,35mm Compact Camera,01/02/1991,p75,69.95
+236,Developing/Printing,01/03/1991,p_mean,3.968939
+237,Developing/Printing,01/03/1991,p25,3.49
+238,Developing/Printing,01/03/1991,p_median,3.99
+239,Developing/Printing,01/03/1991,p75,4.49
+240,35mm colour film - 24 EXP,01/03/1991,p_mean,2.686538
+241,35mm colour film - 24 EXP,01/03/1991,p25,2.29
+242,35mm colour film - 24 EXP,01/03/1991,p_median,2.8
+243,35mm colour film - 24 EXP,01/03/1991,p75,2.99
+244,35mm Compact Camera,01/03/1991,p_mean,48.44963
+245,35mm Compact Camera,01/03/1991,p25,34.5
+246,35mm Compact Camera,01/03/1991,p_median,39.99
+247,35mm Compact Camera,01/03/1991,p75,64.99
+248,35mm Compact Camera,01/04/1991,p_mean,48.55458
+249,35mm Compact Camera,01/04/1991,p25,35.25
+250,35mm Compact Camera,01/04/1991,p_median,44.99
+251,35mm Compact Camera,01/04/1991,p75,61.2
+252,Developing/Printing,01/04/1991,p_mean,4.07309
+253,Developing/Printing,01/04/1991,p25,3.59
+254,Developing/Printing,01/04/1991,p_median,3.99
+255,Developing/Printing,01/04/1991,p75,4.69
+256,35mm colour film - 24 EXP,01/04/1991,p_mean,2.738382
+257,35mm colour film - 24 EXP,01/04/1991,p25,2.39
+258,35mm colour film - 24 EXP,01/04/1991,p_median,2.99
+259,35mm colour film - 24 EXP,01/04/1991,p75,3.06
+260,35mm Compact Camera,01/05/1991,p_mean,47.93275
+261,35mm Compact Camera,01/05/1991,p25,35.25
+262,35mm Compact Camera,01/05/1991,p_median,44.99
+263,35mm Compact Camera,01/05/1991,p75,53.975
+264,Developing/Printing,01/05/1991,p_mean,3.974797
+265,Developing/Printing,01/05/1991,p25,3.59
+266,Developing/Printing,01/05/1991,p_median,3.99
+267,Developing/Printing,01/05/1991,p75,4.56
+268,35mm colour film - 24 EXP,01/05/1991,p_mean,2.740904
+269,35mm colour film - 24 EXP,01/05/1991,p25,2.49
+270,35mm colour film - 24 EXP,01/05/1991,p_median,2.87
+271,35mm colour film - 24 EXP,01/05/1991,p75,3.06
+272,35mm colour film - 24 EXP,01/06/1991,p_mean,2.746593
+273,35mm colour film - 24 EXP,01/06/1991,p25,2.49
+274,35mm colour film - 24 EXP,01/06/1991,p_median,2.87
+275,35mm colour film - 24 EXP,01/06/1991,p75,3.06
+276,35mm Compact Camera,01/06/1991,p_mean,47.88401
+277,35mm Compact Camera,01/06/1991,p25,35.25
+278,35mm Compact Camera,01/06/1991,p_median,44.99
+279,35mm Compact Camera,01/06/1991,p75,51.5
+280,Developing/Printing,01/06/1991,p_mean,3.900994
+281,Developing/Printing,01/06/1991,p25,3.49
+282,Developing/Printing,01/06/1991,p_median,3.99
+283,Developing/Printing,01/06/1991,p75,4.49
+284,35mm Compact Camera,01/07/1991,p_mean,49.23454
+285,35mm Compact Camera,01/07/1991,p25,35.25
+286,35mm Compact Camera,01/07/1991,p_median,44.99
+287,35mm Compact Camera,01/07/1991,p75,55.0
+288,Developing/Printing,01/07/1991,p_mean,3.945705
+289,Developing/Printing,01/07/1991,p25,3.49
+290,Developing/Printing,01/07/1991,p_median,3.99
+291,Developing/Printing,01/07/1991,p75,4.59
+292,35mm colour film - 24 EXP,01/07/1991,p_mean,2.764108
+293,35mm colour film - 24 EXP,01/07/1991,p25,2.49
+294,35mm colour film - 24 EXP,01/07/1991,p_median,2.89
+295,35mm colour film - 24 EXP,01/07/1991,p75,3.06
+296,Developing/Printing,01/08/1991,p_mean,3.974734
+297,Developing/Printing,01/08/1991,p25,3.49
+298,Developing/Printing,01/08/1991,p_median,3.99
+299,Developing/Printing,01/08/1991,p75,4.69
+300,35mm Compact Camera,01/08/1991,p_mean,48.53687
+301,35mm Compact Camera,01/08/1991,p25,38.5
+302,35mm Compact Camera,01/08/1991,p_median,44.95
+303,35mm Compact Camera,01/08/1991,p75,54.99
+304,35mm colour film - 24 EXP,01/08/1991,p_mean,2.771081
+305,35mm colour film - 24 EXP,01/08/1991,p25,2.49
+306,35mm colour film - 24 EXP,01/08/1991,p_median,2.99
+307,35mm colour film - 24 EXP,01/08/1991,p75,3.06
+308,35mm Compact Camera,01/09/1991,p_mean,50.17276
+309,35mm Compact Camera,01/09/1991,p25,38.5
+310,35mm Compact Camera,01/09/1991,p_median,44.995
+311,35mm Compact Camera,01/09/1991,p75,59.99
+312,Developing/Printing,01/09/1991,p_mean,3.975051
+313,Developing/Printing,01/09/1991,p25,3.49
+314,Developing/Printing,01/09/1991,p_median,3.99
+315,Developing/Printing,01/09/1991,p75,4.69
+316,35mm colour film - 24 EXP,01/09/1991,p_mean,2.751726
+317,35mm colour film - 24 EXP,01/09/1991,p25,2.49
+318,35mm colour film - 24 EXP,01/09/1991,p_median,2.99
+319,35mm colour film - 24 EXP,01/09/1991,p75,3.06
+320,35mm colour film - 24 EXP,01/10/1991,p_mean,2.791287
+321,35mm colour film - 24 EXP,01/10/1991,p25,2.49
+322,35mm colour film - 24 EXP,01/10/1991,p_median,2.99
+323,35mm colour film - 24 EXP,01/10/1991,p75,3.06
+324,Developing/Printing,01/10/1991,p_mean,4.019807
+325,Developing/Printing,01/10/1991,p25,3.49
+326,Developing/Printing,01/10/1991,p_median,3.99
+327,Developing/Printing,01/10/1991,p75,4.69
+328,35mm Compact Camera,01/10/1991,p_mean,49.1277
+329,35mm Compact Camera,01/10/1991,p25,34.99
+330,35mm Compact Camera,01/10/1991,p_median,44.95
+331,35mm Compact Camera,01/10/1991,p75,59.99
+332,Developing/Printing,01/11/1991,p_mean,4.040944
+333,Developing/Printing,01/11/1991,p25,3.49
+334,Developing/Printing,01/11/1991,p_median,3.99
+335,Developing/Printing,01/11/1991,p75,4.69
+336,35mm Compact Camera,01/11/1991,p_mean,50.22837
+337,35mm Compact Camera,01/11/1991,p25,38.5
+338,35mm Compact Camera,01/11/1991,p_median,44.99
+339,35mm Compact Camera,01/11/1991,p75,59.99
+340,35mm colour film - 24 EXP,01/11/1991,p_mean,2.795941
+341,35mm colour film - 24 EXP,01/11/1991,p25,2.49
+342,35mm colour film - 24 EXP,01/11/1991,p_median,2.99
+343,35mm colour film - 24 EXP,01/11/1991,p75,3.06
+344,Developing/Printing,01/12/1991,p_mean,4.05785
+345,Developing/Printing,01/12/1991,p25,3.49
+346,Developing/Printing,01/12/1991,p_median,4.08
+347,Developing/Printing,01/12/1991,p75,4.69
+348,35mm Compact Camera,01/12/1991,p_mean,50.82535
+349,35mm Compact Camera,01/12/1991,p25,38.5
+350,35mm Compact Camera,01/12/1991,p_median,46.5
+351,35mm Compact Camera,01/12/1991,p75,59.99
+352,35mm colour film - 24 EXP,01/12/1991,p_mean,2.789476
+353,35mm colour film - 24 EXP,01/12/1991,p25,2.49
+354,35mm colour film - 24 EXP,01/12/1991,p_median,2.99
+355,35mm colour film - 24 EXP,01/12/1991,p75,3.06
+356,35mm Compact Camera,01/01/1992,p_mean,50.73238
+357,35mm Compact Camera,01/01/1992,p25,39.95
+358,35mm Compact Camera,01/01/1992,p_median,49.675
+359,35mm Compact Camera,01/01/1992,p75,59.99
+360,Developing/Printing,01/01/1992,p_mean,4.053548
+361,Developing/Printing,01/01/1992,p25,3.49
+362,Developing/Printing,01/01/1992,p_median,4.1
+363,Developing/Printing,01/01/1992,p75,4.69
+364,35mm colour film - 24 EXP,01/01/1992,p_mean,2.799877
+365,35mm colour film - 24 EXP,01/01/1992,p25,2.49
+366,35mm colour film - 24 EXP,01/01/1992,p_median,2.99
+367,35mm colour film - 24 EXP,01/01/1992,p75,3.06
+368,35mm Compact Camera,01/02/1992,p_mean,49.72904
+369,35mm Compact Camera,01/02/1992,p25,39.95
+370,35mm Compact Camera,01/02/1992,p_median,49.9
+371,35mm Compact Camera,01/02/1992,p75,54.99
+372,35mm colour film - 24 EXP,01/02/1992,p_mean,2.867811
+373,35mm colour film - 24 EXP,01/02/1992,p25,2.5
+374,35mm colour film - 24 EXP,01/02/1992,p_median,2.99
+375,35mm colour film - 24 EXP,01/02/1992,p75,3.06
+376,Developing/Printing,01/02/1992,p_mean,4.173524
+377,Developing/Printing,01/02/1992,p25,3.79
+378,Developing/Printing,01/02/1992,p_median,4.29
+379,Developing/Printing,01/02/1992,p75,4.69
+380,Developing/Printing,01/03/1992,p_mean,4.203348
+381,Developing/Printing,01/03/1992,p25,3.88
+382,Developing/Printing,01/03/1992,p_median,4.29
+383,Developing/Printing,01/03/1992,p75,4.69
+384,35mm Compact Camera,01/03/1992,p_mean,50.15884
+385,35mm Compact Camera,01/03/1992,p25,39.95
+386,35mm Compact Camera,01/03/1992,p_median,49.95
+387,35mm Compact Camera,01/03/1992,p75,54.99
+388,35mm colour film - 24 EXP,01/03/1992,p_mean,2.876837
+389,35mm colour film - 24 EXP,01/03/1992,p25,2.5
+390,35mm colour film - 24 EXP,01/03/1992,p_median,2.99
+391,35mm colour film - 24 EXP,01/03/1992,p75,3.06
+392,35mm colour film - 24 EXP,01/04/1992,p_mean,2.889732
+393,35mm colour film - 24 EXP,01/04/1992,p25,2.59
+394,35mm colour film - 24 EXP,01/04/1992,p_median,2.99
+395,35mm colour film - 24 EXP,01/04/1992,p75,3.19
+396,35mm Compact Camera,01/04/1992,p_mean,49.69466
+397,35mm Compact Camera,01/04/1992,p25,39.95
+398,35mm Compact Camera,01/04/1992,p_median,44.99
+399,35mm Compact Camera,01/04/1992,p75,54.99
+400,Developing/Printing,01/04/1992,p_mean,4.222371
+401,Developing/Printing,01/04/1992,p25,3.84
+402,Developing/Printing,01/04/1992,p_median,4.29
+403,Developing/Printing,01/04/1992,p75,4.69
+404,35mm Compact Camera,01/05/1992,p_mean,49.99743
+405,35mm Compact Camera,01/05/1992,p25,39.95
+406,35mm Compact Camera,01/05/1992,p_median,44.99
+407,35mm Compact Camera,01/05/1992,p75,54.99
+408,Developing/Printing,01/05/1992,p_mean,4.224723
+409,Developing/Printing,01/05/1992,p25,3.89
+410,Developing/Printing,01/05/1992,p_median,4.29
+411,Developing/Printing,01/05/1992,p75,4.69
+412,35mm colour film - 24 EXP,01/05/1992,p_mean,2.90059
+413,35mm colour film - 24 EXP,01/05/1992,p25,2.59
+414,35mm colour film - 24 EXP,01/05/1992,p_median,2.99
+415,35mm colour film - 24 EXP,01/05/1992,p75,3.19
+416,Developing/Printing,01/06/1992,p_mean,4.205311
+417,Developing/Printing,01/06/1992,p25,3.75
+418,Developing/Printing,01/06/1992,p_median,4.29
+419,Developing/Printing,01/06/1992,p75,4.69
+420,35mm colour film - 24 EXP,01/06/1992,p_mean,2.900506
+421,35mm colour film - 24 EXP,01/06/1992,p25,2.59
+422,35mm colour film - 24 EXP,01/06/1992,p_median,2.99
+423,35mm colour film - 24 EXP,01/06/1992,p75,3.19
+424,35mm Compact Camera,01/06/1992,p_mean,50.66242
+425,35mm Compact Camera,01/06/1992,p25,39.99
+426,35mm Compact Camera,01/06/1992,p_median,49.95
+427,35mm Compact Camera,01/06/1992,p75,57.47
+428,Developing/Printing,01/07/1992,p_mean,4.215289
+429,Developing/Printing,01/07/1992,p25,3.69
+430,Developing/Printing,01/07/1992,p_median,4.29
+431,Developing/Printing,01/07/1992,p75,4.69
+432,35mm Compact Camera,01/07/1992,p_mean,50.00389
+433,35mm Compact Camera,01/07/1992,p25,39.95
+434,35mm Compact Camera,01/07/1992,p_median,49.5
+435,35mm Compact Camera,01/07/1992,p75,54.99
+436,35mm colour film - 24 EXP,01/07/1992,p_mean,2.909873
+437,35mm colour film - 24 EXP,01/07/1992,p25,2.59
+438,35mm colour film - 24 EXP,01/07/1992,p_median,2.99
+439,35mm colour film - 24 EXP,01/07/1992,p75,3.19
+440,Developing/Printing,01/08/1992,p_mean,4.250418
+441,Developing/Printing,01/08/1992,p25,3.69
+442,Developing/Printing,01/08/1992,p_median,4.29
+443,Developing/Printing,01/08/1992,p75,4.94
+444,35mm Compact Camera,01/08/1992,p_mean,49.46785
+445,35mm Compact Camera,01/08/1992,p25,37.5
+446,35mm Compact Camera,01/08/1992,p_median,49.5
+447,35mm Compact Camera,01/08/1992,p75,54.99
+448,35mm colour film - 24 EXP,01/08/1992,p_mean,2.82414
+449,35mm colour film - 24 EXP,01/08/1992,p25,2.59
+450,35mm colour film - 24 EXP,01/08/1992,p_median,2.99
+451,35mm colour film - 24 EXP,01/08/1992,p75,3.19
+452,35mm Compact Camera,01/09/1992,p_mean,48.9082
+453,35mm Compact Camera,01/09/1992,p25,37.5
+454,35mm Compact Camera,01/09/1992,p_median,46.245
+455,35mm Compact Camera,01/09/1992,p75,54.99
+456,35mm colour film - 24 EXP,01/09/1992,p_mean,2.880935
+457,35mm colour film - 24 EXP,01/09/1992,p25,2.59
+458,35mm colour film - 24 EXP,01/09/1992,p_median,2.99
+459,35mm colour film - 24 EXP,01/09/1992,p75,3.19
+460,Developing/Printing,01/09/1992,p_mean,4.259724
+461,Developing/Printing,01/09/1992,p25,3.69
+462,Developing/Printing,01/09/1992,p_median,4.29
+463,Developing/Printing,01/09/1992,p75,4.99
+464,Developing/Printing,01/10/1992,p_mean,4.263386
+465,Developing/Printing,01/10/1992,p25,3.69
+466,Developing/Printing,01/10/1992,p_median,4.29
+467,Developing/Printing,01/10/1992,p75,4.99
+468,35mm Compact Camera,01/10/1992,p_mean,49.83874
+469,35mm Compact Camera,01/10/1992,p25,35.99
+470,35mm Compact Camera,01/10/1992,p_median,49.725
+471,35mm Compact Camera,01/10/1992,p75,59.99
+472,35mm colour film - 24 EXP,01/10/1992,p_mean,2.851755
+473,35mm colour film - 24 EXP,01/10/1992,p25,2.59
+474,35mm colour film - 24 EXP,01/10/1992,p_median,2.99
+475,35mm colour film - 24 EXP,01/10/1992,p75,3.19
+476,35mm colour film - 24 EXP,01/11/1992,p_mean,2.85486
+477,35mm colour film - 24 EXP,01/11/1992,p25,2.59
+478,35mm colour film - 24 EXP,01/11/1992,p_median,2.99
+479,35mm colour film - 24 EXP,01/11/1992,p75,3.19
+480,Developing/Printing,01/11/1992,p_mean,4.27062
+481,Developing/Printing,01/11/1992,p25,3.69
+482,Developing/Printing,01/11/1992,p_median,4.32
+483,Developing/Printing,01/11/1992,p75,4.99
+484,35mm Compact Camera,01/11/1992,p_mean,50.09381
+485,35mm Compact Camera,01/11/1992,p25,37.5
+486,35mm Compact Camera,01/11/1992,p_median,49.95
+487,35mm Compact Camera,01/11/1992,p75,59.95
+488,35mm colour film - 24 EXP,01/12/1992,p_mean,2.841724
+489,35mm colour film - 24 EXP,01/12/1992,p25,2.59
+490,35mm colour film - 24 EXP,01/12/1992,p_median,2.99
+491,35mm colour film - 24 EXP,01/12/1992,p75,3.19
+492,35mm Compact Camera,01/12/1992,p_mean,51.42228
+493,35mm Compact Camera,01/12/1992,p25,37.5
+494,35mm Compact Camera,01/12/1992,p_median,49.95
+495,35mm Compact Camera,01/12/1992,p75,59.99
+496,Developing/Printing,01/12/1992,p_mean,4.291602
+497,Developing/Printing,01/12/1992,p25,3.69
+498,Developing/Printing,01/12/1992,p_median,4.49
+499,Developing/Printing,01/12/1992,p75,4.99
+500,35mm Compact Camera,01/01/1993,p_mean,49.72205
+501,35mm Compact Camera,01/01/1993,p25,37.5
+502,35mm Compact Camera,01/01/1993,p_median,49.5
+503,35mm Compact Camera,01/01/1993,p75,59.475
+504,Developing/Printing,01/01/1993,p_mean,4.270271
+505,Developing/Printing,01/01/1993,p25,3.49
+506,Developing/Printing,01/01/1993,p_median,4.29
+507,Developing/Printing,01/01/1993,p75,4.99
+508,35mm colour film - 24 EXP,01/01/1993,p_mean,2.8777
+509,35mm colour film - 24 EXP,01/01/1993,p25,2.59
+510,35mm colour film - 24 EXP,01/01/1993,p_median,3.03
+511,35mm colour film - 24 EXP,01/01/1993,p75,3.19
+512,35mm colour film - 24 EXP,01/02/1993,p_mean,2.841662
+513,35mm colour film - 24 EXP,01/02/1993,p25,2.59
+514,35mm colour film - 24 EXP,01/02/1993,p_median,2.99
+515,35mm colour film - 24 EXP,01/02/1993,p75,3.19
+516,35mm Compact Camera,01/02/1993,p_mean,52.24171
+517,35mm Compact Camera,01/02/1993,p25,39.99
+518,35mm Compact Camera,01/02/1993,p_median,49.95
+519,35mm Compact Camera,01/02/1993,p75,59.99
+520,Developing/Printing,01/02/1993,p_mean,4.257591
+521,Developing/Printing,01/02/1993,p25,3.49
+522,Developing/Printing,01/02/1993,p_median,4.425
+523,Developing/Printing,01/02/1993,p75,4.99
+524,35mm colour film - 24 EXP,01/03/1993,p_mean,2.888592
+525,35mm colour film - 24 EXP,01/03/1993,p25,2.59
+526,35mm colour film - 24 EXP,01/03/1993,p_median,3.075
+527,35mm colour film - 24 EXP,01/03/1993,p75,3.39
+528,35mm Compact Camera,01/03/1993,p_mean,51.59138
+529,35mm Compact Camera,01/03/1993,p25,37.99
+530,35mm Compact Camera,01/03/1993,p_median,49.5
+531,35mm Compact Camera,01/03/1993,p75,54.99
+532,Developing/Printing,01/03/1993,p_mean,4.243418
+533,Developing/Printing,01/03/1993,p25,3.49
+534,Developing/Printing,01/03/1993,p_median,4.45
+535,Developing/Printing,01/03/1993,p75,4.99
+536,35mm Compact Camera,01/04/1993,p_mean,52.46165
+537,35mm Compact Camera,01/04/1993,p25,37.99
+538,35mm Compact Camera,01/04/1993,p_median,49.95
+539,35mm Compact Camera,01/04/1993,p75,59.99
+540,35mm colour film - 24 EXP,01/04/1993,p_mean,2.915896
+541,35mm colour film - 24 EXP,01/04/1993,p25,2.59
+542,35mm colour film - 24 EXP,01/04/1993,p_median,3.095
+543,35mm colour film - 24 EXP,01/04/1993,p75,3.39
+544,Developing/Printing,01/04/1993,p_mean,4.225183
+545,Developing/Printing,01/04/1993,p25,3.49
+546,Developing/Printing,01/04/1993,p_median,4.29
+547,Developing/Printing,01/04/1993,p75,4.99
+548,35mm colour film - 24 EXP,01/05/1993,p_mean,2.919235
+549,35mm colour film - 24 EXP,01/05/1993,p25,2.59
+550,35mm colour film - 24 EXP,01/05/1993,p_median,3.09
+551,35mm colour film - 24 EXP,01/05/1993,p75,3.39
+552,35mm Compact Camera,01/05/1993,p_mean,53.59902
+553,35mm Compact Camera,01/05/1993,p25,37.99
+554,35mm Compact Camera,01/05/1993,p_median,49.99
+555,35mm Compact Camera,01/05/1993,p75,59.99
+556,Developing/Printing,01/05/1993,p_mean,4.239203
+557,Developing/Printing,01/05/1993,p25,3.49
+558,Developing/Printing,01/05/1993,p_median,4.425
+559,Developing/Printing,01/05/1993,p75,4.99
+560,35mm colour film - 24 EXP,01/06/1993,p_mean,2.967599
+561,35mm colour film - 24 EXP,01/06/1993,p25,2.59
+562,35mm colour film - 24 EXP,01/06/1993,p_median,3.19
+563,35mm colour film - 24 EXP,01/06/1993,p75,3.39
+564,Developing/Printing,01/06/1993,p_mean,4.176487
+565,Developing/Printing,01/06/1993,p25,3.49
+566,Developing/Printing,01/06/1993,p_median,4.29
+567,Developing/Printing,01/06/1993,p75,4.99
+568,35mm Compact Camera,01/06/1993,p_mean,54.01582
+569,35mm Compact Camera,01/06/1993,p25,37.99
+570,35mm Compact Camera,01/06/1993,p_median,49.99
+571,35mm Compact Camera,01/06/1993,p75,59.99
+572,Developing/Printing,01/07/1993,p_mean,4.101495
+573,Developing/Printing,01/07/1993,p25,3.29
+574,Developing/Printing,01/07/1993,p_median,4.27
+575,Developing/Printing,01/07/1993,p75,4.85
+576,35mm Compact Camera,01/07/1993,p_mean,53.8015
+577,35mm Compact Camera,01/07/1993,p25,37.99
+578,35mm Compact Camera,01/07/1993,p_median,49.99
+579,35mm Compact Camera,01/07/1993,p75,59.99
+580,35mm colour film - 24 EXP,01/07/1993,p_mean,2.951195
+581,35mm colour film - 24 EXP,01/07/1993,p25,2.59
+582,35mm colour film - 24 EXP,01/07/1993,p_median,3.19
+583,35mm colour film - 24 EXP,01/07/1993,p75,3.39
+584,35mm Compact Camera,01/08/1993,p_mean,55.14762
+585,35mm Compact Camera,01/08/1993,p25,39.95
+586,35mm Compact Camera,01/08/1993,p_median,49.99
+587,35mm Compact Camera,01/08/1993,p75,59.99
+588,35mm colour film - 24 EXP,01/08/1993,p_mean,3.013247
+589,35mm colour film - 24 EXP,01/08/1993,p25,2.68
+590,35mm colour film - 24 EXP,01/08/1993,p_median,3.19
+591,35mm colour film - 24 EXP,01/08/1993,p75,3.39
+592,Developing/Printing,01/08/1993,p_mean,4.045638
+593,Developing/Printing,01/08/1993,p25,2.99
+594,Developing/Printing,01/08/1993,p_median,3.99
+595,Developing/Printing,01/08/1993,p75,4.79
+596,35mm colour film - 24 EXP,01/09/1993,p_mean,2.953025
+597,35mm colour film - 24 EXP,01/09/1993,p25,2.59
+598,35mm colour film - 24 EXP,01/09/1993,p_median,3.19
+599,35mm colour film - 24 EXP,01/09/1993,p75,3.39
+600,35mm Compact Camera,01/09/1993,p_mean,56.25944
+601,35mm Compact Camera,01/09/1993,p25,39.99
+602,35mm Compact Camera,01/09/1993,p_median,49.99
+603,35mm Compact Camera,01/09/1993,p75,59.99
+604,Developing/Printing,01/09/1993,p_mean,4.095563
+605,Developing/Printing,01/09/1993,p25,3.25
+606,Developing/Printing,01/09/1993,p_median,3.99
+607,Developing/Printing,01/09/1993,p75,4.75
+608,35mm Compact Camera,01/10/1993,p_mean,55.85551
+609,35mm Compact Camera,01/10/1993,p25,39.97
+610,35mm Compact Camera,01/10/1993,p_median,50.0
+611,35mm Compact Camera,01/10/1993,p75,59.99
+612,Developing/Printing,01/10/1993,p_mean,4.084983
+613,Developing/Printing,01/10/1993,p25,2.99
+614,Developing/Printing,01/10/1993,p_median,3.99
+615,Developing/Printing,01/10/1993,p75,4.75
+616,35mm colour film - 24 EXP,01/10/1993,p_mean,2.958384
+617,35mm colour film - 24 EXP,01/10/1993,p25,2.59
+618,35mm colour film - 24 EXP,01/10/1993,p_median,3.19
+619,35mm colour film - 24 EXP,01/10/1993,p75,3.39
+620,35mm colour film - 24 EXP,01/11/1993,p_mean,2.962044
+621,35mm colour film - 24 EXP,01/11/1993,p25,2.59
+622,35mm colour film - 24 EXP,01/11/1993,p_median,3.19
+623,35mm colour film - 24 EXP,01/11/1993,p75,3.39
+624,35mm Compact Camera,01/11/1993,p_mean,56.63926
+625,35mm Compact Camera,01/11/1993,p25,39.99
+626,35mm Compact Camera,01/11/1993,p_median,50.5
+627,35mm Compact Camera,01/11/1993,p75,59.99
+628,Developing/Printing,01/11/1993,p_mean,4.091111
+629,Developing/Printing,01/11/1993,p25,2.99
+630,Developing/Printing,01/11/1993,p_median,3.99
+631,Developing/Printing,01/11/1993,p75,4.735
+632,35mm Compact Camera,01/12/1993,p_mean,56.95063
+633,35mm Compact Camera,01/12/1993,p25,39.99
+634,35mm Compact Camera,01/12/1993,p_median,52.975
+635,35mm Compact Camera,01/12/1993,p75,59.99
+636,35mm colour film - 24 EXP,01/12/1993,p_mean,2.958716
+637,35mm colour film - 24 EXP,01/12/1993,p25,2.59
+638,35mm colour film - 24 EXP,01/12/1993,p_median,3.19
+639,35mm colour film - 24 EXP,01/12/1993,p75,3.39
+640,Developing/Printing,01/12/1993,p_mean,4.065822
+641,Developing/Printing,01/12/1993,p25,2.99
+642,Developing/Printing,01/12/1993,p_median,3.99
+643,Developing/Printing,01/12/1993,p75,4.69
+644,35mm Compact Camera,01/01/1994,p_mean,54.8238
+645,35mm Compact Camera,01/01/1994,p25,39.95
+646,35mm Compact Camera,01/01/1994,p_median,49.99
+647,35mm Compact Camera,01/01/1994,p75,59.99
+648,Developing/Printing,01/01/1994,p_mean,4.08364
+649,Developing/Printing,01/01/1994,p25,2.99
+650,Developing/Printing,01/01/1994,p_median,3.99
+651,Developing/Printing,01/01/1994,p75,4.72
+652,35mm colour film - 24 EXP,01/01/1994,p_mean,2.967186
+653,35mm colour film - 24 EXP,01/01/1994,p25,2.59
+654,35mm colour film - 24 EXP,01/01/1994,p_median,3.19
+655,35mm colour film - 24 EXP,01/01/1994,p75,3.39
+656,35mm colour film - 24 EXP,01/02/1994,p_mean,2.961795
+657,35mm colour film - 24 EXP,01/02/1994,p25,2.59
+658,35mm colour film - 24 EXP,01/02/1994,p_median,3.15
+659,35mm colour film - 24 EXP,01/02/1994,p75,3.39
+660,Developing/Printing,01/02/1994,p_mean,4.143548
+661,Developing/Printing,01/02/1994,p25,3.49
+662,Developing/Printing,01/02/1994,p_median,4.08
+663,Developing/Printing,01/02/1994,p75,4.8
+664,35mm Compact Camera,01/02/1994,p_mean,56.37502
+665,35mm Compact Camera,01/02/1994,p25,39.95
+666,35mm Compact Camera,01/02/1994,p_median,50.0
+667,35mm Compact Camera,01/02/1994,p75,59.99
+668,35mm Compact Camera,01/03/1994,p_mean,57.77254
+669,35mm Compact Camera,01/03/1994,p25,39.97
+670,35mm Compact Camera,01/03/1994,p_median,54.95
+671,35mm Compact Camera,01/03/1994,p75,62.245
+672,Developing/Printing,01/03/1994,p_mean,4.137806
+673,Developing/Printing,01/03/1994,p25,3.49
+674,Developing/Printing,01/03/1994,p_median,3.99
+675,Developing/Printing,01/03/1994,p75,4.79
+676,35mm colour film - 24 EXP,01/03/1994,p_mean,2.977629
+677,35mm colour film - 24 EXP,01/03/1994,p25,2.67
+678,35mm colour film - 24 EXP,01/03/1994,p_median,3.19
+679,35mm colour film - 24 EXP,01/03/1994,p75,3.39
+680,35mm Compact Camera,01/04/1994,p_mean,57.61177
+681,35mm Compact Camera,01/04/1994,p25,39.99
+682,35mm Compact Camera,01/04/1994,p_median,54.99
+683,35mm Compact Camera,01/04/1994,p75,59.99
+684,35mm colour film - 24 EXP,01/04/1994,p_mean,2.986916
+685,35mm colour film - 24 EXP,01/04/1994,p25,2.67
+686,35mm colour film - 24 EXP,01/04/1994,p_median,3.19
+687,35mm colour film - 24 EXP,01/04/1994,p75,3.39
+688,Developing/Printing,01/04/1994,p_mean,4.139928
+689,Developing/Printing,01/04/1994,p25,3.49
+690,Developing/Printing,01/04/1994,p_median,4.08
+691,Developing/Printing,01/04/1994,p75,4.79
+692,35mm Compact Camera,01/05/1994,p_mean,56.93591
+693,35mm Compact Camera,01/05/1994,p25,39.99
+694,35mm Compact Camera,01/05/1994,p_median,53.9
+695,35mm Compact Camera,01/05/1994,p75,59.99
+696,Developing/Printing,01/05/1994,p_mean,4.143981
+697,Developing/Printing,01/05/1994,p25,3.49
+698,Developing/Printing,01/05/1994,p_median,4.08
+699,Developing/Printing,01/05/1994,p75,4.75
+700,35mm colour film - 24 EXP,01/05/1994,p_mean,2.99703
+701,35mm colour film - 24 EXP,01/05/1994,p25,2.67
+702,35mm colour film - 24 EXP,01/05/1994,p_median,3.19
+703,35mm colour film - 24 EXP,01/05/1994,p75,3.49
+704,35mm colour film - 24 EXP,01/06/1994,p_mean,3.004809
+705,35mm colour film - 24 EXP,01/06/1994,p25,2.69
+706,35mm colour film - 24 EXP,01/06/1994,p_median,3.215
+707,35mm colour film - 24 EXP,01/06/1994,p75,3.49
+708,35mm Compact Camera,01/06/1994,p_mean,56.16585
+709,35mm Compact Camera,01/06/1994,p25,39.99
+710,35mm Compact Camera,01/06/1994,p_median,54.97
+711,35mm Compact Camera,01/06/1994,p75,59.99
+712,Developing/Printing,01/06/1994,p_mean,4.150866
+713,Developing/Printing,01/06/1994,p25,3.49
+714,Developing/Printing,01/06/1994,p_median,3.995
+715,Developing/Printing,01/06/1994,p75,4.79
+716,35mm Compact Camera,01/07/1994,p_mean,57.4257
+717,35mm Compact Camera,01/07/1994,p25,39.99
+718,35mm Compact Camera,01/07/1994,p_median,54.99
+719,35mm Compact Camera,01/07/1994,p75,59.99
+720,35mm colour film - 24 EXP,01/07/1994,p_mean,3.008533
+721,35mm colour film - 24 EXP,01/07/1994,p25,2.59
+722,35mm colour film - 24 EXP,01/07/1994,p_median,3.25
+723,35mm colour film - 24 EXP,01/07/1994,p75,3.49
+724,Developing/Printing,01/07/1994,p_mean,4.124952
+725,Developing/Printing,01/07/1994,p25,3.49
+726,Developing/Printing,01/07/1994,p_median,3.99
+727,Developing/Printing,01/07/1994,p75,4.79
+728,35mm colour film - 24 EXP,01/08/1994,p_mean,3.004986
+729,35mm colour film - 24 EXP,01/08/1994,p25,2.59
+730,35mm colour film - 24 EXP,01/08/1994,p_median,3.24
+731,35mm colour film - 24 EXP,01/08/1994,p75,3.49
+732,35mm Compact Camera,01/08/1994,p_mean,56.18386
+733,35mm Compact Camera,01/08/1994,p25,39.0
+734,35mm Compact Camera,01/08/1994,p_median,54.99
+735,35mm Compact Camera,01/08/1994,p75,59.99
+736,Developing/Printing,01/08/1994,p_mean,4.119539
+737,Developing/Printing,01/08/1994,p25,3.49
+738,Developing/Printing,01/08/1994,p_median,3.99
+739,Developing/Printing,01/08/1994,p75,4.75
+740,35mm Compact Camera,01/09/1994,p_mean,56.09489
+741,35mm Compact Camera,01/09/1994,p25,39.95
+742,35mm Compact Camera,01/09/1994,p_median,49.99
+743,35mm Compact Camera,01/09/1994,p75,59.99
+744,Developing/Printing,01/09/1994,p_mean,4.112875
+745,Developing/Printing,01/09/1994,p25,3.49
+746,Developing/Printing,01/09/1994,p_median,3.99
+747,Developing/Printing,01/09/1994,p75,4.69
+748,35mm colour film - 24 EXP,01/09/1994,p_mean,3.080674
+749,35mm colour film - 24 EXP,01/09/1994,p25,2.79
+750,35mm colour film - 24 EXP,01/09/1994,p_median,3.34
+751,35mm colour film - 24 EXP,01/09/1994,p75,3.49
+752,35mm Compact Camera,01/10/1994,p_mean,56.85406
+753,35mm Compact Camera,01/10/1994,p25,39.99
+754,35mm Compact Camera,01/10/1994,p_median,54.99
+755,35mm Compact Camera,01/10/1994,p75,59.99
+756,35mm colour film - 24 EXP,01/10/1994,p_mean,3.055745
+757,35mm colour film - 24 EXP,01/10/1994,p25,2.79
+758,35mm colour film - 24 EXP,01/10/1994,p_median,3.35
+759,35mm colour film - 24 EXP,01/10/1994,p75,3.49
+760,Developing/Printing,01/10/1994,p_mean,4.12
+761,Developing/Printing,01/10/1994,p25,3.49
+762,Developing/Printing,01/10/1994,p_median,3.99
+763,Developing/Printing,01/10/1994,p75,4.69
+764,35mm colour film - 24 EXP,01/11/1994,p_mean,3.044259
+765,35mm colour film - 24 EXP,01/11/1994,p25,2.79
+766,35mm colour film - 24 EXP,01/11/1994,p_median,3.3
+767,35mm colour film - 24 EXP,01/11/1994,p75,3.49
+768,Developing/Printing,01/11/1994,p_mean,4.120892
+769,Developing/Printing,01/11/1994,p25,3.49
+770,Developing/Printing,01/11/1994,p_median,3.99
+771,Developing/Printing,01/11/1994,p75,4.69
+772,35mm Compact Camera,01/11/1994,p_mean,56.48866
+773,35mm Compact Camera,01/11/1994,p25,39.99
+774,35mm Compact Camera,01/11/1994,p_median,49.99
+775,35mm Compact Camera,01/11/1994,p75,59.99
+776,Developing/Printing,01/12/1994,p_mean,4.083205
+777,Developing/Printing,01/12/1994,p25,3.49
+778,Developing/Printing,01/12/1994,p_median,3.99
+779,Developing/Printing,01/12/1994,p75,4.69
+780,35mm colour film - 24 EXP,01/12/1994,p_mean,3.047243
+781,35mm colour film - 24 EXP,01/12/1994,p25,2.79
+782,35mm colour film - 24 EXP,01/12/1994,p_median,3.29
+783,35mm colour film - 24 EXP,01/12/1994,p75,3.49
+784,35mm Compact Camera,01/12/1994,p_mean,56.00253
+785,35mm Compact Camera,01/12/1994,p25,39.95
+786,35mm Compact Camera,01/12/1994,p_median,49.99
+787,35mm Compact Camera,01/12/1994,p75,59.99
+788,35mm Compact Camera,01/01/1995,p_mean,55.30579
+789,35mm Compact Camera,01/01/1995,p25,39.99
+790,35mm Compact Camera,01/01/1995,p_median,49.99
+791,35mm Compact Camera,01/01/1995,p75,59.99
+792,35mm colour film - 24 EXP,01/01/1995,p_mean,3.050081
+793,35mm colour film - 24 EXP,01/01/1995,p25,2.79
+794,35mm colour film - 24 EXP,01/01/1995,p_median,3.3
+795,35mm colour film - 24 EXP,01/01/1995,p75,3.49
+796,Developing/Printing,01/01/1995,p_mean,4.09949
+797,Developing/Printing,01/01/1995,p25,3.49
+798,Developing/Printing,01/01/1995,p_median,3.99
+799,Developing/Printing,01/01/1995,p75,4.69
+800,35mm Compact Camera,01/02/1995,p_mean,55.8938
+801,35mm Compact Camera,01/02/1995,p25,39.95
+802,35mm Compact Camera,01/02/1995,p_median,49.99
+803,35mm Compact Camera,01/02/1995,p75,59.99
+804,Developing/Printing,01/02/1995,p_mean,4.03894
+805,Developing/Printing,01/02/1995,p25,2.99
+806,Developing/Printing,01/02/1995,p_median,3.99
+807,Developing/Printing,01/02/1995,p75,4.69
+808,35mm colour film - 24 EXP,01/02/1995,p_mean,3.026676
+809,35mm colour film - 24 EXP,01/02/1995,p25,2.59
+810,35mm colour film - 24 EXP,01/02/1995,p_median,3.29
+811,35mm colour film - 24 EXP,01/02/1995,p75,3.49
+812,35mm Compact Camera,01/03/1995,p_mean,56.2007
+813,35mm Compact Camera,01/03/1995,p25,39.95
+814,35mm Compact Camera,01/03/1995,p_median,49.99
+815,35mm Compact Camera,01/03/1995,p75,59.99
+816,35mm colour film - 24 EXP,01/03/1995,p_mean,3.046092
+817,35mm colour film - 24 EXP,01/03/1995,p25,2.69
+818,35mm colour film - 24 EXP,01/03/1995,p_median,3.33
+819,35mm colour film - 24 EXP,01/03/1995,p75,3.49
+820,Developing/Printing,01/03/1995,p_mean,4.084196
+821,Developing/Printing,01/03/1995,p25,3.49
+822,Developing/Printing,01/03/1995,p_median,3.99
+823,Developing/Printing,01/03/1995,p75,4.69
+824,Developing/Printing,01/04/1995,p_mean,4.092423
+825,Developing/Printing,01/04/1995,p25,3.49
+826,Developing/Printing,01/04/1995,p_median,3.99
+827,Developing/Printing,01/04/1995,p75,4.69
+828,35mm Compact Camera,01/04/1995,p_mean,55.3333
+829,35mm Compact Camera,01/04/1995,p25,39.95
+830,35mm Compact Camera,01/04/1995,p_median,49.99
+831,35mm Compact Camera,01/04/1995,p75,59.99
+832,35mm colour film - 24 EXP,01/04/1995,p_mean,3.046516
+833,35mm colour film - 24 EXP,01/04/1995,p25,2.79
+834,35mm colour film - 24 EXP,01/04/1995,p_median,3.29
+835,35mm colour film - 24 EXP,01/04/1995,p75,3.49
+836,Developing/Printing,01/05/1995,p_mean,4.094204
+837,Developing/Printing,01/05/1995,p25,3.49
+838,Developing/Printing,01/05/1995,p_median,3.99
+839,Developing/Printing,01/05/1995,p75,4.69
+840,35mm Compact Camera,01/05/1995,p_mean,55.42641
+841,35mm Compact Camera,01/05/1995,p25,39.99
+842,35mm Compact Camera,01/05/1995,p_median,49.99
+843,35mm Compact Camera,01/05/1995,p75,59.99
+844,35mm colour film - 24 EXP,01/05/1995,p_mean,3.05882
+845,35mm colour film - 24 EXP,01/05/1995,p25,2.79
+846,35mm colour film - 24 EXP,01/05/1995,p_median,3.3
+847,35mm colour film - 24 EXP,01/05/1995,p75,3.49
+848,Developing/Printing,01/06/1995,p_mean,4.094564
+849,Developing/Printing,01/06/1995,p25,3.49
+850,Developing/Printing,01/06/1995,p_median,3.99
+851,Developing/Printing,01/06/1995,p75,4.69
+852,35mm Compact Camera,01/06/1995,p_mean,55.34521
+853,35mm Compact Camera,01/06/1995,p25,39.99
+854,35mm Compact Camera,01/06/1995,p_median,49.99
+855,35mm Compact Camera,01/06/1995,p75,59.99
+856,35mm colour film - 24 EXP,01/06/1995,p_mean,3.062187
+857,35mm colour film - 24 EXP,01/06/1995,p25,2.79
+858,35mm colour film - 24 EXP,01/06/1995,p_median,3.39
+859,35mm colour film - 24 EXP,01/06/1995,p75,3.49
+860,Developing/Printing,01/07/1995,p_mean,4.020625
+861,Developing/Printing,01/07/1995,p25,3.19
+862,Developing/Printing,01/07/1995,p_median,3.99
+863,Developing/Printing,01/07/1995,p75,4.565
+864,35mm colour film - 24 EXP,01/07/1995,p_mean,3.079483
+865,35mm colour film - 24 EXP,01/07/1995,p25,2.79
+866,35mm colour film - 24 EXP,01/07/1995,p_median,3.39
+867,35mm colour film - 24 EXP,01/07/1995,p75,3.49
+868,35mm Compact Camera,01/07/1995,p_mean,55.22177
+869,35mm Compact Camera,01/07/1995,p25,39.99
+870,35mm Compact Camera,01/07/1995,p_median,49.99
+871,35mm Compact Camera,01/07/1995,p75,59.99
+872,35mm Compact Camera,01/08/1995,p_mean,55.29109
+873,35mm Compact Camera,01/08/1995,p25,39.95
+874,35mm Compact Camera,01/08/1995,p_median,49.99
+875,35mm Compact Camera,01/08/1995,p75,59.99
+876,35mm colour film - 24 EXP,01/08/1995,p_mean,3.082154
+877,35mm colour film - 24 EXP,01/08/1995,p25,2.79
+878,35mm colour film - 24 EXP,01/08/1995,p_median,3.39
+879,35mm colour film - 24 EXP,01/08/1995,p75,3.49
+880,Developing/Printing,01/08/1995,p_mean,4.025831
+881,Developing/Printing,01/08/1995,p25,3.19
+882,Developing/Printing,01/08/1995,p_median,3.99
+883,Developing/Printing,01/08/1995,p75,4.54
+884,Developing/Printing,01/09/1995,p_mean,4.006181
+885,Developing/Printing,01/09/1995,p25,3.19
+886,Developing/Printing,01/09/1995,p_median,3.99
+887,Developing/Printing,01/09/1995,p75,4.5
+888,35mm Compact Camera,01/09/1995,p_mean,54.80905
+889,35mm Compact Camera,01/09/1995,p25,39.95
+890,35mm Compact Camera,01/09/1995,p_median,49.99
+891,35mm Compact Camera,01/09/1995,p75,59.99
+892,35mm colour film - 24 EXP,01/09/1995,p_mean,3.063003
+893,35mm colour film - 24 EXP,01/09/1995,p25,2.79
+894,35mm colour film - 24 EXP,01/09/1995,p_median,3.39
+895,35mm colour film - 24 EXP,01/09/1995,p75,3.49
+896,35mm Compact Camera,01/10/1995,p_mean,54.9391
+897,35mm Compact Camera,01/10/1995,p25,39.99
+898,35mm Compact Camera,01/10/1995,p_median,49.99
+899,35mm Compact Camera,01/10/1995,p75,59.99
+900,Developing/Printing,01/10/1995,p_mean,3.936254
+901,Developing/Printing,01/10/1995,p25,2.99
+902,Developing/Printing,01/10/1995,p_median,3.99
+903,Developing/Printing,01/10/1995,p75,4.5
+904,35mm colour film - 24 EXP,01/10/1995,p_mean,3.083518
+905,35mm colour film - 24 EXP,01/10/1995,p25,2.79
+906,35mm colour film - 24 EXP,01/10/1995,p_median,3.39
+907,35mm colour film - 24 EXP,01/10/1995,p75,3.49
+908,Developing/Printing,01/11/1995,p_mean,3.912361
+909,Developing/Printing,01/11/1995,p25,2.99
+910,Developing/Printing,01/11/1995,p_median,3.99
+911,Developing/Printing,01/11/1995,p75,4.49
+912,35mm colour film - 24 EXP,01/11/1995,p_mean,3.066965
+913,35mm colour film - 24 EXP,01/11/1995,p25,2.78
+914,35mm colour film - 24 EXP,01/11/1995,p_median,3.39
+915,35mm colour film - 24 EXP,01/11/1995,p75,3.49
+916,35mm Compact Camera,01/11/1995,p_mean,55.08077
+917,35mm Compact Camera,01/11/1995,p25,39.95
+918,35mm Compact Camera,01/11/1995,p_median,49.99
+919,35mm Compact Camera,01/11/1995,p75,59.99
+920,35mm colour film - 24 EXP,01/12/1995,p_mean,3.067494
+921,35mm colour film - 24 EXP,01/12/1995,p25,2.78
+922,35mm colour film - 24 EXP,01/12/1995,p_median,3.39
+923,35mm colour film - 24 EXP,01/12/1995,p75,3.49
+924,35mm Compact Camera,01/12/1995,p_mean,55.49553
+925,35mm Compact Camera,01/12/1995,p25,39.95
+926,35mm Compact Camera,01/12/1995,p_median,49.99
+927,35mm Compact Camera,01/12/1995,p75,59.99
+928,Developing/Printing,01/12/1995,p_mean,3.928319
+929,Developing/Printing,01/12/1995,p25,2.99
+930,Developing/Printing,01/12/1995,p_median,3.99
+931,Developing/Printing,01/12/1995,p75,4.49
+932,Developing/Printing,01/01/1996,p_mean,3.94093
+933,Developing/Printing,01/01/1996,p25,2.99
+934,Developing/Printing,01/01/1996,p_median,3.99
+935,Developing/Printing,01/01/1996,p75,4.49
+936,35mm colour film - 24 EXP,01/01/1996,p_mean,3.186269
+937,35mm colour film - 24 EXP,01/01/1996,p25,2.99
+938,35mm colour film - 24 EXP,01/01/1996,p_median,3.45
+939,35mm colour film - 24 EXP,01/01/1996,p75,3.49
+940,35mm Compact Camera,01/01/1996,p_mean,55.39304
+941,35mm Compact Camera,01/01/1996,p25,39.95
+942,35mm Compact Camera,01/01/1996,p_median,49.99
+943,35mm Compact Camera,01/01/1996,p75,59.99
+944,35mm colour film - 24 EXP,01/02/1996,p_mean,3.198168
+945,35mm colour film - 24 EXP,01/02/1996,p25,2.99
+946,35mm colour film - 24 EXP,01/02/1996,p_median,3.49
+947,35mm colour film - 24 EXP,01/02/1996,p75,3.49
+948,35mm Compact Camera,01/02/1996,p_mean,56.68234
+949,35mm Compact Camera,01/02/1996,p25,39.99
+950,35mm Compact Camera,01/02/1996,p_median,49.99
+951,35mm Compact Camera,01/02/1996,p75,59.99
+952,Developing/Printing,01/02/1996,p_mean,3.898241
+953,Developing/Printing,01/02/1996,p25,2.99
+954,Developing/Printing,01/02/1996,p_median,3.99
+955,Developing/Printing,01/02/1996,p75,4.49
+956,35mm Compact Camera,01/03/1996,p_mean,55.87813
+957,35mm Compact Camera,01/03/1996,p25,39.99
+958,35mm Compact Camera,01/03/1996,p_median,49.99
+959,35mm Compact Camera,01/03/1996,p75,67.0
+960,Developing/Printing,01/03/1996,p_mean,3.868736
+961,Developing/Printing,01/03/1996,p25,2.99
+962,Developing/Printing,01/03/1996,p_median,3.99
+963,Developing/Printing,01/03/1996,p75,4.49
+964,35mm colour film - 24 EXP,01/03/1996,p_mean,3.175746
+965,35mm colour film - 24 EXP,01/03/1996,p25,2.99
+966,35mm colour film - 24 EXP,01/03/1996,p_median,3.49
+967,35mm colour film - 24 EXP,01/03/1996,p75,3.49
+968,Developing/Printing,01/04/1996,p_mean,3.855879
+969,Developing/Printing,01/04/1996,p25,2.99
+970,Developing/Printing,01/04/1996,p_median,3.99
+971,Developing/Printing,01/04/1996,p75,4.49
+972,35mm Compact Camera,01/04/1996,p_mean,56.42834
+973,35mm Compact Camera,01/04/1996,p25,39.99
+974,35mm Compact Camera,01/04/1996,p_median,49.99
+975,35mm Compact Camera,01/04/1996,p75,67.5
+976,35mm colour film - 24 EXP,01/04/1996,p_mean,3.212428
+977,35mm colour film - 24 EXP,01/04/1996,p25,2.99
+978,35mm colour film - 24 EXP,01/04/1996,p_median,3.49
+979,35mm colour film - 24 EXP,01/04/1996,p75,3.49
+980,35mm Compact Camera,01/05/1996,p_mean,56.64979
+981,35mm Compact Camera,01/05/1996,p25,39.99
+982,35mm Compact Camera,01/05/1996,p_median,49.99
+983,35mm Compact Camera,01/05/1996,p75,67.99
+984,35mm colour film - 24 EXP,01/05/1996,p_mean,3.220347
+985,35mm colour film - 24 EXP,01/05/1996,p25,2.99
+986,35mm colour film - 24 EXP,01/05/1996,p_median,3.49
+987,35mm colour film - 24 EXP,01/05/1996,p75,3.49
+988,Developing/Printing,01/05/1996,p_mean,3.861611
+989,Developing/Printing,01/05/1996,p25,2.99
+990,Developing/Printing,01/05/1996,p_median,3.99
+991,Developing/Printing,01/05/1996,p75,4.49
+992,35mm Compact Camera,01/06/1996,p_mean,55.7326
+993,35mm Compact Camera,01/06/1996,p25,39.95
+994,35mm Compact Camera,01/06/1996,p_median,49.99
+995,35mm Compact Camera,01/06/1996,p75,67.745
+996,Developing/Printing,01/06/1996,p_mean,3.901547
+997,Developing/Printing,01/06/1996,p25,3.19
+998,Developing/Printing,01/06/1996,p_median,3.99
+999,Developing/Printing,01/06/1996,p75,4.49
+1000,35mm colour film - 24 EXP,01/06/1996,p_mean,3.215257
+1001,35mm colour film - 24 EXP,01/06/1996,p25,2.99
+1002,35mm colour film - 24 EXP,01/06/1996,p_median,3.49
+1003,35mm colour film - 24 EXP,01/06/1996,p75,3.49
+1004,Developing/Printing,01/07/1996,p_mean,3.882614
+1005,Developing/Printing,01/07/1996,p25,2.99
+1006,Developing/Printing,01/07/1996,p_median,3.99
+1007,Developing/Printing,01/07/1996,p75,4.49
+1008,35mm colour film - 24 EXP,01/07/1996,p_mean,3.21152
+1009,35mm colour film - 24 EXP,01/07/1996,p25,2.99
+1010,35mm colour film - 24 EXP,01/07/1996,p_median,3.49
+1011,35mm colour film - 24 EXP,01/07/1996,p75,3.49
+1012,35mm Compact Camera,01/07/1996,p_mean,55.47144
+1013,35mm Compact Camera,01/07/1996,p25,39.95
+1014,35mm Compact Camera,01/07/1996,p_median,49.99
+1015,35mm Compact Camera,01/07/1996,p75,67.99
+1016,35mm colour film - 24 EXP,01/08/1996,p_mean,3.238936
+1017,35mm colour film - 24 EXP,01/08/1996,p25,2.99
+1018,35mm colour film - 24 EXP,01/08/1996,p_median,3.49
+1019,35mm colour film - 24 EXP,01/08/1996,p75,3.49
+1020,35mm Compact Camera,01/08/1996,p_mean,55.80953
+1021,35mm Compact Camera,01/08/1996,p25,39.95
+1022,35mm Compact Camera,01/08/1996,p_median,49.99
+1023,35mm Compact Camera,01/08/1996,p75,67.99
+1024,Developing/Printing,01/08/1996,p_mean,3.859863
+1025,Developing/Printing,01/08/1996,p25,2.99
+1026,Developing/Printing,01/08/1996,p_median,3.99
+1027,Developing/Printing,01/08/1996,p75,4.49
+1028,35mm Compact Camera,01/09/1996,p_mean,55.57877
+1029,35mm Compact Camera,01/09/1996,p25,39.95
+1030,35mm Compact Camera,01/09/1996,p_median,49.99
+1031,35mm Compact Camera,01/09/1996,p75,67.99
+1032,35mm colour film - 24 EXP,01/09/1996,p_mean,3.219155
+1033,35mm colour film - 24 EXP,01/09/1996,p25,2.99
+1034,35mm colour film - 24 EXP,01/09/1996,p_median,3.49
+1035,35mm colour film - 24 EXP,01/09/1996,p75,3.49
+1036,Developing/Printing,01/09/1996,p_mean,3.885676
+1037,Developing/Printing,01/09/1996,p25,2.99
+1038,Developing/Printing,01/09/1996,p_median,3.99
+1039,Developing/Printing,01/09/1996,p75,4.49
+1040,35mm Compact Camera,01/10/1996,p_mean,57.29987
+1041,35mm Compact Camera,01/10/1996,p25,39.99
+1042,35mm Compact Camera,01/10/1996,p_median,49.99
+1043,35mm Compact Camera,01/10/1996,p75,69.0
+1044,35mm colour film - 24 EXP,01/10/1996,p_mean,3.202128
+1045,35mm colour film - 24 EXP,01/10/1996,p25,2.99
+1046,35mm colour film - 24 EXP,01/10/1996,p_median,3.49
+1047,35mm colour film - 24 EXP,01/10/1996,p75,3.49
+1048,Developing/Printing,01/10/1996,p_mean,3.89531
+1049,Developing/Printing,01/10/1996,p25,2.99
+1050,Developing/Printing,01/10/1996,p_median,3.99
+1051,Developing/Printing,01/10/1996,p75,4.49
+1052,35mm colour film - 24 EXP,01/11/1996,p_mean,3.219589
+1053,35mm colour film - 24 EXP,01/11/1996,p25,2.99
+1054,35mm colour film - 24 EXP,01/11/1996,p_median,3.49
+1055,35mm colour film - 24 EXP,01/11/1996,p75,3.59
+1056,35mm Compact Camera,01/11/1996,p_mean,57.14488
+1057,35mm Compact Camera,01/11/1996,p25,39.99
+1058,35mm Compact Camera,01/11/1996,p_median,49.99
+1059,35mm Compact Camera,01/11/1996,p75,67.745
+1060,Developing/Printing,01/11/1996,p_mean,3.904444
+1061,Developing/Printing,01/11/1996,p25,2.99
+1062,Developing/Printing,01/11/1996,p_median,3.99
+1063,Developing/Printing,01/11/1996,p75,4.49
+1064,35mm colour film - 24 EXP,01/12/1996,p_mean,3.211733
+1065,35mm colour film - 24 EXP,01/12/1996,p25,2.99
+1066,35mm colour film - 24 EXP,01/12/1996,p_median,3.49
+1067,35mm colour film - 24 EXP,01/12/1996,p75,3.6
+1068,35mm Compact Camera,01/12/1996,p_mean,56.06905
+1069,35mm Compact Camera,01/12/1996,p25,39.99
+1070,35mm Compact Camera,01/12/1996,p_median,49.95
+1071,35mm Compact Camera,01/12/1996,p75,67.99
+1072,Developing/Printing,01/12/1996,p_mean,3.878658
+1073,Developing/Printing,01/12/1996,p25,2.99
+1074,Developing/Printing,01/12/1996,p_median,3.99
+1075,Developing/Printing,01/12/1996,p75,4.49
+1076,35mm Compact Camera,01/01/1997,p_mean,53.10273
+1077,35mm Compact Camera,01/01/1997,p25,39.725
+1078,35mm Compact Camera,01/01/1997,p_median,49.0
+1079,35mm Compact Camera,01/01/1997,p75,63.25
+1080,35mm colour film - 24 EXP,01/01/1997,p_mean,3.232733
+1081,35mm colour film - 24 EXP,01/01/1997,p25,2.99
+1082,35mm colour film - 24 EXP,01/01/1997,p_median,3.49
+1083,35mm colour film - 24 EXP,01/01/1997,p75,3.79
+1084,Developing/Printing,01/01/1997,p_mean,3.877919
+1085,Developing/Printing,01/01/1997,p25,2.99
+1086,Developing/Printing,01/01/1997,p_median,3.99
+1087,Developing/Printing,01/01/1997,p75,4.49
+1088,Developing/Printing,01/02/1997,p_mean,3.890577
+1089,Developing/Printing,01/02/1997,p25,2.99
+1090,Developing/Printing,01/02/1997,p_median,3.99
+1091,Developing/Printing,01/02/1997,p75,4.49
+1092,35mm Compact Camera,01/02/1997,p_mean,54.65607
+1093,35mm Compact Camera,01/02/1997,p25,39.95
+1094,35mm Compact Camera,01/02/1997,p_median,49.0
+1095,35mm Compact Camera,01/02/1997,p75,64.95
+1096,35mm colour film - 24 EXP,01/02/1997,p_mean,3.280196
+1097,35mm colour film - 24 EXP,01/02/1997,p25,2.99
+1098,35mm colour film - 24 EXP,01/02/1997,p_median,3.49
+1099,35mm colour film - 24 EXP,01/02/1997,p75,3.79
+1100,35mm colour film - 24 EXP,01/03/1997,p_mean,3.268497
+1101,35mm colour film - 24 EXP,01/03/1997,p25,2.79
+1102,35mm colour film - 24 EXP,01/03/1997,p_median,3.49
+1103,35mm colour film - 24 EXP,01/03/1997,p75,3.79
+1104,35mm Compact Camera,01/03/1997,p_mean,56.7119
+1105,35mm Compact Camera,01/03/1997,p25,39.95
+1106,35mm Compact Camera,01/03/1997,p_median,49.99
+1107,35mm Compact Camera,01/03/1997,p75,67.0
+1108,Developing/Printing,01/03/1997,p_mean,3.916731
+1109,Developing/Printing,01/03/1997,p25,2.99
+1110,Developing/Printing,01/03/1997,p_median,3.99
+1111,Developing/Printing,01/03/1997,p75,4.49
+1112,35mm Compact Camera,01/04/1997,p_mean,58.43441
+1113,35mm Compact Camera,01/04/1997,p25,39.99
+1114,35mm Compact Camera,01/04/1997,p_median,49.99
+1115,35mm Compact Camera,01/04/1997,p75,69.95
+1116,35mm colour film - 24 EXP,01/04/1997,p_mean,3.230519
+1117,35mm colour film - 24 EXP,01/04/1997,p25,2.49
+1118,35mm colour film - 24 EXP,01/04/1997,p_median,3.49
+1119,35mm colour film - 24 EXP,01/04/1997,p75,3.99
+1120,Developing/Printing,01/04/1997,p_mean,3.938201
+1121,Developing/Printing,01/04/1997,p25,2.99
+1122,Developing/Printing,01/04/1997,p_median,3.99
+1123,Developing/Printing,01/04/1997,p75,4.49
+1124,35mm Compact Camera,01/05/1997,p_mean,58.74876
+1125,35mm Compact Camera,01/05/1997,p25,39.99
+1126,35mm Compact Camera,01/05/1997,p_median,49.99
+1127,35mm Compact Camera,01/05/1997,p75,69.99
+1128,Developing/Printing,01/05/1997,p_mean,3.931071
+1129,Developing/Printing,01/05/1997,p25,2.99
+1130,Developing/Printing,01/05/1997,p_median,3.99
+1131,Developing/Printing,01/05/1997,p75,4.49
+1132,35mm colour film - 24 EXP,01/05/1997,p_mean,3.258
+1133,35mm colour film - 24 EXP,01/05/1997,p25,2.58
+1134,35mm colour film - 24 EXP,01/05/1997,p_median,3.49
+1135,35mm colour film - 24 EXP,01/05/1997,p75,3.99
+1136,Developing/Printing,01/06/1997,p_mean,3.943571
+1137,Developing/Printing,01/06/1997,p25,2.99
+1138,Developing/Printing,01/06/1997,p_median,3.99
+1139,Developing/Printing,01/06/1997,p75,4.49
+1140,35mm Compact Camera,01/06/1997,p_mean,58.76575
+1141,35mm Compact Camera,01/06/1997,p25,39.99
+1142,35mm Compact Camera,01/06/1997,p_median,49.99
+1143,35mm Compact Camera,01/06/1997,p75,69.99
+1144,35mm colour film - 24 EXP,01/06/1997,p_mean,3.28259
+1145,35mm colour film - 24 EXP,01/06/1997,p25,2.69
+1146,35mm colour film - 24 EXP,01/06/1997,p_median,3.49
+1147,35mm colour film - 24 EXP,01/06/1997,p75,3.99
+1148,35mm colour film - 24 EXP,01/07/1997,p_mean,3.25482
+1149,35mm colour film - 24 EXP,01/07/1997,p25,2.69
+1150,35mm colour film - 24 EXP,01/07/1997,p_median,3.49
+1151,35mm colour film - 24 EXP,01/07/1997,p75,3.99
+1152,35mm Compact Camera,01/07/1997,p_mean,58.61661
+1153,35mm Compact Camera,01/07/1997,p25,39.99
+1154,35mm Compact Camera,01/07/1997,p_median,49.99
+1155,35mm Compact Camera,01/07/1997,p75,69.99
+1156,Developing/Printing,01/07/1997,p_mean,3.91971
+1157,Developing/Printing,01/07/1997,p25,2.99
+1158,Developing/Printing,01/07/1997,p_median,3.99
+1159,Developing/Printing,01/07/1997,p75,4.49
+1160,35mm colour film - 24 EXP,01/08/1997,p_mean,3.253239
+1161,35mm colour film - 24 EXP,01/08/1997,p25,2.69
+1162,35mm colour film - 24 EXP,01/08/1997,p_median,3.49
+1163,35mm colour film - 24 EXP,01/08/1997,p75,3.99
+1164,Developing/Printing,01/08/1997,p_mean,3.935071
+1165,Developing/Printing,01/08/1997,p25,2.99
+1166,Developing/Printing,01/08/1997,p_median,3.99
+1167,Developing/Printing,01/08/1997,p75,4.49
+1168,35mm Compact Camera,01/08/1997,p_mean,58.4846
+1169,35mm Compact Camera,01/08/1997,p25,39.99
+1170,35mm Compact Camera,01/08/1997,p_median,49.99
+1171,35mm Compact Camera,01/08/1997,p75,69.99
+1172,35mm colour film - 24 EXP,01/09/1997,p_mean,3.24922
+1173,35mm colour film - 24 EXP,01/09/1997,p25,2.67
+1174,35mm colour film - 24 EXP,01/09/1997,p_median,3.49
+1175,35mm colour film - 24 EXP,01/09/1997,p75,3.99
+1176,Developing/Printing,01/09/1997,p_mean,3.9365
+1177,Developing/Printing,01/09/1997,p25,2.99
+1178,Developing/Printing,01/09/1997,p_median,3.99
+1179,Developing/Printing,01/09/1997,p75,4.49
+1180,35mm Compact Camera,01/09/1997,p_mean,57.55462
+1181,35mm Compact Camera,01/09/1997,p25,39.99
+1182,35mm Compact Camera,01/09/1997,p_median,49.95
+1183,35mm Compact Camera,01/09/1997,p75,69.0
+1184,35mm Compact Camera,01/10/1997,p_mean,57.12644
+1185,35mm Compact Camera,01/10/1997,p25,39.95
+1186,35mm Compact Camera,01/10/1997,p_median,49.5
+1187,35mm Compact Camera,01/10/1997,p75,59.99
+1188,Developing/Printing,01/10/1997,p_mean,3.944615
+1189,Developing/Printing,01/10/1997,p25,2.99
+1190,Developing/Printing,01/10/1997,p_median,3.99
+1191,Developing/Printing,01/10/1997,p75,4.49
+1192,35mm colour film - 24 EXP,01/10/1997,p_mean,3.255809
+1193,35mm colour film - 24 EXP,01/10/1997,p25,2.58
+1194,35mm colour film - 24 EXP,01/10/1997,p_median,3.49
+1195,35mm colour film - 24 EXP,01/10/1997,p75,3.99
+1196,35mm Compact Camera,01/11/1997,p_mean,58.77279
+1197,35mm Compact Camera,01/11/1997,p25,39.99
+1198,35mm Compact Camera,01/11/1997,p_median,49.99
+1199,35mm Compact Camera,01/11/1997,p75,61.25
+1200,Developing/Printing,01/11/1997,p_mean,3.944296
+1201,Developing/Printing,01/11/1997,p25,2.99
+1202,Developing/Printing,01/11/1997,p_median,3.99
+1203,Developing/Printing,01/11/1997,p75,4.49
+1204,35mm colour film - 24 EXP,01/11/1997,p_mean,3.294571
+1205,35mm colour film - 24 EXP,01/11/1997,p25,2.58
+1206,35mm colour film - 24 EXP,01/11/1997,p_median,3.49
+1207,35mm colour film - 24 EXP,01/11/1997,p75,3.99
+1208,35mm Compact Camera,01/12/1997,p_mean,60.25209
+1209,35mm Compact Camera,01/12/1997,p25,39.99
+1210,35mm Compact Camera,01/12/1997,p_median,49.99
+1211,35mm Compact Camera,01/12/1997,p75,63.245
+1212,Developing/Printing,01/12/1997,p_mean,3.928214
+1213,Developing/Printing,01/12/1997,p25,2.99
+1214,Developing/Printing,01/12/1997,p_median,3.99
+1215,Developing/Printing,01/12/1997,p75,4.49
+1216,35mm colour film - 24 EXP,01/12/1997,p_mean,3.313286
+1217,35mm colour film - 24 EXP,01/12/1997,p25,2.59
+1218,35mm colour film - 24 EXP,01/12/1997,p_median,3.49
+1219,35mm colour film - 24 EXP,01/12/1997,p75,3.99
+1220,Developing/Printing,01/01/1998,p_mean,3.884643
+1221,Developing/Printing,01/01/1998,p25,2.99
+1222,Developing/Printing,01/01/1998,p_median,3.99
+1223,Developing/Printing,01/01/1998,p75,4.49
+1224,35mm colour film - 24 EXP,01/01/1998,p_mean,3.342574
+1225,35mm colour film - 24 EXP,01/01/1998,p25,2.64
+1226,35mm colour film - 24 EXP,01/01/1998,p_median,3.495
+1227,35mm colour film - 24 EXP,01/01/1998,p75,3.99
+1228,35mm Compact Camera,01/01/1998,p_mean,57.09572
+1229,35mm Compact Camera,01/01/1998,p25,39.99
+1230,35mm Compact Camera,01/01/1998,p_median,49.5
+1231,35mm Compact Camera,01/01/1998,p75,59.99
+1232,Developing/Printing,01/02/1998,p_mean,3.937029
+1233,Developing/Printing,01/02/1998,p25,2.99
+1234,Developing/Printing,01/02/1998,p_median,3.99
+1235,Developing/Printing,01/02/1998,p75,4.49
+1236,35mm colour film - 24 EXP,01/02/1998,p_mean,3.296716
+1237,35mm colour film - 24 EXP,01/02/1998,p25,2.59
+1238,35mm colour film - 24 EXP,01/02/1998,p_median,3.49
+1239,35mm colour film - 24 EXP,01/02/1998,p75,3.99
+1240,35mm Compact Camera,01/02/1998,p_mean,53.05512
+1241,35mm Compact Camera,01/02/1998,p25,37.99
+1242,35mm Compact Camera,01/02/1998,p_median,45.0
+1243,35mm Compact Camera,01/02/1998,p75,59.95
+1244,35mm colour film - 24 EXP,01/03/1998,p_mean,3.298433
+1245,35mm colour film - 24 EXP,01/03/1998,p25,2.59
+1246,35mm colour film - 24 EXP,01/03/1998,p_median,3.39
+1247,35mm colour film - 24 EXP,01/03/1998,p75,3.99
+1248,Developing/Printing,01/03/1998,p_mean,3.94625
+1249,Developing/Printing,01/03/1998,p25,2.99
+1250,Developing/Printing,01/03/1998,p_median,3.99
+1251,Developing/Printing,01/03/1998,p75,4.49
+1252,35mm Compact Camera,01/03/1998,p_mean,54.10657
+1253,35mm Compact Camera,01/03/1998,p25,37.99
+1254,35mm Compact Camera,01/03/1998,p_median,48.0
+1255,35mm Compact Camera,01/03/1998,p75,59.99
+1256,Developing/Printing,01/04/1998,p_mean,3.949928
+1257,Developing/Printing,01/04/1998,p25,2.99
+1258,Developing/Printing,01/04/1998,p_median,3.99
+1259,Developing/Printing,01/04/1998,p75,4.49
+1260,35mm colour film - 24 EXP,01/04/1998,p_mean,3.292406
+1261,35mm colour film - 24 EXP,01/04/1998,p25,2.59
+1262,35mm colour film - 24 EXP,01/04/1998,p_median,3.19
+1263,35mm colour film - 24 EXP,01/04/1998,p75,3.99
+1264,35mm Compact Camera,01/04/1998,p_mean,55.25566
+1265,35mm Compact Camera,01/04/1998,p25,37.99
+1266,35mm Compact Camera,01/04/1998,p_median,48.9
+1267,35mm Compact Camera,01/04/1998,p75,59.99
+1268,35mm colour film - 24 EXP,01/05/1998,p_mean,3.353406
+1269,35mm colour film - 24 EXP,01/05/1998,p25,2.59
+1270,35mm colour film - 24 EXP,01/05/1998,p_median,3.39
+1271,35mm colour film - 24 EXP,01/05/1998,p75,3.99
+1272,35mm Compact Camera,01/05/1998,p_mean,54.74405
+1273,35mm Compact Camera,01/05/1998,p25,37.99
+1274,35mm Compact Camera,01/05/1998,p_median,49.0
+1275,35mm Compact Camera,01/05/1998,p75,59.99
+1276,Developing/Printing,01/05/1998,p_mean,3.97058
+1277,Developing/Printing,01/05/1998,p25,2.99
+1278,Developing/Printing,01/05/1998,p_median,3.99
+1279,Developing/Printing,01/05/1998,p75,4.49
+1280,35mm colour film - 24 EXP,01/06/1998,p_mean,3.34073
+1281,35mm colour film - 24 EXP,01/06/1998,p25,2.59
+1282,35mm colour film - 24 EXP,01/06/1998,p_median,2.99
+1283,35mm colour film - 24 EXP,01/06/1998,p75,3.99
+1284,35mm Compact Camera,01/06/1998,p_mean,53.32074
+1285,35mm Compact Camera,01/06/1998,p25,35.0
+1286,35mm Compact Camera,01/06/1998,p_median,45.0
+1287,35mm Compact Camera,01/06/1998,p75,59.0
+1288,Developing/Printing,01/06/1998,p_mean,3.923869
+1289,Developing/Printing,01/06/1998,p25,2.99
+1290,Developing/Printing,01/06/1998,p_median,3.89
+1291,Developing/Printing,01/06/1998,p75,4.49
+1292,35mm colour film - 24 EXP,01/07/1998,p_mean,3.37606
+1293,35mm colour film - 24 EXP,01/07/1998,p25,2.54
+1294,35mm colour film - 24 EXP,01/07/1998,p_median,3.24
+1295,35mm colour film - 24 EXP,01/07/1998,p75,3.99
+1296,35mm Compact Camera,01/07/1998,p_mean,52.9922
+1297,35mm Compact Camera,01/07/1998,p25,35.0
+1298,35mm Compact Camera,01/07/1998,p_median,45.0
+1299,35mm Compact Camera,01/07/1998,p75,52.24
+1300,Developing/Printing,01/07/1998,p_mean,3.93854
+1301,Developing/Printing,01/07/1998,p25,2.99
+1302,Developing/Printing,01/07/1998,p_median,3.99
+1303,Developing/Printing,01/07/1998,p75,4.49
+1304,35mm Compact Camera,01/08/1998,p_mean,53.34172
+1305,35mm Compact Camera,01/08/1998,p25,36.99
+1306,35mm Compact Camera,01/08/1998,p_median,45.0
+1307,35mm Compact Camera,01/08/1998,p75,54.99
+1308,Developing/Printing,01/08/1998,p_mean,3.965357
+1309,Developing/Printing,01/08/1998,p25,2.99
+1310,Developing/Printing,01/08/1998,p_median,3.99
+1311,Developing/Printing,01/08/1998,p75,4.49
+1312,35mm colour film - 24 EXP,01/08/1998,p_mean,3.354412
+1313,35mm colour film - 24 EXP,01/08/1998,p25,2.59
+1314,35mm colour film - 24 EXP,01/08/1998,p_median,3.29
+1315,35mm colour film - 24 EXP,01/08/1998,p75,3.99
+1316,35mm colour film - 24 EXP,01/09/1998,p_mean,3.358741
+1317,35mm colour film - 24 EXP,01/09/1998,p25,2.49
+1318,35mm colour film - 24 EXP,01/09/1998,p_median,3.29
+1319,35mm colour film - 24 EXP,01/09/1998,p75,3.99
+1320,Developing/Printing,01/09/1998,p_mean,3.960863
+1321,Developing/Printing,01/09/1998,p25,2.99
+1322,Developing/Printing,01/09/1998,p_median,3.99
+1323,Developing/Printing,01/09/1998,p75,4.49
+1324,35mm Compact Camera,01/09/1998,p_mean,53.15535
+1325,35mm Compact Camera,01/09/1998,p25,35.875
+1326,35mm Compact Camera,01/09/1998,p_median,45.0
+1327,35mm Compact Camera,01/09/1998,p75,59.475
+1328,35mm colour film - 24 EXP,01/10/1998,p_mean,3.359091
+1329,35mm colour film - 24 EXP,01/10/1998,p25,2.49
+1330,35mm colour film - 24 EXP,01/10/1998,p_median,3.24
+1331,35mm colour film - 24 EXP,01/10/1998,p75,4.29
+1332,Developing/Printing,01/10/1998,p_mean,4.051511
+1333,Developing/Printing,01/10/1998,p25,3.49
+1334,Developing/Printing,01/10/1998,p_median,3.99
+1335,Developing/Printing,01/10/1998,p75,4.49
+1336,35mm Compact Camera,01/10/1998,p_mean,53.13229
+1337,35mm Compact Camera,01/10/1998,p25,34.99
+1338,35mm Compact Camera,01/10/1998,p_median,45.0
+1339,35mm Compact Camera,01/10/1998,p75,59.0
+1340,Developing/Printing,01/11/1998,p_mean,4.100662
+1341,Developing/Printing,01/11/1998,p25,3.49
+1342,Developing/Printing,01/11/1998,p_median,3.99
+1343,Developing/Printing,01/11/1998,p75,4.495
+1344,35mm Compact Camera,01/11/1998,p_mean,52.62089
+1345,35mm Compact Camera,01/11/1998,p25,34.9
+1346,35mm Compact Camera,01/11/1998,p_median,45.0
+1347,35mm Compact Camera,01/11/1998,p75,54.99
+1348,35mm colour film - 24 EXP,01/11/1998,p_mean,3.338182
+1349,35mm colour film - 24 EXP,01/11/1998,p25,2.59
+1350,35mm colour film - 24 EXP,01/11/1998,p_median,3.09
+1351,35mm colour film - 24 EXP,01/11/1998,p75,4.095
+1352,Developing/Printing,01/12/1998,p_mean,4.087112
+1353,Developing/Printing,01/12/1998,p25,3.49
+1354,Developing/Printing,01/12/1998,p_median,3.99
+1355,Developing/Printing,01/12/1998,p75,4.49
+1356,35mm colour film - 24 EXP,01/12/1998,p_mean,3.328613
+1357,35mm colour film - 24 EXP,01/12/1998,p25,2.59
+1358,35mm colour film - 24 EXP,01/12/1998,p_median,2.99
+1359,35mm colour film - 24 EXP,01/12/1998,p75,4.2
+1360,35mm Compact Camera,01/12/1998,p_mean,52.40477
+1361,35mm Compact Camera,01/12/1998,p25,34.99
+1362,35mm Compact Camera,01/12/1998,p_median,44.99
+1363,35mm Compact Camera,01/12/1998,p75,54.99
+1364,35mm colour film - 24 EXP,01/01/1999,p_mean,3.291569
+1365,35mm colour film - 24 EXP,01/01/1999,p25,2.59
+1366,35mm colour film - 24 EXP,01/01/1999,p_median,2.99
+1367,35mm colour film - 24 EXP,01/01/1999,p75,4.09
+1368,Developing/Printing,01/01/1999,p_mean,4.05688
+1369,Developing/Printing,01/01/1999,p25,3.49
+1370,Developing/Printing,01/01/1999,p_median,3.99
+1371,Developing/Printing,01/01/1999,p75,4.49
+1372,35mm Compact Camera,01/01/1999,p_mean,52.82743
+1373,35mm Compact Camera,01/01/1999,p25,34.99
+1374,35mm Compact Camera,01/01/1999,p_median,45.0
+1375,35mm Compact Camera,01/01/1999,p75,59.99
+1376,35mm Compact Camera,01/02/1999,p_mean,53.4737
+1377,35mm Compact Camera,01/02/1999,p25,34.99
+1378,35mm Compact Camera,01/02/1999,p_median,44.99
+1379,35mm Compact Camera,01/02/1999,p75,59.99
+1380,Developing/Printing,01/02/1999,p_mean,4.080278
+1381,Developing/Printing,01/02/1999,p25,3.49
+1382,Developing/Printing,01/02/1999,p_median,3.99
+1383,Developing/Printing,01/02/1999,p75,4.49
+1384,35mm colour film - 24 EXP,01/02/1999,p_mean,3.253504
+1385,35mm colour film - 24 EXP,01/02/1999,p25,2.49
+1386,35mm colour film - 24 EXP,01/02/1999,p_median,2.99
+1387,35mm colour film - 24 EXP,01/02/1999,p75,3.99
+1388,35mm Compact Camera,01/03/1999,p_mean,54.92894
+1389,35mm Compact Camera,01/03/1999,p25,34.99
+1390,35mm Compact Camera,01/03/1999,p_median,44.99
+1391,35mm Compact Camera,01/03/1999,p75,59.99
+1392,35mm colour film - 24 EXP,01/03/1999,p_mean,3.256569
+1393,35mm colour film - 24 EXP,01/03/1999,p25,2.49
+1394,35mm colour film - 24 EXP,01/03/1999,p_median,2.99
+1395,35mm colour film - 24 EXP,01/03/1999,p75,3.99
+1396,Developing/Printing,01/03/1999,p_mean,4.066923
+1397,Developing/Printing,01/03/1999,p25,3.49
+1398,Developing/Printing,01/03/1999,p_median,3.99
+1399,Developing/Printing,01/03/1999,p75,4.49
+1400,35mm Compact Camera,01/04/1999,p_mean,54.15988
+1401,35mm Compact Camera,01/04/1999,p25,34.99
+1402,35mm Compact Camera,01/04/1999,p_median,45.0
+1403,35mm Compact Camera,01/04/1999,p75,59.99
+1404,35mm colour film - 24 EXP,01/04/1999,p_mean,3.270956
+1405,35mm colour film - 24 EXP,01/04/1999,p25,2.54
+1406,35mm colour film - 24 EXP,01/04/1999,p_median,2.99
+1407,35mm colour film - 24 EXP,01/04/1999,p75,4.29
+1408,Developing/Printing,01/04/1999,p_mean,4.084366
+1409,Developing/Printing,01/04/1999,p25,3.49
+1410,Developing/Printing,01/04/1999,p_median,3.99
+1411,Developing/Printing,01/04/1999,p75,4.5
+1412,35mm Compact Camera,01/05/1999,p_mean,55.18278
+1413,35mm Compact Camera,01/05/1999,p25,34.99
+1414,35mm Compact Camera,01/05/1999,p_median,45.0
+1415,35mm Compact Camera,01/05/1999,p75,59.99
+1416,Developing/Printing,01/05/1999,p_mean,4.132657
+1417,Developing/Printing,01/05/1999,p25,3.49
+1418,Developing/Printing,01/05/1999,p_median,3.99
+1419,Developing/Printing,01/05/1999,p75,4.99
+1420,35mm colour film - 24 EXP,01/05/1999,p_mean,3.290294
+1421,35mm colour film - 24 EXP,01/05/1999,p25,2.59
+1422,35mm colour film - 24 EXP,01/05/1999,p_median,2.99
+1423,35mm colour film - 24 EXP,01/05/1999,p75,4.29
+1424,35mm Compact Camera,01/06/1999,p_mean,55.24669
+1425,35mm Compact Camera,01/06/1999,p25,34.99
+1426,35mm Compact Camera,01/06/1999,p_median,45.0
+1427,35mm Compact Camera,01/06/1999,p75,60.0
+1428,35mm colour film - 24 EXP,01/06/1999,p_mean,3.280294
+1429,35mm colour film - 24 EXP,01/06/1999,p25,2.49
+1430,35mm colour film - 24 EXP,01/06/1999,p_median,2.99
+1431,35mm colour film - 24 EXP,01/06/1999,p75,4.245
+1432,Developing/Printing,01/06/1999,p_mean,4.132957
+1433,Developing/Printing,01/06/1999,p25,3.49
+1434,Developing/Printing,01/06/1999,p_median,3.99
+1435,Developing/Printing,01/06/1999,p75,4.99
+1436,Developing/Printing,01/07/1999,p_mean,4.132553
+1437,Developing/Printing,01/07/1999,p25,3.49
+1438,Developing/Printing,01/07/1999,p_median,3.99
+1439,Developing/Printing,01/07/1999,p75,4.99
+1440,35mm Compact Camera,01/07/1999,p_mean,55.38231
+1441,35mm Compact Camera,01/07/1999,p25,34.99
+1442,35mm Compact Camera,01/07/1999,p_median,45.0
+1443,35mm Compact Camera,01/07/1999,p75,69.45
+1444,35mm colour film - 24 EXP,01/07/1999,p_mean,3.279265
+1445,35mm colour film - 24 EXP,01/07/1999,p25,2.54
+1446,35mm colour film - 24 EXP,01/07/1999,p_median,2.99
+1447,35mm colour film - 24 EXP,01/07/1999,p75,4.29
+1448,Developing/Printing,01/08/1999,p_mean,4.148857
+1449,Developing/Printing,01/08/1999,p25,3.49
+1450,Developing/Printing,01/08/1999,p_median,3.99
+1451,Developing/Printing,01/08/1999,p75,4.99
+1452,35mm colour film - 24 EXP,01/08/1999,p_mean,3.156107
+1453,35mm colour film - 24 EXP,01/08/1999,p25,2.49
+1454,35mm colour film - 24 EXP,01/08/1999,p_median,2.99
+1455,35mm colour film - 24 EXP,01/08/1999,p75,4.29
+1456,35mm Compact Camera,01/08/1999,p_mean,55.50703
+1457,35mm Compact Camera,01/08/1999,p25,34.99
+1458,35mm Compact Camera,01/08/1999,p_median,44.5
+1459,35mm Compact Camera,01/08/1999,p75,69.9
+1460,35mm colour film - 24 EXP,01/09/1999,p_mean,3.305385
+1461,35mm colour film - 24 EXP,01/09/1999,p25,2.59
+1462,35mm colour film - 24 EXP,01/09/1999,p_median,2.99
+1463,35mm colour film - 24 EXP,01/09/1999,p75,4.29
+1464,Developing/Printing,01/09/1999,p_mean,4.157445
+1465,Developing/Printing,01/09/1999,p25,3.49
+1466,Developing/Printing,01/09/1999,p_median,3.99
+1467,Developing/Printing,01/09/1999,p75,4.99
+1468,35mm Compact Camera,01/09/1999,p_mean,54.72702
+1469,35mm Compact Camera,01/09/1999,p25,36.99
+1470,35mm Compact Camera,01/09/1999,p_median,44.49
+1471,35mm Compact Camera,01/09/1999,p75,59.99
+1472,35mm colour film - 24 EXP,01/10/1999,p_mean,3.298489
+1473,35mm colour film - 24 EXP,01/10/1999,p25,2.59
+1474,35mm colour film - 24 EXP,01/10/1999,p_median,2.99
+1475,35mm colour film - 24 EXP,01/10/1999,p75,4.29
+1476,35mm Compact Camera,01/10/1999,p_mean,56.10006
+1477,35mm Compact Camera,01/10/1999,p25,36.99
+1478,35mm Compact Camera,01/10/1999,p_median,44.49
+1479,35mm Compact Camera,01/10/1999,p75,69.0
+1480,Developing/Printing,01/10/1999,p_mean,4.171714
+1481,Developing/Printing,01/10/1999,p25,3.49
+1482,Developing/Printing,01/10/1999,p_median,3.99
+1483,Developing/Printing,01/10/1999,p75,4.99
+1484,Developing/Printing,01/11/1999,p_mean,4.156241
+1485,Developing/Printing,01/11/1999,p25,3.49
+1486,Developing/Printing,01/11/1999,p_median,3.99
+1487,Developing/Printing,01/11/1999,p75,4.99
+1488,35mm colour film - 24 EXP,01/11/1999,p_mean,3.300144
+1489,35mm colour film - 24 EXP,01/11/1999,p25,2.59
+1490,35mm colour film - 24 EXP,01/11/1999,p_median,2.99
+1491,35mm colour film - 24 EXP,01/11/1999,p75,4.29
+1492,35mm Compact Camera,01/11/1999,p_mean,56.91703
+1493,35mm Compact Camera,01/11/1999,p25,36.99
+1494,35mm Compact Camera,01/11/1999,p_median,44.49
+1495,35mm Compact Camera,01/11/1999,p75,69.495
+1496,35mm Compact Camera,01/12/1999,p_mean,56.02693
+1497,35mm Compact Camera,01/12/1999,p25,33.99
+1498,35mm Compact Camera,01/12/1999,p_median,42.5
+1499,35mm Compact Camera,01/12/1999,p75,69.99
+1500,35mm colour film - 24 EXP,01/12/1999,p_mean,3.299786
+1501,35mm colour film - 24 EXP,01/12/1999,p25,2.59
+1502,35mm colour film - 24 EXP,01/12/1999,p_median,2.99
+1503,35mm colour film - 24 EXP,01/12/1999,p75,4.29
+1504,Developing/Printing,01/12/1999,p_mean,4.172086
+1505,Developing/Printing,01/12/1999,p25,3.49
+1506,Developing/Printing,01/12/1999,p_median,3.99
+1507,Developing/Printing,01/12/1999,p75,4.99
+1508,Developing/Printing,01/01/2000,p_mean,4.133099
+1509,Developing/Printing,01/01/2000,p25,3.49
+1510,Developing/Printing,01/01/2000,p_median,3.99
+1511,Developing/Printing,01/01/2000,p75,4.49
+1512,35mm colour film - 24 EXP,01/01/2000,p_mean,3.302391
+1513,35mm colour film - 24 EXP,01/01/2000,p25,2.59
+1514,35mm colour film - 24 EXP,01/01/2000,p_median,2.99
+1515,35mm colour film - 24 EXP,01/01/2000,p75,4.29
+1516,35mm Compact Camera,01/01/2000,p_mean,61.53929
+1517,35mm Compact Camera,01/01/2000,p25,39.49
+1518,35mm Compact Camera,01/01/2000,p_median,45.0
+1519,35mm Compact Camera,01/01/2000,p75,79.99
+1520,Developing/Printing,01/02/2000,p_mean,4.091579
+1521,Developing/Printing,01/02/2000,p25,3.49
+1522,Developing/Printing,01/02/2000,p_median,3.99
+1523,Developing/Printing,01/02/2000,p75,4.49
+1524,35mm colour film - 24 EXP,01/02/2000,p_mean,3.278779
+1525,35mm colour film - 24 EXP,01/02/2000,p25,2.49
+1526,35mm colour film - 24 EXP,01/02/2000,p_median,2.99
+1527,35mm colour film - 24 EXP,01/02/2000,p75,4.29
+1528,35mm Compact Camera,01/02/2000,p_mean,59.70548
+1529,35mm Compact Camera,01/02/2000,p25,39.49
+1530,35mm Compact Camera,01/02/2000,p_median,45.0
+1531,35mm Compact Camera,01/02/2000,p75,86.995
+1532,Developing/Printing,01/03/2000,p_mean,4.095414
+1533,Developing/Printing,01/03/2000,p25,3.59
+1534,Developing/Printing,01/03/2000,p_median,3.99
+1535,Developing/Printing,01/03/2000,p75,4.49
+1536,35mm colour film - 24 EXP,01/03/2000,p_mean,3.297863
+1537,35mm colour film - 24 EXP,01/03/2000,p25,2.49
+1538,35mm colour film - 24 EXP,01/03/2000,p_median,2.99
+1539,35mm colour film - 24 EXP,01/03/2000,p75,4.29
+1540,35mm Compact Camera,01/03/2000,p_mean,59.82679
+1541,35mm Compact Camera,01/03/2000,p25,39.0
+1542,35mm Compact Camera,01/03/2000,p_median,44.995
+1543,35mm Compact Camera,01/03/2000,p75,84.99
+1544,35mm colour film - 24 EXP,01/04/2000,p_mean,3.315039
+1545,35mm colour film - 24 EXP,01/04/2000,p25,2.49
+1546,35mm colour film - 24 EXP,01/04/2000,p_median,2.99
+1547,35mm colour film - 24 EXP,01/04/2000,p75,4.29
+1548,Developing/Printing,01/04/2000,p_mean,4.102932
+1549,Developing/Printing,01/04/2000,p25,3.59
+1550,Developing/Printing,01/04/2000,p_median,3.99
+1551,Developing/Printing,01/04/2000,p75,4.49
+1552,35mm Compact Camera,01/04/2000,p_mean,57.47491
+1553,35mm Compact Camera,01/04/2000,p25,34.99
+1554,35mm Compact Camera,01/04/2000,p_median,39.99
+1555,35mm Compact Camera,01/04/2000,p75,79.99
+1556,Developing/Printing,01/05/2000,p_mean,4.081742
+1557,Developing/Printing,01/05/2000,p25,3.64
+1558,Developing/Printing,01/05/2000,p_median,3.99
+1559,Developing/Printing,01/05/2000,p75,4.49
+1560,35mm colour film - 24 EXP,01/05/2000,p_mean,3.273
+1561,35mm colour film - 24 EXP,01/05/2000,p25,2.49
+1562,35mm colour film - 24 EXP,01/05/2000,p_median,2.99
+1563,35mm colour film - 24 EXP,01/05/2000,p75,4.29
+1564,35mm Compact Camera,01/05/2000,p_mean,56.10055
+1565,35mm Compact Camera,01/05/2000,p25,34.99
+1566,35mm Compact Camera,01/05/2000,p_median,39.99
+1567,35mm Compact Camera,01/05/2000,p75,79.99
+1568,35mm Compact Camera,01/06/2000,p_mean,62.61606
+1569,35mm Compact Camera,01/06/2000,p25,39.49
+1570,35mm Compact Camera,01/06/2000,p_median,45.0
+1571,35mm Compact Camera,01/06/2000,p75,89.945
+1572,35mm colour film - 24 EXP,01/06/2000,p_mean,3.267302
+1573,35mm colour film - 24 EXP,01/06/2000,p25,2.49
+1574,35mm colour film - 24 EXP,01/06/2000,p_median,2.99
+1575,35mm colour film - 24 EXP,01/06/2000,p75,4.29
+1576,Developing/Printing,01/06/2000,p_mean,4.081742
+1577,Developing/Printing,01/06/2000,p25,3.69
+1578,Developing/Printing,01/06/2000,p_median,3.99
+1579,Developing/Printing,01/06/2000,p75,4.49
+1580,Developing/Printing,01/07/2000,p_mean,4.097519
+1581,Developing/Printing,01/07/2000,p25,3.69
+1582,Developing/Printing,01/07/2000,p_median,3.99
+1583,Developing/Printing,01/07/2000,p75,4.49
+1584,35mm Compact Camera,01/07/2000,p_mean,56.23306
+1585,35mm Compact Camera,01/07/2000,p25,34.99
+1586,35mm Compact Camera,01/07/2000,p_median,39.99
+1587,35mm Compact Camera,01/07/2000,p75,79.9
+1588,35mm colour film - 24 EXP,01/07/2000,p_mean,3.27424
+1589,35mm colour film - 24 EXP,01/07/2000,p25,2.49
+1590,35mm colour film - 24 EXP,01/07/2000,p_median,2.99
+1591,35mm colour film - 24 EXP,01/07/2000,p75,4.29
+1592,35mm Compact Camera,01/08/2000,p_mean,60.52993
+1593,35mm Compact Camera,01/08/2000,p25,34.99
+1594,35mm Compact Camera,01/08/2000,p_median,44.995
+1595,35mm Compact Camera,01/08/2000,p75,89.0
+1596,Developing/Printing,01/08/2000,p_mean,4.077384
+1597,Developing/Printing,01/08/2000,p25,3.59
+1598,Developing/Printing,01/08/2000,p_median,3.99
+1599,Developing/Printing,01/08/2000,p75,4.49
+1600,35mm colour film - 24 EXP,01/08/2000,p_mean,3.292187
+1601,35mm colour film - 24 EXP,01/08/2000,p25,2.59
+1602,35mm colour film - 24 EXP,01/08/2000,p_median,3.12
+1603,35mm colour film - 24 EXP,01/08/2000,p75,4.29
+1604,35mm colour film - 24 EXP,01/09/2000,p_mean,3.334297
+1605,35mm colour film - 24 EXP,01/09/2000,p25,2.59
+1606,35mm colour film - 24 EXP,01/09/2000,p_median,3.25
+1607,35mm colour film - 24 EXP,01/09/2000,p75,4.29
+1608,35mm Compact Camera,01/09/2000,p_mean,56.95246
+1609,35mm Compact Camera,01/09/2000,p25,34.99
+1610,35mm Compact Camera,01/09/2000,p_median,39.99
+1611,35mm Compact Camera,01/09/2000,p75,79.99
+1612,Developing/Printing,01/09/2000,p_mean,4.102308
+1613,Developing/Printing,01/09/2000,p25,3.69
+1614,Developing/Printing,01/09/2000,p_median,3.99
+1615,Developing/Printing,01/09/2000,p75,4.49
+1616,Developing/Printing,01/10/2000,p_mean,4.125766
+1617,Developing/Printing,01/10/2000,p25,3.69
+1618,Developing/Printing,01/10/2000,p_median,3.99
+1619,Developing/Printing,01/10/2000,p75,4.49
+1620,35mm Compact Camera,01/10/2000,p_mean,54.63067
+1621,35mm Compact Camera,01/10/2000,p25,34.9
+1622,35mm Compact Camera,01/10/2000,p_median,39.99
+1623,35mm Compact Camera,01/10/2000,p75,79.9
+1624,35mm colour film - 24 EXP,01/10/2000,p_mean,3.320075
+1625,35mm colour film - 24 EXP,01/10/2000,p25,2.59
+1626,35mm colour film - 24 EXP,01/10/2000,p_median,3.24
+1627,35mm colour film - 24 EXP,01/10/2000,p75,4.29
+1628,Developing/Printing,01/11/2000,p_mean,4.124074
+1629,Developing/Printing,01/11/2000,p25,3.69
+1630,Developing/Printing,01/11/2000,p_median,3.99
+1631,Developing/Printing,01/11/2000,p75,4.49
+1632,35mm Compact Camera,01/11/2000,p_mean,56.89046
+1633,35mm Compact Camera,01/11/2000,p25,34.99
+1634,35mm Compact Camera,01/11/2000,p_median,39.99
+1635,35mm Compact Camera,01/11/2000,p75,79.99
+1636,35mm colour film - 24 EXP,01/11/2000,p_mean,3.347955
+1637,35mm colour film - 24 EXP,01/11/2000,p25,2.59
+1638,35mm colour film - 24 EXP,01/11/2000,p_median,3.27
+1639,35mm colour film - 24 EXP,01/11/2000,p75,4.29
+1640,35mm Compact Camera,01/12/2000,p_mean,59.98259
+1641,35mm Compact Camera,01/12/2000,p25,34.99
+1642,35mm Compact Camera,01/12/2000,p_median,39.99
+1643,35mm Compact Camera,01/12/2000,p75,89.99
+1644,Developing/Printing,01/12/2000,p_mean,4.112963
+1645,Developing/Printing,01/12/2000,p25,3.69
+1646,Developing/Printing,01/12/2000,p_median,3.99
+1647,Developing/Printing,01/12/2000,p75,4.49
+1648,35mm colour film - 24 EXP,01/12/2000,p_mean,3.322197
+1649,35mm colour film - 24 EXP,01/12/2000,p25,2.59
+1650,35mm colour film - 24 EXP,01/12/2000,p_median,3.25
+1651,35mm colour film - 24 EXP,01/12/2000,p75,4.29
+1652,35mm colour film - 24 EXP,01/01/2001,p_mean,3.314148
+1653,35mm colour film - 24 EXP,01/01/2001,p25,2.49
+1654,35mm colour film - 24 EXP,01/01/2001,p_median,3.29
+1655,35mm colour film - 24 EXP,01/01/2001,p75,4.29
+1656,35mm Compact Camera,01/01/2001,p_mean,56.57356
+1657,35mm Compact Camera,01/01/2001,p25,28.49
+1658,35mm Compact Camera,01/01/2001,p_median,39.99
+1659,35mm Compact Camera,01/01/2001,p75,89.45
+1660,Developing/Printing,01/01/2001,p_mean,4.090741
+1661,Developing/Printing,01/01/2001,p25,3.69
+1662,Developing/Printing,01/01/2001,p_median,3.99
+1663,Developing/Printing,01/01/2001,p75,4.49
+1664,Developing/Printing,01/02/2001,p_mean,4.080597
+1665,Developing/Printing,01/02/2001,p25,3.5
+1666,Developing/Printing,01/02/2001,p_median,3.99
+1667,Developing/Printing,01/02/2001,p75,4.49
+1668,35mm Compact Camera,01/02/2001,p_mean,57.66747
+1669,35mm Compact Camera,01/02/2001,p25,24.99
+1670,35mm Compact Camera,01/02/2001,p_median,48.9
+1671,35mm Compact Camera,01/02/2001,p75,89.0
+1672,35mm colour film - 24 EXP,01/02/2001,p_mean,3.251912
+1673,35mm colour film - 24 EXP,01/02/2001,p25,2.49
+1674,35mm colour film - 24 EXP,01/02/2001,p_median,3.12
+1675,35mm colour film - 24 EXP,01/02/2001,p75,4.29
+1676,35mm colour film - 24 EXP,01/03/2001,p_mean,3.245909
+1677,35mm colour film - 24 EXP,01/03/2001,p25,2.49
+1678,35mm colour film - 24 EXP,01/03/2001,p_median,3.12
+1679,35mm colour film - 24 EXP,01/03/2001,p75,4.29
+1680,Developing/Printing,01/03/2001,p_mean,4.077519
+1681,Developing/Printing,01/03/2001,p25,3.5
+1682,Developing/Printing,01/03/2001,p_median,3.99
+1683,Developing/Printing,01/03/2001,p75,4.49
+1684,35mm Compact Camera,01/03/2001,p_mean,57.18948
+1685,35mm Compact Camera,01/03/2001,p25,26.99
+1686,35mm Compact Camera,01/03/2001,p_median,48.9
+1687,35mm Compact Camera,01/03/2001,p75,79.99
+1688,Developing/Printing,01/04/2001,p_mean,4.081203
+1689,Developing/Printing,01/04/2001,p25,3.5
+1690,Developing/Printing,01/04/2001,p_median,3.99
+1691,Developing/Printing,01/04/2001,p75,4.49
+1692,35mm Compact Camera,01/04/2001,p_mean,58.8292
+1693,35mm Compact Camera,01/04/2001,p25,29.99
+1694,35mm Compact Camera,01/04/2001,p_median,48.9
+1695,35mm Compact Camera,01/04/2001,p75,89.0
+1696,35mm colour film - 24 EXP,01/04/2001,p_mean,3.251719
+1697,35mm colour film - 24 EXP,01/04/2001,p25,2.49
+1698,35mm colour film - 24 EXP,01/04/2001,p_median,2.99
+1699,35mm colour film - 24 EXP,01/04/2001,p75,4.29
+1700,35mm Compact Camera,01/05/2001,p_mean,61.58575
+1701,35mm Compact Camera,01/05/2001,p25,32.245
+1702,35mm Compact Camera,01/05/2001,p_median,48.9
+1703,35mm Compact Camera,01/05/2001,p75,89.99
+1704,35mm colour film - 24 EXP,01/05/2001,p_mean,3.268195
+1705,35mm colour film - 24 EXP,01/05/2001,p25,2.49
+1706,35mm colour film - 24 EXP,01/05/2001,p_median,3.25
+1707,35mm colour film - 24 EXP,01/05/2001,p75,4.29
+1708,Developing/Printing,01/05/2001,p_mean,4.062889
+1709,Developing/Printing,01/05/2001,p25,3.5
+1710,Developing/Printing,01/05/2001,p_median,3.99
+1711,Developing/Printing,01/05/2001,p75,4.49
+1712,35mm Compact Camera,01/06/2001,p_mean,59.72352
+1713,35mm Compact Camera,01/06/2001,p25,29.99
+1714,35mm Compact Camera,01/06/2001,p_median,48.9
+1715,35mm Compact Camera,01/06/2001,p75,89.9
+1716,35mm colour film - 24 EXP,01/06/2001,p_mean,3.228295
+1717,35mm colour film - 24 EXP,01/06/2001,p25,2.49
+1718,35mm colour film - 24 EXP,01/06/2001,p_median,2.99
+1719,35mm colour film - 24 EXP,01/06/2001,p75,4.29
+1720,Developing/Printing,01/06/2001,p_mean,4.058209
+1721,Developing/Printing,01/06/2001,p25,3.5
+1722,Developing/Printing,01/06/2001,p_median,3.99
+1723,Developing/Printing,01/06/2001,p75,4.49
+1724,35mm Compact Camera,01/07/2001,p_mean,60.0437
+1725,35mm Compact Camera,01/07/2001,p25,29.99
+1726,35mm Compact Camera,01/07/2001,p_median,48.9
+1727,35mm Compact Camera,01/07/2001,p75,94.95
+1728,Developing/Printing,01/07/2001,p_mean,4.071912
+1729,Developing/Printing,01/07/2001,p25,3.495
+1730,Developing/Printing,01/07/2001,p_median,3.99
+1731,Developing/Printing,01/07/2001,p75,4.49
+1732,35mm colour film - 24 EXP,01/07/2001,p_mean,3.257727
+1733,35mm colour film - 24 EXP,01/07/2001,p25,2.49
+1734,35mm colour film - 24 EXP,01/07/2001,p_median,2.99
+1735,35mm colour film - 24 EXP,01/07/2001,p75,4.29
+1736,Developing/Printing,01/08/2001,p_mean,4.073503
+1737,Developing/Printing,01/08/2001,p25,3.5
+1738,Developing/Printing,01/08/2001,p_median,3.99
+1739,Developing/Printing,01/08/2001,p75,4.49
+1740,35mm colour film - 24 EXP,01/08/2001,p_mean,3.293435
+1741,35mm colour film - 24 EXP,01/08/2001,p25,2.49
+1742,35mm colour film - 24 EXP,01/08/2001,p_median,3.25
+1743,35mm colour film - 24 EXP,01/08/2001,p75,4.29
+1744,35mm Compact Camera,01/08/2001,p_mean,61.11138
+1745,35mm Compact Camera,01/08/2001,p25,29.99
+1746,35mm Compact Camera,01/08/2001,p_median,48.9
+1747,35mm Compact Camera,01/08/2001,p75,99.9
+1748,35mm Compact Camera,01/09/2001,p_mean,59.98898
+1749,35mm Compact Camera,01/09/2001,p25,29.99
+1750,35mm Compact Camera,01/09/2001,p_median,48.9
+1751,35mm Compact Camera,01/09/2001,p75,89.99
+1752,35mm colour film - 24 EXP,01/09/2001,p_mean,3.293308
+1753,35mm colour film - 24 EXP,01/09/2001,p25,2.49
+1754,35mm colour film - 24 EXP,01/09/2001,p_median,3.25
+1755,35mm colour film - 24 EXP,01/09/2001,p75,4.29
+1756,Developing/Printing,01/09/2001,p_mean,4.091703
+1757,Developing/Printing,01/09/2001,p25,3.5
+1758,Developing/Printing,01/09/2001,p_median,3.99
+1759,Developing/Printing,01/09/2001,p75,4.49
+1760,35mm colour film - 24 EXP,01/10/2001,p_mean,3.309385
+1761,35mm colour film - 24 EXP,01/10/2001,p25,2.49
+1762,35mm colour film - 24 EXP,01/10/2001,p_median,3.27
+1763,35mm colour film - 24 EXP,01/10/2001,p75,4.29
+1764,35mm Compact Camera,01/10/2001,p_mean,61.41396
+1765,35mm Compact Camera,01/10/2001,p25,30.0
+1766,35mm Compact Camera,01/10/2001,p_median,48.9
+1767,35mm Compact Camera,01/10/2001,p75,99.9
+1768,Developing/Printing,01/10/2001,p_mean,4.07306
+1769,Developing/Printing,01/10/2001,p25,3.5
+1770,Developing/Printing,01/10/2001,p_median,3.99
+1771,Developing/Printing,01/10/2001,p75,4.49
+1772,35mm colour film - 24 EXP,01/11/2001,p_mean,3.281825
+1773,35mm colour film - 24 EXP,01/11/2001,p25,2.49
+1774,35mm colour film - 24 EXP,01/11/2001,p_median,3.25
+1775,35mm colour film - 24 EXP,01/11/2001,p75,4.29
+1776,Developing/Printing,01/11/2001,p_mean,4.079852
+1777,Developing/Printing,01/11/2001,p25,3.5
+1778,Developing/Printing,01/11/2001,p_median,3.99
+1779,Developing/Printing,01/11/2001,p75,4.49
+1780,35mm Compact Camera,01/11/2001,p_mean,61.14013
+1781,35mm Compact Camera,01/11/2001,p25,29.99
+1782,35mm Compact Camera,01/11/2001,p_median,48.9
+1783,35mm Compact Camera,01/11/2001,p75,95.0
+1784,35mm colour film - 24 EXP,01/12/2001,p_mean,3.330827
+1785,35mm colour film - 24 EXP,01/12/2001,p25,2.49
+1786,35mm colour film - 24 EXP,01/12/2001,p_median,3.25
+1787,35mm colour film - 24 EXP,01/12/2001,p75,4.29
+1788,Developing/Printing,01/12/2001,p_mean,4.050222
+1789,Developing/Printing,01/12/2001,p25,3.49
+1790,Developing/Printing,01/12/2001,p_median,3.99
+1791,Developing/Printing,01/12/2001,p75,4.49
+1792,35mm Compact Camera,01/12/2001,p_mean,61.92147
+1793,35mm Compact Camera,01/12/2001,p25,30.0
+1794,35mm Compact Camera,01/12/2001,p_median,48.9
+1795,35mm Compact Camera,01/12/2001,p75,95.0
+1796,35mm Compact Camera,01/01/2002,p_mean,61.12915
+1797,35mm Compact Camera,01/01/2002,p25,29.97
+1798,35mm Compact Camera,01/01/2002,p_median,48.9
+1799,35mm Compact Camera,01/01/2002,p75,94.95
+1800,Developing/Printing,01/01/2002,p_mean,4.07306
+1801,Developing/Printing,01/01/2002,p25,3.49
+1802,Developing/Printing,01/01/2002,p_median,3.99
+1803,Developing/Printing,01/01/2002,p75,4.49
+1804,35mm colour film - 24 EXP,01/01/2002,p_mean,3.264919
+1805,35mm colour film - 24 EXP,01/01/2002,p25,2.49
+1806,35mm colour film - 24 EXP,01/01/2002,p_median,3.125
+1807,35mm colour film - 24 EXP,01/01/2002,p75,4.29
+1808,35mm Compact Camera,01/02/2002,p_mean,55.17814
+1809,35mm Compact Camera,01/02/2002,p25,24.99
+1810,35mm Compact Camera,01/02/2002,p_median,39.99
+1811,35mm Compact Camera,01/02/2002,p75,79.99
+1812,35mm colour film - 24 EXP,01/02/2002,p_mean,3.321328
+1813,35mm colour film - 24 EXP,01/02/2002,p25,2.59
+1814,35mm colour film - 24 EXP,01/02/2002,p_median,3.25
+1815,35mm colour film - 24 EXP,01/02/2002,p75,4.29
+1816,Disposable Camera - 24-27 EXP,01/02/2002,p_mean,7.227281
+1817,Disposable Camera - 24-27 EXP,01/02/2002,p25,5.99
+1818,Disposable Camera - 24-27 EXP,01/02/2002,p_median,6.99
+1819,Disposable Camera - 24-27 EXP,01/02/2002,p75,7.99
+1820,Developing/Printing,01/02/2002,p_mean,4.126296
+1821,Developing/Printing,01/02/2002,p25,3.49
+1822,Developing/Printing,01/02/2002,p_median,3.99
+1823,Developing/Printing,01/02/2002,p75,4.78
+1824,Developing/Printing,01/03/2002,p_mean,4.129855
+1825,Developing/Printing,01/03/2002,p25,3.49
+1826,Developing/Printing,01/03/2002,p_median,3.99
+1827,Developing/Printing,01/03/2002,p75,4.78
+1828,35mm colour film - 24 EXP,01/03/2002,p_mean,3.331591
+1829,35mm colour film - 24 EXP,01/03/2002,p25,2.59
+1830,35mm colour film - 24 EXP,01/03/2002,p_median,3.25
+1831,35mm colour film - 24 EXP,01/03/2002,p75,4.29
+1832,35mm Compact Camera,01/03/2002,p_mean,55.89232
+1833,35mm Compact Camera,01/03/2002,p25,24.99
+1834,35mm Compact Camera,01/03/2002,p_median,44.9
+1835,35mm Compact Camera,01/03/2002,p75,79.99
+1836,Disposable Camera - 24-27 EXP,01/03/2002,p_mean,7.283209
+1837,Disposable Camera - 24-27 EXP,01/03/2002,p25,5.99
+1838,Disposable Camera - 24-27 EXP,01/03/2002,p_median,6.99
+1839,Disposable Camera - 24-27 EXP,01/03/2002,p75,7.99
+1840,Disposable Camera - 24-27 EXP,01/04/2002,p_mean,7.285426
+1841,Disposable Camera - 24-27 EXP,01/04/2002,p25,5.99
+1842,Disposable Camera - 24-27 EXP,01/04/2002,p_median,6.99
+1843,Disposable Camera - 24-27 EXP,01/04/2002,p75,7.99
+1844,Developing/Printing,01/04/2002,p_mean,4.103333
+1845,Developing/Printing,01/04/2002,p25,3.49
+1846,Developing/Printing,01/04/2002,p_median,3.99
+1847,Developing/Printing,01/04/2002,p75,4.69
+1848,35mm colour film - 24 EXP,01/04/2002,p_mean,3.279618
+1849,35mm colour film - 24 EXP,01/04/2002,p25,2.69
+1850,35mm colour film - 24 EXP,01/04/2002,p_median,3.25
+1851,35mm colour film - 24 EXP,01/04/2002,p75,4.29
+1852,35mm Compact Camera,01/04/2002,p_mean,56.67873
+1853,35mm Compact Camera,01/04/2002,p25,24.99
+1854,35mm Compact Camera,01/04/2002,p_median,41.9
+1855,35mm Compact Camera,01/04/2002,p75,79.99
+1856,Developing/Printing,01/05/2002,p_mean,4.181111
+1857,Developing/Printing,01/05/2002,p25,3.5
+1858,Developing/Printing,01/05/2002,p_median,3.99
+1859,Developing/Printing,01/05/2002,p75,4.99
+1860,35mm colour film - 24 EXP,01/05/2002,p_mean,3.365781
+1861,35mm colour film - 24 EXP,01/05/2002,p25,2.74
+1862,35mm colour film - 24 EXP,01/05/2002,p_median,3.25
+1863,35mm colour film - 24 EXP,01/05/2002,p75,4.29
+1864,35mm Compact Camera,01/05/2002,p_mean,56.38344
+1865,35mm Compact Camera,01/05/2002,p25,24.99
+1866,35mm Compact Camera,01/05/2002,p_median,41.9
+1867,35mm Compact Camera,01/05/2002,p75,82.49
+1868,Disposable Camera - 24-27 EXP,01/05/2002,p_mean,7.1225
+1869,Disposable Camera - 24-27 EXP,01/05/2002,p25,5.99
+1870,Disposable Camera - 24-27 EXP,01/05/2002,p_median,6.99
+1871,Disposable Camera - 24-27 EXP,01/05/2002,p75,7.99
+1872,35mm colour film - 24 EXP,01/06/2002,p_mean,3.4
+1873,35mm colour film - 24 EXP,01/06/2002,p25,2.99
+1874,35mm colour film - 24 EXP,01/06/2002,p_median,3.29
+1875,35mm colour film - 24 EXP,01/06/2002,p75,4.29
+1876,35mm Compact Camera,01/06/2002,p_mean,57.11063
+1877,35mm Compact Camera,01/06/2002,p25,24.99
+1878,35mm Compact Camera,01/06/2002,p_median,41.9
+1879,35mm Compact Camera,01/06/2002,p75,89.0
+1880,Developing/Printing,01/06/2002,p_mean,4.207971
+1881,Developing/Printing,01/06/2002,p25,3.5
+1882,Developing/Printing,01/06/2002,p_median,3.99
+1883,Developing/Printing,01/06/2002,p75,4.99
+1884,Disposable Camera - 24-27 EXP,01/06/2002,p_mean,7.077348
+1885,Disposable Camera - 24-27 EXP,01/06/2002,p25,5.99
+1886,Disposable Camera - 24-27 EXP,01/06/2002,p_median,6.945
+1887,Disposable Camera - 24-27 EXP,01/06/2002,p75,7.99
+1888,Disposable Camera - 24-27 EXP,01/07/2002,p_mean,7.024812
+1889,Disposable Camera - 24-27 EXP,01/07/2002,p25,5.99
+1890,Disposable Camera - 24-27 EXP,01/07/2002,p_median,6.0
+1891,Disposable Camera - 24-27 EXP,01/07/2002,p75,7.99
+1892,35mm colour film - 24 EXP,01/07/2002,p_mean,3.385349
+1893,35mm colour film - 24 EXP,01/07/2002,p25,2.99
+1894,35mm colour film - 24 EXP,01/07/2002,p_median,3.29
+1895,35mm colour film - 24 EXP,01/07/2002,p75,4.29
+1896,35mm Compact Camera,01/07/2002,p_mean,59.71329
+1897,35mm Compact Camera,01/07/2002,p25,29.99
+1898,35mm Compact Camera,01/07/2002,p_median,42.95
+1899,35mm Compact Camera,01/07/2002,p75,89.945
+1900,Developing/Printing,01/07/2002,p_mean,4.24383
+1901,Developing/Printing,01/07/2002,p25,3.5
+1902,Developing/Printing,01/07/2002,p_median,3.99
+1903,Developing/Printing,01/07/2002,p75,4.99
+1904,Developing/Printing,01/08/2002,p_mean,4.244155
+1905,Developing/Printing,01/08/2002,p25,3.5
+1906,Developing/Printing,01/08/2002,p_median,3.99
+1907,Developing/Printing,01/08/2002,p75,4.99
+1908,35mm Compact Camera,01/08/2002,p_mean,62.37364
+1909,35mm Compact Camera,01/08/2002,p25,29.99
+1910,35mm Compact Camera,01/08/2002,p_median,44.95
+1911,35mm Compact Camera,01/08/2002,p75,89.99
+1912,Disposable Camera - 24-27 EXP,01/08/2002,p_mean,7.032319
+1913,Disposable Camera - 24-27 EXP,01/08/2002,p25,5.99
+1914,Disposable Camera - 24-27 EXP,01/08/2002,p_median,6.245
+1915,Disposable Camera - 24-27 EXP,01/08/2002,p75,7.99
+1916,35mm colour film - 24 EXP,01/08/2002,p_mean,3.414587
+1917,35mm colour film - 24 EXP,01/08/2002,p25,2.99
+1918,35mm colour film - 24 EXP,01/08/2002,p_median,3.29
+1919,35mm colour film - 24 EXP,01/08/2002,p75,4.29
+1920,Disposable Camera - 24-27 EXP,01/09/2002,p_mean,7.064702
+1921,Disposable Camera - 24-27 EXP,01/09/2002,p25,5.99
+1922,Disposable Camera - 24-27 EXP,01/09/2002,p_median,6.64
+1923,Disposable Camera - 24-27 EXP,01/09/2002,p75,7.99
+1924,Developing/Printing,01/09/2002,p_mean,4.242341
+1925,Developing/Printing,01/09/2002,p25,3.5
+1926,Developing/Printing,01/09/2002,p_median,3.99
+1927,Developing/Printing,01/09/2002,p75,4.99
+1928,35mm Compact Camera,01/09/2002,p_mean,61.80453
+1929,35mm Compact Camera,01/09/2002,p25,29.99
+1930,35mm Compact Camera,01/09/2002,p_median,44.95
+1931,35mm Compact Camera,01/09/2002,p75,89.99
+1932,35mm colour film - 24 EXP,01/09/2002,p_mean,3.421185
+1933,35mm colour film - 24 EXP,01/09/2002,p25,2.79
+1934,35mm colour film - 24 EXP,01/09/2002,p_median,3.29
+1935,35mm colour film - 24 EXP,01/09/2002,p75,4.29
+1936,35mm colour film - 24 EXP,01/10/2002,p_mean,3.40625
+1937,35mm colour film - 24 EXP,01/10/2002,p25,2.99
+1938,35mm colour film - 24 EXP,01/10/2002,p_median,3.25
+1939,35mm colour film - 24 EXP,01/10/2002,p75,4.29
+1940,Disposable Camera - 24-27 EXP,01/10/2002,p_mean,6.99553
+1941,Disposable Camera - 24-27 EXP,01/10/2002,p25,5.9
+1942,Disposable Camera - 24-27 EXP,01/10/2002,p_median,5.99
+1943,Disposable Camera - 24-27 EXP,01/10/2002,p75,7.99
+1944,35mm Compact Camera,01/10/2002,p_mean,60.48451
+1945,35mm Compact Camera,01/10/2002,p25,29.99
+1946,35mm Compact Camera,01/10/2002,p_median,44.475
+1947,35mm Compact Camera,01/10/2002,p75,89.9
+1948,Developing/Printing,01/10/2002,p_mean,4.277802
+1949,Developing/Printing,01/10/2002,p25,3.5
+1950,Developing/Printing,01/10/2002,p_median,3.99
+1951,Developing/Printing,01/10/2002,p75,4.99
+1952,Developing/Printing,01/11/2002,p_mean,4.287664
+1953,Developing/Printing,01/11/2002,p25,3.5
+1954,Developing/Printing,01/11/2002,p_median,3.99
+1955,Developing/Printing,01/11/2002,p75,4.99
+1956,Disposable Camera - 24-27 EXP,01/11/2002,p_mean,6.996984
+1957,Disposable Camera - 24-27 EXP,01/11/2002,p25,5.99
+1958,Disposable Camera - 24-27 EXP,01/11/2002,p_median,6.49
+1959,Disposable Camera - 24-27 EXP,01/11/2002,p75,7.99
+1960,35mm colour film - 24 EXP,01/11/2002,p_mean,3.343588
+1961,35mm colour film - 24 EXP,01/11/2002,p25,2.59
+1962,35mm colour film - 24 EXP,01/11/2002,p_median,3.25
+1963,35mm colour film - 24 EXP,01/11/2002,p75,4.29
+1964,35mm Compact Camera,01/11/2002,p_mean,60.1888
+1965,35mm Compact Camera,01/11/2002,p25,29.99
+1966,35mm Compact Camera,01/11/2002,p_median,43.0
+1967,35mm Compact Camera,01/11/2002,p75,89.9
+1968,Disposable Camera - 24-27 EXP,01/12/2002,p_mean,7.175194
+1969,Disposable Camera - 24-27 EXP,01/12/2002,p25,5.99
+1970,Disposable Camera - 24-27 EXP,01/12/2002,p_median,6.99
+1971,Disposable Camera - 24-27 EXP,01/12/2002,p75,8.9
+1972,35mm Compact Camera,01/12/2002,p_mean,57.88419
+1973,35mm Compact Camera,01/12/2002,p25,29.99
+1974,35mm Compact Camera,01/12/2002,p_median,41.9
+1975,35mm Compact Camera,01/12/2002,p75,89.0
+1976,35mm colour film - 24 EXP,01/12/2002,p_mean,3.337442
+1977,35mm colour film - 24 EXP,01/12/2002,p25,2.59
+1978,35mm colour film - 24 EXP,01/12/2002,p_median,3.25
+1979,35mm colour film - 24 EXP,01/12/2002,p75,4.29
+1980,Developing/Printing,01/12/2002,p_mean,4.284015
+1981,Developing/Printing,01/12/2002,p25,3.5
+1982,Developing/Printing,01/12/2002,p_median,3.99
+1983,Developing/Printing,01/12/2002,p75,4.99
+1984,35mm colour film - 24 EXP,01/01/2003,p_mean,3.289615
+1985,35mm colour film - 24 EXP,01/01/2003,p25,2.69
+1986,35mm colour film - 24 EXP,01/01/2003,p_median,3.25
+1987,35mm colour film - 24 EXP,01/01/2003,p75,4.29
+1988,Developing/Printing,01/01/2003,p_mean,4.309562
+1989,Developing/Printing,01/01/2003,p25,3.5
+1990,Developing/Printing,01/01/2003,p_median,3.99
+1991,Developing/Printing,01/01/2003,p75,4.99
+1992,35mm Compact Camera,01/01/2003,p_mean,59.55275
+1993,35mm Compact Camera,01/01/2003,p25,29.99
+1994,35mm Compact Camera,01/01/2003,p_median,39.99
+1995,35mm Compact Camera,01/01/2003,p75,79.99
+1996,Disposable Camera - 24-27 EXP,01/01/2003,p_mean,7.162325
+1997,Disposable Camera - 24-27 EXP,01/01/2003,p25,5.99
+1998,Disposable Camera - 24-27 EXP,01/01/2003,p_median,6.99
+1999,Disposable Camera - 24-27 EXP,01/01/2003,p75,8.9
+2000,35mm colour film - 24 EXP,01/02/2003,p_mean,3.405691
+2001,35mm colour film - 24 EXP,01/02/2003,p25,2.79
+2002,35mm colour film - 24 EXP,01/02/2003,p_median,3.25
+2003,35mm colour film - 24 EXP,01/02/2003,p75,4.29
+2004,35mm Compact Camera,01/02/2003,p_mean,58.89597
+2005,35mm Compact Camera,01/02/2003,p25,24.99
+2006,35mm Compact Camera,01/02/2003,p_median,39.99
+2007,35mm Compact Camera,01/02/2003,p75,89.9
+2008,Disposable Camera - 24-27 EXP,01/02/2003,p_mean,7.117803
+2009,Disposable Camera - 24-27 EXP,01/02/2003,p25,5.99
+2010,Disposable Camera - 24-27 EXP,01/02/2003,p_median,6.945
+2011,Disposable Camera - 24-27 EXP,01/02/2003,p75,7.99
+2012,Developing/Printing,01/02/2003,p_mean,4.412879
+2013,Developing/Printing,01/02/2003,p25,3.5
+2014,Developing/Printing,01/02/2003,p_median,3.99
+2015,Developing/Printing,01/02/2003,p75,4.99
+2016,Developing/Printing,01/03/2003,p_mean,4.435606
+2017,Developing/Printing,01/03/2003,p25,3.595
+2018,Developing/Printing,01/03/2003,p_median,4.49
+2019,Developing/Printing,01/03/2003,p75,4.99
+2020,35mm Compact Camera,01/03/2003,p_mean,55.54779
+2021,35mm Compact Camera,01/03/2003,p25,25.0
+2022,35mm Compact Camera,01/03/2003,p_median,39.9
+2023,35mm Compact Camera,01/03/2003,p75,79.99
+2024,35mm colour film - 24 EXP,01/03/2003,p_mean,3.416535
+2025,35mm colour film - 24 EXP,01/03/2003,p25,2.79
+2026,35mm colour film - 24 EXP,01/03/2003,p_median,3.25
+2027,35mm colour film - 24 EXP,01/03/2003,p75,4.29
+2028,Disposable Camera - 24-27 EXP,01/03/2003,p_mean,7.162481
+2029,Disposable Camera - 24-27 EXP,01/03/2003,p25,5.99
+2030,Disposable Camera - 24-27 EXP,01/03/2003,p_median,6.9
+2031,Disposable Camera - 24-27 EXP,01/03/2003,p75,8.9
+2032,Developing/Printing,01/04/2003,p_mean,4.44697
+2033,Developing/Printing,01/04/2003,p25,3.595
+2034,Developing/Printing,01/04/2003,p_median,4.49
+2035,Developing/Printing,01/04/2003,p75,4.99
+2036,Disposable Camera - 24-27 EXP,01/04/2003,p_mean,7.140752
+2037,Disposable Camera - 24-27 EXP,01/04/2003,p25,5.99
+2038,Disposable Camera - 24-27 EXP,01/04/2003,p_median,6.99
+2039,Disposable Camera - 24-27 EXP,01/04/2003,p75,8.9
+2040,35mm colour film - 24 EXP,01/04/2003,p_mean,3.461344
+2041,35mm colour film - 24 EXP,01/04/2003,p25,2.79
+2042,35mm colour film - 24 EXP,01/04/2003,p_median,3.25
+2043,35mm colour film - 24 EXP,01/04/2003,p75,4.29
+2044,35mm Compact Camera,01/04/2003,p_mean,55.35007
+2045,35mm Compact Camera,01/04/2003,p25,29.99
+2046,35mm Compact Camera,01/04/2003,p_median,39.99
+2047,35mm Compact Camera,01/04/2003,p75,80.0
+2048,Disposable Camera - 24-27 EXP,01/05/2003,p_mean,7.154154
+2049,Disposable Camera - 24-27 EXP,01/05/2003,p25,5.99
+2050,Disposable Camera - 24-27 EXP,01/05/2003,p_median,6.99
+2051,Disposable Camera - 24-27 EXP,01/05/2003,p75,8.9
+2052,35mm Compact Camera,01/05/2003,p_mean,55.49987
+2053,35mm Compact Camera,01/05/2003,p25,29.99
+2054,35mm Compact Camera,01/05/2003,p_median,39.99
+2055,35mm Compact Camera,01/05/2003,p75,89.0
+2056,Developing/Printing,01/05/2003,p_mean,4.450758
+2057,Developing/Printing,01/05/2003,p25,3.595
+2058,Developing/Printing,01/05/2003,p_median,4.49
+2059,Developing/Printing,01/05/2003,p75,4.99
+2060,35mm colour film - 24 EXP,01/05/2003,p_mean,3.490763
+2061,35mm colour film - 24 EXP,01/05/2003,p25,2.83
+2062,35mm colour film - 24 EXP,01/05/2003,p_median,3.49
+2063,35mm colour film - 24 EXP,01/05/2003,p75,4.29
+2064,Developing/Printing,01/06/2003,p_mean,4.488702
+2065,Developing/Printing,01/06/2003,p25,3.69
+2066,Developing/Printing,01/06/2003,p_median,4.49
+2067,Developing/Printing,01/06/2003,p75,4.99
+2068,35mm colour film - 24 EXP,01/06/2003,p_mean,3.398974
+2069,35mm colour film - 24 EXP,01/06/2003,p25,2.79
+2070,35mm colour film - 24 EXP,01/06/2003,p_median,3.25
+2071,35mm colour film - 24 EXP,01/06/2003,p75,4.29
+2072,Disposable Camera - 24-27 EXP,01/06/2003,p_mean,7.168217
+2073,Disposable Camera - 24-27 EXP,01/06/2003,p25,5.99
+2074,Disposable Camera - 24-27 EXP,01/06/2003,p_median,6.99
+2075,Disposable Camera - 24-27 EXP,01/06/2003,p75,7.99
+2076,35mm Compact Camera,01/06/2003,p_mean,54.33846
+2077,35mm Compact Camera,01/06/2003,p25,29.99
+2078,35mm Compact Camera,01/06/2003,p_median,37.99
+2079,35mm Compact Camera,01/06/2003,p75,80.0
+2080,Developing/Printing,01/07/2003,p_mean,4.609134
+2081,Developing/Printing,01/07/2003,p25,3.99
+2082,Developing/Printing,01/07/2003,p_median,4.78
+2083,Developing/Printing,01/07/2003,p75,4.99
+2084,35mm Compact Camera,01/07/2003,p_mean,54.92973
+2085,35mm Compact Camera,01/07/2003,p25,29.99
+2086,35mm Compact Camera,01/07/2003,p_median,39.99
+2087,35mm Compact Camera,01/07/2003,p75,79.99
+2088,35mm colour film - 24 EXP,01/07/2003,p_mean,3.411795
+2089,35mm colour film - 24 EXP,01/07/2003,p25,2.79
+2090,35mm colour film - 24 EXP,01/07/2003,p_median,3.25
+2091,35mm colour film - 24 EXP,01/07/2003,p75,4.29
+2092,Disposable Camera - 24-27 EXP,01/07/2003,p_mean,7.18968
+2093,Disposable Camera - 24-27 EXP,01/07/2003,p25,5.99
+2094,Disposable Camera - 24-27 EXP,01/07/2003,p_median,6.99
+2095,Disposable Camera - 24-27 EXP,01/07/2003,p75,7.99
+2096,35mm Compact Camera,01/08/2003,p_mean,56.48566
+2097,35mm Compact Camera,01/08/2003,p25,29.99
+2098,35mm Compact Camera,01/08/2003,p_median,39.99
+2099,35mm Compact Camera,01/08/2003,p75,79.95
+2100,Developing/Printing,01/08/2003,p_mean,4.61023
+2101,Developing/Printing,01/08/2003,p25,3.99
+2102,Developing/Printing,01/08/2003,p_median,4.735
+2103,Developing/Printing,01/08/2003,p75,4.99
+2104,Disposable Camera - 24-27 EXP,01/08/2003,p_mean,7.222677
+2105,Disposable Camera - 24-27 EXP,01/08/2003,p25,5.99
+2106,Disposable Camera - 24-27 EXP,01/08/2003,p_median,6.99
+2107,Disposable Camera - 24-27 EXP,01/08/2003,p75,8.9
+2108,35mm colour film - 24 EXP,01/08/2003,p_mean,3.462368
+2109,35mm colour film - 24 EXP,01/08/2003,p25,2.95
+2110,35mm colour film - 24 EXP,01/08/2003,p_median,3.25
+2111,35mm colour film - 24 EXP,01/08/2003,p75,4.29
+2112,35mm Compact Camera,01/09/2003,p_mean,55.32059
+2113,35mm Compact Camera,01/09/2003,p25,29.99
+2114,35mm Compact Camera,01/09/2003,p_median,39.99
+2115,35mm Compact Camera,01/09/2003,p75,79.9
+2116,Disposable Camera - 24-27 EXP,01/09/2003,p_mean,7.188741
+2117,Disposable Camera - 24-27 EXP,01/09/2003,p25,5.99
+2118,Disposable Camera - 24-27 EXP,01/09/2003,p_median,6.99
+2119,Disposable Camera - 24-27 EXP,01/09/2003,p75,7.99
+2120,35mm colour film - 24 EXP,01/09/2003,p_mean,3.450168
+2121,35mm colour film - 24 EXP,01/09/2003,p25,2.79
+2122,35mm colour film - 24 EXP,01/09/2003,p_median,3.25
+2123,35mm colour film - 24 EXP,01/09/2003,p75,4.29
+2124,Developing/Printing,01/09/2003,p_mean,4.590229
+2125,Developing/Printing,01/09/2003,p25,3.75
+2126,Developing/Printing,01/09/2003,p_median,4.69
+2127,Developing/Printing,01/09/2003,p75,4.99
+2128,Developing/Printing,01/10/2003,p_mean,4.616946
+2129,Developing/Printing,01/10/2003,p25,3.99
+2130,Developing/Printing,01/10/2003,p_median,4.8
+2131,Developing/Printing,01/10/2003,p75,4.99
+2132,Disposable Camera - 24-27 EXP,01/10/2003,p_mean,7.150074
+2133,Disposable Camera - 24-27 EXP,01/10/2003,p25,5.99
+2134,Disposable Camera - 24-27 EXP,01/10/2003,p_median,6.15
+2135,Disposable Camera - 24-27 EXP,01/10/2003,p75,7.99
+2136,35mm colour film - 24 EXP,01/10/2003,p_mean,3.445917
+2137,35mm colour film - 24 EXP,01/10/2003,p25,2.79
+2138,35mm colour film - 24 EXP,01/10/2003,p_median,3.25
+2139,35mm colour film - 24 EXP,01/10/2003,p75,4.29
+2140,35mm Compact Camera,01/10/2003,p_mean,55.12895
+2141,35mm Compact Camera,01/10/2003,p25,29.99
+2142,35mm Compact Camera,01/10/2003,p_median,39.99
+2143,35mm Compact Camera,01/10/2003,p75,79.9
+2144,Disposable Camera - 24-27 EXP,01/11/2003,p_mean,6.972308
+2145,Disposable Camera - 24-27 EXP,01/11/2003,p25,5.99
+2146,Disposable Camera - 24-27 EXP,01/11/2003,p_median,5.99
+2147,Disposable Camera - 24-27 EXP,01/11/2003,p75,7.99
+2148,35mm colour film - 24 EXP,01/11/2003,p_mean,3.279344
+2149,35mm colour film - 24 EXP,01/11/2003,p25,2.5
+2150,35mm colour film - 24 EXP,01/11/2003,p_median,3.25
+2151,35mm colour film - 24 EXP,01/11/2003,p75,4.29
+2152,Developing/Printing,01/11/2003,p_mean,4.598485
+2153,Developing/Printing,01/11/2003,p25,3.935
+2154,Developing/Printing,01/11/2003,p_median,4.895
+2155,Developing/Printing,01/11/2003,p75,4.99
+2156,35mm Compact Camera,01/11/2003,p_mean,56.34658
+2157,35mm Compact Camera,01/11/2003,p25,29.99
+2158,35mm Compact Camera,01/11/2003,p_median,39.99
+2159,35mm Compact Camera,01/11/2003,p75,79.9
+2160,35mm colour film - 24 EXP,01/12/2003,p_mean,3.454706
+2161,35mm colour film - 24 EXP,01/12/2003,p25,2.82
+2162,35mm colour film - 24 EXP,01/12/2003,p_median,3.39
+2163,35mm colour film - 24 EXP,01/12/2003,p75,4.415
+2164,Developing/Printing,01/12/2003,p_mean,4.596866
+2165,Developing/Printing,01/12/2003,p25,3.99
+2166,Developing/Printing,01/12/2003,p_median,4.895
+2167,Developing/Printing,01/12/2003,p75,4.99
+2168,35mm Compact Camera,01/12/2003,p_mean,58.86892
+2169,35mm Compact Camera,01/12/2003,p25,29.99
+2170,35mm Compact Camera,01/12/2003,p_median,39.99
+2171,35mm Compact Camera,01/12/2003,p75,79.99
+2172,Disposable Camera - 24-27 EXP,01/12/2003,p_mean,6.913154
+2173,Disposable Camera - 24-27 EXP,01/12/2003,p25,5.99
+2174,Disposable Camera - 24-27 EXP,01/12/2003,p_median,5.99
+2175,Disposable Camera - 24-27 EXP,01/12/2003,p75,7.99
+2176,Developing/Printing,01/01/2004,p_mean,4.612538
+2177,Developing/Printing,01/01/2004,p25,3.99
+2178,Developing/Printing,01/01/2004,p_median,4.99
+2179,Developing/Printing,01/01/2004,p75,4.99
+2180,35mm Compact Camera,01/01/2004,p_mean,55.79705
+2181,35mm Compact Camera,01/01/2004,p25,29.99
+2182,35mm Compact Camera,01/01/2004,p_median,39.99
+2183,35mm Compact Camera,01/01/2004,p75,79.945
+2184,Disposable Camera - 24-27 EXP,01/01/2004,p_mean,6.859091
+2185,Disposable Camera - 24-27 EXP,01/01/2004,p25,5.99
+2186,Disposable Camera - 24-27 EXP,01/01/2004,p_median,6.74
+2187,Disposable Camera - 24-27 EXP,01/01/2004,p75,7.99
+2188,35mm colour film - 24 EXP,01/01/2004,p_mean,3.503869
+2189,35mm colour film - 24 EXP,01/01/2004,p25,2.79
+2190,35mm colour film - 24 EXP,01/01/2004,p_median,3.29
+2191,35mm colour film - 24 EXP,01/01/2004,p75,4.49
+2192,Developing/Printing,01/02/2004,p_mean,4.545714
+2193,Developing/Printing,01/02/2004,p25,3.99
+2194,Developing/Printing,01/02/2004,p_median,4.49
+2195,Developing/Printing,01/02/2004,p75,4.99
+2196,35mm colour film - 24 EXP,01/02/2004,p_mean,3.324593
+2197,35mm colour film - 24 EXP,01/02/2004,p25,2.49
+2198,35mm colour film - 24 EXP,01/02/2004,p_median,3.25
+2199,35mm colour film - 24 EXP,01/02/2004,p75,4.39
+2200,Disposable Camera - 24-27 EXP,01/02/2004,p_mean,6.925808
+2201,Disposable Camera - 24-27 EXP,01/02/2004,p25,5.99
+2202,Disposable Camera - 24-27 EXP,01/02/2004,p_median,5.99
+2203,Disposable Camera - 24-27 EXP,01/02/2004,p75,7.99
+2204,35mm Compact Camera,01/02/2004,p_mean,55.71227
+2205,35mm Compact Camera,01/02/2004,p25,29.0
+2206,35mm Compact Camera,01/02/2004,p_median,39.99
+2207,35mm Compact Camera,01/02/2004,p75,79.99
+2208,35mm Compact Camera,01/03/2004,p_mean,59.34639
+2209,35mm Compact Camera,01/03/2004,p25,29.99
+2210,35mm Compact Camera,01/03/2004,p_median,39.99
+2211,35mm Compact Camera,01/03/2004,p75,79.99
+2212,35mm colour film - 24 EXP,01/03/2004,p_mean,3.39816
+2213,35mm colour film - 24 EXP,01/03/2004,p25,2.95
+2214,35mm colour film - 24 EXP,01/03/2004,p_median,3.25
+2215,35mm colour film - 24 EXP,01/03/2004,p75,4.29
+2216,Disposable Camera - 24-27 EXP,01/03/2004,p_mean,6.702127
+2217,Disposable Camera - 24-27 EXP,01/03/2004,p25,5.9
+2218,Disposable Camera - 24-27 EXP,01/03/2004,p_median,5.99
+2219,Disposable Camera - 24-27 EXP,01/03/2004,p75,7.99
+2220,Developing/Printing,01/03/2004,p_mean,4.575118
+2221,Developing/Printing,01/03/2004,p25,3.99
+2222,Developing/Printing,01/03/2004,p_median,4.69
+2223,Developing/Printing,01/03/2004,p75,4.99
+2224,Developing/Printing,01/04/2004,p_mean,4.584384
+2225,Developing/Printing,01/04/2004,p25,3.99
+2226,Developing/Printing,01/04/2004,p_median,4.59
+2227,Developing/Printing,01/04/2004,p75,4.99
+2228,35mm colour film - 24 EXP,01/04/2004,p_mean,3.34754
+2229,35mm colour film - 24 EXP,01/04/2004,p25,2.95
+2230,35mm colour film - 24 EXP,01/04/2004,p_median,3.25
+2231,35mm colour film - 24 EXP,01/04/2004,p75,4.29
+2232,Disposable Camera - 24-27 EXP,01/04/2004,p_mean,6.823809
+2233,Disposable Camera - 24-27 EXP,01/04/2004,p25,5.99
+2234,Disposable Camera - 24-27 EXP,01/04/2004,p_median,5.99
+2235,Disposable Camera - 24-27 EXP,01/04/2004,p75,7.99
+2236,35mm Compact Camera,01/04/2004,p_mean,60.08279
+2237,35mm Compact Camera,01/04/2004,p25,29.99
+2238,35mm Compact Camera,01/04/2004,p_median,39.99
+2239,35mm Compact Camera,01/04/2004,p75,87.95
+2240,Developing/Printing,01/05/2004,p_mean,4.580538
+2241,Developing/Printing,01/05/2004,p25,3.99
+2242,Developing/Printing,01/05/2004,p_median,4.59
+2243,Developing/Printing,01/05/2004,p75,4.99
+2244,35mm colour film - 24 EXP,01/05/2004,p_mean,3.300444
+2245,35mm colour film - 24 EXP,01/05/2004,p25,2.99
+2246,35mm colour film - 24 EXP,01/05/2004,p_median,3.25
+2247,35mm colour film - 24 EXP,01/05/2004,p75,4.29
+2248,Disposable Camera - 24-27 EXP,01/05/2004,p_mean,6.898138
+2249,Disposable Camera - 24-27 EXP,01/05/2004,p25,5.99
+2250,Disposable Camera - 24-27 EXP,01/05/2004,p_median,5.99
+2251,Disposable Camera - 24-27 EXP,01/05/2004,p75,7.99
+2252,35mm Compact Camera,01/05/2004,p_mean,57.06601
+2253,35mm Compact Camera,01/05/2004,p25,29.99
+2254,35mm Compact Camera,01/05/2004,p_median,37.95
+2255,35mm Compact Camera,01/05/2004,p75,79.9
+2256,35mm Compact Camera,01/06/2004,p_mean,56.27185
+2257,35mm Compact Camera,01/06/2004,p25,29.99
+2258,35mm Compact Camera,01/06/2004,p_median,37.95
+2259,35mm Compact Camera,01/06/2004,p75,79.9
+2260,35mm colour film - 24 EXP,01/06/2004,p_mean,3.430597
+2261,35mm colour film - 24 EXP,01/06/2004,p25,2.99
+2262,35mm colour film - 24 EXP,01/06/2004,p_median,3.25
+2263,35mm colour film - 24 EXP,01/06/2004,p75,4.29
+2264,Developing/Printing,01/06/2004,p_mean,4.642406
+2265,Developing/Printing,01/06/2004,p25,3.99
+2266,Developing/Printing,01/06/2004,p_median,4.99
+2267,Developing/Printing,01/06/2004,p75,4.99
+2268,Disposable Camera - 24-27 EXP,01/06/2004,p_mean,6.686601
+2269,Disposable Camera - 24-27 EXP,01/06/2004,p25,5.9
+2270,Disposable Camera - 24-27 EXP,01/06/2004,p_median,5.99
+2271,Disposable Camera - 24-27 EXP,01/06/2004,p75,7.99
+2272,35mm Compact Camera,01/07/2004,p_mean,56.87503
+2273,35mm Compact Camera,01/07/2004,p25,29.99
+2274,35mm Compact Camera,01/07/2004,p_median,37.95
+2275,35mm Compact Camera,01/07/2004,p75,79.99
+2276,Developing/Printing,01/07/2004,p_mean,4.638647
+2277,Developing/Printing,01/07/2004,p25,3.99
+2278,Developing/Printing,01/07/2004,p_median,4.99
+2279,Developing/Printing,01/07/2004,p75,4.99
+2280,Disposable Camera - 24-27 EXP,01/07/2004,p_mean,6.658133
+2281,Disposable Camera - 24-27 EXP,01/07/2004,p25,5.9
+2282,Disposable Camera - 24-27 EXP,01/07/2004,p_median,5.99
+2283,Disposable Camera - 24-27 EXP,01/07/2004,p75,7.99
+2284,35mm colour film - 24 EXP,01/07/2004,p_mean,3.395036
+2285,35mm colour film - 24 EXP,01/07/2004,p25,2.99
+2286,35mm colour film - 24 EXP,01/07/2004,p_median,3.25
+2287,35mm colour film - 24 EXP,01/07/2004,p75,4.29
+2288,Developing/Printing,01/08/2004,p_mean,4.624338
+2289,Developing/Printing,01/08/2004,p25,3.99
+2290,Developing/Printing,01/08/2004,p_median,4.99
+2291,Developing/Printing,01/08/2004,p75,4.99
+2292,35mm colour film - 24 EXP,01/08/2004,p_mean,3.423333
+2293,35mm colour film - 24 EXP,01/08/2004,p25,2.99
+2294,35mm colour film - 24 EXP,01/08/2004,p_median,3.25
+2295,35mm colour film - 24 EXP,01/08/2004,p75,4.29
+2296,Disposable Camera - 24-27 EXP,01/08/2004,p_mean,6.897329
+2297,Disposable Camera - 24-27 EXP,01/08/2004,p25,5.9
+2298,Disposable Camera - 24-27 EXP,01/08/2004,p_median,5.99
+2299,Disposable Camera - 24-27 EXP,01/08/2004,p75,8.99
+2300,35mm Compact Camera,01/08/2004,p_mean,57.01449
+2301,35mm Compact Camera,01/08/2004,p25,29.99
+2302,35mm Compact Camera,01/08/2004,p_median,39.0
+2303,35mm Compact Camera,01/08/2004,p75,79.99
+2304,35mm Compact Camera,01/09/2004,p_mean,56.60796
+2305,35mm Compact Camera,01/09/2004,p25,27.99
+2306,35mm Compact Camera,01/09/2004,p_median,34.99
+2307,35mm Compact Camera,01/09/2004,p75,79.99
+2308,Disposable Camera - 24-27 EXP,01/09/2004,p_mean,7.035563
+2309,Disposable Camera - 24-27 EXP,01/09/2004,p25,5.99
+2310,Disposable Camera - 24-27 EXP,01/09/2004,p_median,5.99
+2311,Disposable Camera - 24-27 EXP,01/09/2004,p75,8.99
+2312,35mm colour film - 24 EXP,01/09/2004,p_mean,3.442941
+2313,35mm colour film - 24 EXP,01/09/2004,p25,2.99
+2314,35mm colour film - 24 EXP,01/09/2004,p_median,3.25
+2315,35mm colour film - 24 EXP,01/09/2004,p75,4.29
+2316,Developing/Printing,01/09/2004,p_mean,4.557279
+2317,Developing/Printing,01/09/2004,p25,3.99
+2318,Developing/Printing,01/09/2004,p_median,4.74
+2319,Developing/Printing,01/09/2004,p75,4.99
+2320,35mm Compact Camera,01/10/2004,p_mean,54.27317
+2321,35mm Compact Camera,01/10/2004,p25,24.99
+2322,35mm Compact Camera,01/10/2004,p_median,34.99
+2323,35mm Compact Camera,01/10/2004,p75,79.945
+2324,Disposable Camera - 24-27 EXP,01/10/2004,p_mean,7.047351
+2325,Disposable Camera - 24-27 EXP,01/10/2004,p25,5.9
+2326,Disposable Camera - 24-27 EXP,01/10/2004,p_median,5.99
+2327,Disposable Camera - 24-27 EXP,01/10/2004,p75,8.99
+2328,Developing/Printing,01/10/2004,p_mean,4.620662
+2329,Developing/Printing,01/10/2004,p25,3.99
+2330,Developing/Printing,01/10/2004,p_median,4.89
+2331,Developing/Printing,01/10/2004,p75,4.99
+2332,35mm colour film - 24 EXP,01/10/2004,p_mean,3.348273
+2333,35mm colour film - 24 EXP,01/10/2004,p25,2.99
+2334,35mm colour film - 24 EXP,01/10/2004,p_median,3.25
+2335,35mm colour film - 24 EXP,01/10/2004,p75,4.29
+2336,35mm colour film - 24 EXP,01/11/2004,p_mean,3.299712
+2337,35mm colour film - 24 EXP,01/11/2004,p25,2.99
+2338,35mm colour film - 24 EXP,01/11/2004,p_median,3.25
+2339,35mm colour film - 24 EXP,01/11/2004,p75,4.29
+2340,Disposable Camera - 24-27 EXP,01/11/2004,p_mean,7.197222
+2341,Disposable Camera - 24-27 EXP,01/11/2004,p25,5.99
+2342,Disposable Camera - 24-27 EXP,01/11/2004,p_median,6.99
+2343,Disposable Camera - 24-27 EXP,01/11/2004,p75,8.99
+2344,Developing/Printing,01/11/2004,p_mean,4.650677
+2345,Developing/Printing,01/11/2004,p25,3.99
+2346,Developing/Printing,01/11/2004,p_median,4.99
+2347,Developing/Printing,01/11/2004,p75,4.99
+2348,35mm Compact Camera,01/11/2004,p_mean,53.31825
+2349,35mm Compact Camera,01/11/2004,p25,24.99
+2350,35mm Compact Camera,01/11/2004,p_median,34.99
+2351,35mm Compact Camera,01/11/2004,p75,79.49
+2352,35mm colour film - 24 EXP,01/12/2004,p_mean,3.185532
+2353,35mm colour film - 24 EXP,01/12/2004,p25,2.49
+2354,35mm colour film - 24 EXP,01/12/2004,p_median,3.13
+2355,35mm colour film - 24 EXP,01/12/2004,p75,3.99
+2356,Disposable Camera - 24-27 EXP,01/12/2004,p_mean,7.165988
+2357,Disposable Camera - 24-27 EXP,01/12/2004,p25,5.9
+2358,Disposable Camera - 24-27 EXP,01/12/2004,p_median,6.99
+2359,Disposable Camera - 24-27 EXP,01/12/2004,p75,8.99
+2360,35mm Compact Camera,01/12/2004,p_mean,56.00033
+2361,35mm Compact Camera,01/12/2004,p25,27.99
+2362,35mm Compact Camera,01/12/2004,p_median,34.99
+2363,35mm Compact Camera,01/12/2004,p75,79.99
+2364,Developing/Printing,01/12/2004,p_mean,4.673926
+2365,Developing/Printing,01/12/2004,p25,3.99
+2366,Developing/Printing,01/12/2004,p_median,4.99
+2367,Developing/Printing,01/12/2004,p75,4.99
+2368,Disposable Camera - 24-27 EXP,01/01/2005,p_mean,6.98329
+2369,Disposable Camera - 24-27 EXP,01/01/2005,p25,5.9
+2370,Disposable Camera - 24-27 EXP,01/01/2005,p_median,5.99
+2371,Disposable Camera - 24-27 EXP,01/01/2005,p75,8.9
+2372,35mm Compact Camera,01/01/2005,p_mean,50.99599
+2373,35mm Compact Camera,01/01/2005,p25,24.99
+2374,35mm Compact Camera,01/01/2005,p_median,34.99
+2375,35mm Compact Camera,01/01/2005,p75,79.49
+2376,35mm colour film - 24 EXP,01/01/2005,p_mean,3.229928
+2377,35mm colour film - 24 EXP,01/01/2005,p25,2.5
+2378,35mm colour film - 24 EXP,01/01/2005,p_median,3.13
+2379,35mm colour film - 24 EXP,01/01/2005,p75,3.99
+2380,Developing/Printing,01/01/2005,p_mean,4.671103
+2381,Developing/Printing,01/01/2005,p25,3.99
+2382,Developing/Printing,01/01/2005,p_median,4.99
+2383,Developing/Printing,01/01/2005,p75,4.99
+2384,Developing/Printing,01/02/2005,p_mean,4.694809
+2385,Developing/Printing,01/02/2005,p25,3.99
+2386,Developing/Printing,01/02/2005,p_median,4.99
+2387,Developing/Printing,01/02/2005,p75,4.99
+2388,35mm colour film - 24 EXP,01/02/2005,p_mean,3.287744
+2389,35mm colour film - 24 EXP,01/02/2005,p25,2.69
+2390,35mm colour film - 24 EXP,01/02/2005,p_median,3.29
+2391,35mm colour film - 24 EXP,01/02/2005,p75,3.99
+2392,Disposable Camera - 24-27 EXP,01/02/2005,p_mean,7.164694
+2393,Disposable Camera - 24-27 EXP,01/02/2005,p25,5.99
+2394,Disposable Camera - 24-27 EXP,01/02/2005,p_median,5.99
+2395,Disposable Camera - 24-27 EXP,01/02/2005,p75,8.99
+2396,35mm Compact Camera,01/02/2005,p_mean,56.01191
+2397,35mm Compact Camera,01/02/2005,p25,27.99
+2398,35mm Compact Camera,01/02/2005,p_median,59.9
+2399,35mm Compact Camera,01/02/2005,p75,79.99
+2400,35mm Compact Camera,01/03/2005,p_mean,56.92972
+2401,35mm Compact Camera,01/03/2005,p25,29.99
+2402,35mm Compact Camera,01/03/2005,p_median,59.9
+2403,35mm Compact Camera,01/03/2005,p75,79.99
+2404,Disposable Camera - 24-27 EXP,01/03/2005,p_mean,7.231928
+2405,Disposable Camera - 24-27 EXP,01/03/2005,p25,5.99
+2406,Disposable Camera - 24-27 EXP,01/03/2005,p_median,5.99
+2407,Disposable Camera - 24-27 EXP,01/03/2005,p75,8.99
+2408,35mm colour film - 24 EXP,01/03/2005,p_mean,3.265448
+2409,35mm colour film - 24 EXP,01/03/2005,p25,2.79
+2410,35mm colour film - 24 EXP,01/03/2005,p_median,3.29
+2411,35mm colour film - 24 EXP,01/03/2005,p75,3.99
+2412,Developing/Printing,01/03/2005,p_mean,4.710081
+2413,Developing/Printing,01/03/2005,p25,3.99
+2414,Developing/Printing,01/03/2005,p_median,4.99
+2415,Developing/Printing,01/03/2005,p75,4.99
+2416,35mm Compact Camera,01/04/2005,p_mean,53.28551
+2417,35mm Compact Camera,01/04/2005,p25,24.99
+2418,35mm Compact Camera,01/04/2005,p_median,39.99
+2419,35mm Compact Camera,01/04/2005,p75,69.99
+2420,Disposable Camera - 24-27 EXP,01/04/2005,p_mean,7.147337
+2421,Disposable Camera - 24-27 EXP,01/04/2005,p25,5.99
+2422,Disposable Camera - 24-27 EXP,01/04/2005,p_median,6.745
+2423,Disposable Camera - 24-27 EXP,01/04/2005,p75,8.99
+2424,Developing/Printing,01/04/2005,p_mean,4.723577
+2425,Developing/Printing,01/04/2005,p25,3.99
+2426,Developing/Printing,01/04/2005,p_median,4.99
+2427,Developing/Printing,01/04/2005,p75,4.99
+2428,35mm colour film - 24 EXP,01/04/2005,p_mean,3.295349
+2429,35mm colour film - 24 EXP,01/04/2005,p25,2.79
+2430,35mm colour film - 24 EXP,01/04/2005,p_median,3.29
+2431,35mm colour film - 24 EXP,01/04/2005,p75,3.99
+2432,35mm colour film - 24 EXP,01/05/2005,p_mean,3.372148
+2433,35mm colour film - 24 EXP,01/05/2005,p25,2.79
+2434,35mm colour film - 24 EXP,01/05/2005,p_median,3.2
+2435,35mm colour film - 24 EXP,01/05/2005,p75,4.29
+2436,Developing/Printing,01/05/2005,p_mean,4.524651
+2437,Developing/Printing,01/05/2005,p25,3.99
+2438,Developing/Printing,01/05/2005,p_median,4.99
+2439,Developing/Printing,01/05/2005,p75,4.99
+2440,35mm Compact Camera,01/05/2005,p_mean,52.63617
+2441,35mm Compact Camera,01/05/2005,p25,29.9
+2442,35mm Compact Camera,01/05/2005,p_median,46.95
+2443,35mm Compact Camera,01/05/2005,p75,74.99
+2444,Disposable Camera - 24-27 EXP,01/05/2005,p_mean,6.958223
+2445,Disposable Camera - 24-27 EXP,01/05/2005,p25,5.9
+2446,Disposable Camera - 24-27 EXP,01/05/2005,p_median,5.99
+2447,Disposable Camera - 24-27 EXP,01/05/2005,p75,8.04
+2448,Disposable Camera - 24-27 EXP,01/06/2005,p_mean,6.573987
+2449,Disposable Camera - 24-27 EXP,01/06/2005,p25,4.99
+2450,Disposable Camera - 24-27 EXP,01/06/2005,p_median,5.99
+2451,Disposable Camera - 24-27 EXP,01/06/2005,p75,7.99
+2452,35mm Compact Camera,01/06/2005,p_mean,60.97947
+2453,35mm Compact Camera,01/06/2005,p25,29.99
+2454,35mm Compact Camera,01/06/2005,p_median,59.99
+2455,35mm Compact Camera,01/06/2005,p75,89.99
+2456,Developing/Printing,01/06/2005,p_mean,4.741349
+2457,Developing/Printing,01/06/2005,p25,3.99
+2458,Developing/Printing,01/06/2005,p_median,4.99
+2459,Developing/Printing,01/06/2005,p75,4.99
+2460,35mm colour film - 24 EXP,01/06/2005,p_mean,3.312388
+2461,35mm colour film - 24 EXP,01/06/2005,p25,2.69
+2462,35mm colour film - 24 EXP,01/06/2005,p_median,3.29
+2463,35mm colour film - 24 EXP,01/06/2005,p75,3.99
+2464,Disposable Camera - 24-27 EXP,01/07/2005,p_mean,6.385379
+2465,Disposable Camera - 24-27 EXP,01/07/2005,p25,4.99
+2466,Disposable Camera - 24-27 EXP,01/07/2005,p_median,5.99
+2467,Disposable Camera - 24-27 EXP,01/07/2005,p75,7.99
+2468,Developing/Printing,01/07/2005,p_mean,4.69629
+2469,Developing/Printing,01/07/2005,p25,3.99
+2470,Developing/Printing,01/07/2005,p_median,4.99
+2471,Developing/Printing,01/07/2005,p75,4.99
+2472,35mm Compact Camera,01/07/2005,p_mean,52.662
+2473,35mm Compact Camera,01/07/2005,p25,29.99
+2474,35mm Compact Camera,01/07/2005,p_median,44.98
+2475,35mm Compact Camera,01/07/2005,p75,69.99
+2476,35mm colour film - 24 EXP,01/07/2005,p_mean,3.276818
+2477,35mm colour film - 24 EXP,01/07/2005,p25,2.49
+2478,35mm colour film - 24 EXP,01/07/2005,p_median,3.385
+2479,35mm colour film - 24 EXP,01/07/2005,p75,3.99
+2480,Disposable Camera - 24-27 EXP,01/08/2005,p_mean,6.576154
+2481,Disposable Camera - 24-27 EXP,01/08/2005,p25,4.99
+2482,Disposable Camera - 24-27 EXP,01/08/2005,p_median,5.99
+2483,Disposable Camera - 24-27 EXP,01/08/2005,p75,7.99
+2484,35mm Compact Camera,01/08/2005,p_mean,57.47745
+2485,35mm Compact Camera,01/08/2005,p25,29.99
+2486,35mm Compact Camera,01/08/2005,p_median,59.99
+2487,35mm Compact Camera,01/08/2005,p75,69.99
+2488,Developing/Printing,01/08/2005,p_mean,4.743016
+2489,Developing/Printing,01/08/2005,p25,3.99
+2490,Developing/Printing,01/08/2005,p_median,4.99
+2491,Developing/Printing,01/08/2005,p75,4.99
+2492,35mm colour film - 24 EXP,01/08/2005,p_mean,3.367898
+2493,35mm colour film - 24 EXP,01/08/2005,p25,2.5
+2494,35mm colour film - 24 EXP,01/08/2005,p_median,3.49
+2495,35mm colour film - 24 EXP,01/08/2005,p75,4.29
+2496,35mm colour film - 24 EXP,01/09/2005,p_mean,3.378705
+2497,35mm colour film - 24 EXP,01/09/2005,p25,2.79
+2498,35mm colour film - 24 EXP,01/09/2005,p_median,3.49
+2499,35mm colour film - 24 EXP,01/09/2005,p75,4.29
+2500,35mm Compact Camera,01/09/2005,p_mean,54.15009
+2501,35mm Compact Camera,01/09/2005,p25,29.99
+2502,35mm Compact Camera,01/09/2005,p_median,59.99
+2503,35mm Compact Camera,01/09/2005,p75,69.99
+2504,Developing/Printing,01/09/2005,p_mean,4.709527
+2505,Developing/Printing,01/09/2005,p25,3.99
+2506,Developing/Printing,01/09/2005,p_median,4.99
+2507,Developing/Printing,01/09/2005,p75,4.99
+2508,Disposable Camera - 24-27 EXP,01/09/2005,p_mean,6.297925
+2509,Disposable Camera - 24-27 EXP,01/09/2005,p25,4.99
+2510,Disposable Camera - 24-27 EXP,01/09/2005,p_median,5.99
+2511,Disposable Camera - 24-27 EXP,01/09/2005,p75,7.99
+2512,35mm Compact Camera,01/10/2005,p_mean,49.32622
+2513,35mm Compact Camera,01/10/2005,p25,24.99
+2514,35mm Compact Camera,01/10/2005,p_median,44.99
+2515,35mm Compact Camera,01/10/2005,p75,69.99
+2516,Disposable Camera - 24-27 EXP,01/10/2005,p_mean,6.359815
+2517,Disposable Camera - 24-27 EXP,01/10/2005,p25,4.99
+2518,Disposable Camera - 24-27 EXP,01/10/2005,p_median,5.99
+2519,Disposable Camera - 24-27 EXP,01/10/2005,p75,7.99
+2520,Developing/Printing,01/10/2005,p_mean,4.70768
+2521,Developing/Printing,01/10/2005,p25,3.99
+2522,Developing/Printing,01/10/2005,p_median,4.99
+2523,Developing/Printing,01/10/2005,p75,4.99
+2524,35mm colour film - 24 EXP,01/10/2005,p_mean,3.366825
+2525,35mm colour film - 24 EXP,01/10/2005,p25,2.49
+2526,35mm colour film - 24 EXP,01/10/2005,p_median,3.49
+2527,35mm colour film - 24 EXP,01/10/2005,p75,4.29
+2528,Developing/Printing,01/11/2005,p_mean,4.73379
+2529,Developing/Printing,01/11/2005,p25,3.99
+2530,Developing/Printing,01/11/2005,p_median,4.99
+2531,Developing/Printing,01/11/2005,p75,4.99
+2532,Disposable Camera - 24-27 EXP,01/11/2005,p_mean,6.624326
+2533,Disposable Camera - 24-27 EXP,01/11/2005,p25,4.99
+2534,Disposable Camera - 24-27 EXP,01/11/2005,p_median,5.99
+2535,Disposable Camera - 24-27 EXP,01/11/2005,p75,8.99
+2536,35mm colour film - 24 EXP,01/11/2005,p_mean,3.388702
+2537,35mm colour film - 24 EXP,01/11/2005,p25,2.79
+2538,35mm colour film - 24 EXP,01/11/2005,p_median,3.49
+2539,35mm colour film - 24 EXP,01/11/2005,p75,4.29
+2540,35mm Compact Camera,01/11/2005,p_mean,48.94742
+2541,35mm Compact Camera,01/11/2005,p25,18.995
+2542,35mm Compact Camera,01/11/2005,p_median,33.49
+2543,35mm Compact Camera,01/11/2005,p75,69.99
+2544,35mm Compact Camera,01/12/2005,p_mean,49.28963
+2545,35mm Compact Camera,01/12/2005,p25,24.99
+2546,35mm Compact Camera,01/12/2005,p_median,48.945
+2547,35mm Compact Camera,01/12/2005,p75,69.99
+2548,35mm colour film - 24 EXP,01/12/2005,p_mean,3.379504
+2549,35mm colour film - 24 EXP,01/12/2005,p25,2.69
+2550,35mm colour film - 24 EXP,01/12/2005,p_median,3.49
+2551,35mm colour film - 24 EXP,01/12/2005,p75,4.29
+2552,Disposable Camera - 24-27 EXP,01/12/2005,p_mean,6.576923
+2553,Disposable Camera - 24-27 EXP,01/12/2005,p25,4.99
+2554,Disposable Camera - 24-27 EXP,01/12/2005,p_median,5.99
+2555,Disposable Camera - 24-27 EXP,01/12/2005,p75,8.99
+2556,Developing/Printing,01/12/2005,p_mean,4.726016
+2557,Developing/Printing,01/12/2005,p25,3.99
+2558,Developing/Printing,01/12/2005,p_median,4.99
+2559,Developing/Printing,01/12/2005,p75,4.99
+2560,35mm colour film - 24 EXP,01/01/2006,p_mean,3.369764
+2561,35mm colour film - 24 EXP,01/01/2006,p25,2.79
+2562,35mm colour film - 24 EXP,01/01/2006,p_median,3.49
+2563,35mm colour film - 24 EXP,01/01/2006,p75,4.29
+2564,Disposable Camera - 24-27 EXP,01/01/2006,p_mean,6.258692
+2565,Disposable Camera - 24-27 EXP,01/01/2006,p25,4.99
+2566,Disposable Camera - 24-27 EXP,01/01/2006,p_median,5.99
+2567,Disposable Camera - 24-27 EXP,01/01/2006,p75,6.99
+2568,35mm Compact Camera,01/01/2006,p_mean,48.22
+2569,35mm Compact Camera,01/01/2006,p25,29.99
+2570,35mm Compact Camera,01/01/2006,p_median,49.945
+2571,35mm Compact Camera,01/01/2006,p75,64.99
+2572,Developing/Printing,01/01/2006,p_mean,4.758536
+2573,Developing/Printing,01/01/2006,p25,3.99
+2574,Developing/Printing,01/01/2006,p_median,4.99
+2575,Developing/Printing,01/01/2006,p75,4.99
+2576,35mm colour film - 24 EXP,01/02/2006,p_mean,3.396532
+2577,35mm colour film - 24 EXP,01/02/2006,p25,2.79
+2578,35mm colour film - 24 EXP,01/02/2006,p_median,3.49
+2579,35mm colour film - 24 EXP,01/02/2006,p75,4.29
+2580,Disposable Camera - 24-27 EXP,01/02/2006,p_mean,6.240161
+2581,Disposable Camera - 24-27 EXP,01/02/2006,p25,4.99
+2582,Disposable Camera - 24-27 EXP,01/02/2006,p_median,5.99
+2583,Disposable Camera - 24-27 EXP,01/02/2006,p75,6.99
+2584,35mm Compact Camera,01/02/2006,p_mean,48.5786
+2585,35mm Compact Camera,01/02/2006,p25,21.495
+2586,35mm Compact Camera,01/02/2006,p_median,52.99
+2587,35mm Compact Camera,01/02/2006,p75,69.99
+2588,Developing/Printing,01/02/2006,p_mean,4.873189
+2589,Developing/Printing,01/02/2006,p25,3.99
+2590,Developing/Printing,01/02/2006,p_median,4.99
+2591,Developing/Printing,01/02/2006,p75,5.39
+2592,Developing/Printing,01/03/2006,p_mean,4.844824
+2593,Developing/Printing,01/03/2006,p25,3.99
+2594,Developing/Printing,01/03/2006,p_median,4.99
+2595,Developing/Printing,01/03/2006,p75,5.49
+2596,35mm colour film - 24 EXP,01/03/2006,p_mean,3.350185
+2597,35mm colour film - 24 EXP,01/03/2006,p25,2.74
+2598,35mm colour film - 24 EXP,01/03/2006,p_median,3.42
+2599,35mm colour film - 24 EXP,01/03/2006,p75,4.29
+2600,Disposable Camera - 24-27 EXP,01/03/2006,p_mean,6.299917
+2601,Disposable Camera - 24-27 EXP,01/03/2006,p25,4.99
+2602,Disposable Camera - 24-27 EXP,01/03/2006,p_median,5.99
+2603,Disposable Camera - 24-27 EXP,01/03/2006,p75,6.99
+2604,35mm Compact Camera,01/03/2006,p_mean,50.85907
+2605,35mm Compact Camera,01/03/2006,p25,29.99
+2606,35mm Compact Camera,01/03/2006,p_median,59.945
+2607,35mm Compact Camera,01/03/2006,p75,69.99
+2608,Developing/Printing,01/04/2006,p_mean,4.874825
+2609,Developing/Printing,01/04/2006,p25,4.25
+2610,Developing/Printing,01/04/2006,p_median,4.99
+2611,Developing/Printing,01/04/2006,p75,4.99
+2612,Disposable Camera - 24-27 EXP,01/04/2006,p_mean,6.14873
+2613,Disposable Camera - 24-27 EXP,01/04/2006,p25,4.99
+2614,Disposable Camera - 24-27 EXP,01/04/2006,p_median,5.99
+2615,Disposable Camera - 24-27 EXP,01/04/2006,p75,6.99
+2616,35mm Compact Camera,01/04/2006,p_mean,44.60913
+2617,35mm Compact Camera,01/04/2006,p25,29.97
+2618,35mm Compact Camera,01/04/2006,p_median,29.99
+2619,35mm Compact Camera,01/04/2006,p75,64.99
+2620,35mm colour film - 24 EXP,01/04/2006,p_mean,3.304679
+2621,35mm colour film - 24 EXP,01/04/2006,p25,2.49
+2622,35mm colour film - 24 EXP,01/04/2006,p_median,3.29
+2623,35mm colour film - 24 EXP,01/04/2006,p75,4.29
+2624,Disposable Camera - 24-27 EXP,01/05/2006,p_mean,6.367333
+2625,Disposable Camera - 24-27 EXP,01/05/2006,p25,5.99
+2626,Disposable Camera - 24-27 EXP,01/05/2006,p_median,5.99
+2627,Disposable Camera - 24-27 EXP,01/05/2006,p75,6.99
+2628,35mm colour film - 24 EXP,01/05/2006,p_mean,3.306102
+2629,35mm colour film - 24 EXP,01/05/2006,p25,2.4
+2630,35mm colour film - 24 EXP,01/05/2006,p_median,3.49
+2631,35mm colour film - 24 EXP,01/05/2006,p75,4.29
+2632,35mm Compact Camera,01/05/2006,p_mean,43.96637
+2633,35mm Compact Camera,01/05/2006,p25,19.97
+2634,35mm Compact Camera,01/05/2006,p_median,29.99
+2635,35mm Compact Camera,01/05/2006,p75,69.99
+2636,Developing/Printing,01/05/2006,p_mean,4.906416
+2637,Developing/Printing,01/05/2006,p25,4.39
+2638,Developing/Printing,01/05/2006,p_median,4.99
+2639,Developing/Printing,01/05/2006,p75,4.99
+2640,Developing/Printing,01/06/2006,p_mean,4.979008
+2641,Developing/Printing,01/06/2006,p25,4.49
+2642,Developing/Printing,01/06/2006,p_median,4.99
+2643,Developing/Printing,01/06/2006,p75,5.49
+2644,Disposable Camera - 24-27 EXP,01/06/2006,p_mean,6.369112
+2645,Disposable Camera - 24-27 EXP,01/06/2006,p25,5.99
+2646,Disposable Camera - 24-27 EXP,01/06/2006,p_median,5.99
+2647,Disposable Camera - 24-27 EXP,01/06/2006,p75,6.99
+2648,35mm Compact Camera,01/06/2006,p_mean,46.01345
+2649,35mm Compact Camera,01/06/2006,p25,19.98
+2650,35mm Compact Camera,01/06/2006,p_median,29.99
+2651,35mm Compact Camera,01/06/2006,p75,69.99
+2652,35mm colour film - 24 EXP,01/06/2006,p_mean,3.289478
+2653,35mm colour film - 24 EXP,01/06/2006,p25,2.49
+2654,35mm colour film - 24 EXP,01/06/2006,p_median,3.49
+2655,35mm colour film - 24 EXP,01/06/2006,p75,4.25
+2656,Disposable Camera - 24-27 EXP,01/07/2006,p_mean,6.282845
+2657,Disposable Camera - 24-27 EXP,01/07/2006,p25,5.99
+2658,Disposable Camera - 24-27 EXP,01/07/2006,p_median,5.99
+2659,Disposable Camera - 24-27 EXP,01/07/2006,p75,6.99
+2660,Developing/Printing,01/07/2006,p_mean,4.976179
+2661,Developing/Printing,01/07/2006,p25,4.49
+2662,Developing/Printing,01/07/2006,p_median,4.99
+2663,Developing/Printing,01/07/2006,p75,5.38
+2664,35mm colour film - 24 EXP,01/07/2006,p_mean,3.34211
+2665,35mm colour film - 24 EXP,01/07/2006,p25,2.49
+2666,35mm colour film - 24 EXP,01/07/2006,p_median,3.49
+2667,35mm colour film - 24 EXP,01/07/2006,p75,4.29
+2668,35mm Compact Camera,01/07/2006,p_mean,51.33011
+2669,35mm Compact Camera,01/07/2006,p25,29.99
+2670,35mm Compact Camera,01/07/2006,p_median,29.99
+2671,35mm Compact Camera,01/07/2006,p75,89.0
+2672,35mm colour film - 24 EXP,01/08/2006,p_mean,3.258365
+2673,35mm colour film - 24 EXP,01/08/2006,p25,2.09
+2674,35mm colour film - 24 EXP,01/08/2006,p_median,3.48
+2675,35mm colour film - 24 EXP,01/08/2006,p75,3.99
+2676,Disposable Camera - 24-27 EXP,01/08/2006,p_mean,6.300082
+2677,Disposable Camera - 24-27 EXP,01/08/2006,p25,5.99
+2678,Disposable Camera - 24-27 EXP,01/08/2006,p_median,5.99
+2679,Disposable Camera - 24-27 EXP,01/08/2006,p75,6.99
+2680,Developing/Printing,01/08/2006,p_mean,4.9588
+2681,Developing/Printing,01/08/2006,p25,4.49
+2682,Developing/Printing,01/08/2006,p_median,4.99
+2683,Developing/Printing,01/08/2006,p75,5.38
+2684,35mm Compact Camera,01/08/2006,p_mean,70.43552
+2685,35mm Compact Camera,01/08/2006,p25,29.99
+2686,35mm Compact Camera,01/08/2006,p_median,69.0
+2687,35mm Compact Camera,01/08/2006,p75,99.99
+2688,35mm colour film - 24 EXP,01/09/2006,p_mean,3.350091
+2689,35mm colour film - 24 EXP,01/09/2006,p25,2.4
+2690,35mm colour film - 24 EXP,01/09/2006,p_median,3.49
+2691,35mm colour film - 24 EXP,01/09/2006,p75,4.29
+2692,Developing/Printing,01/09/2006,p_mean,4.986748
+2693,Developing/Printing,01/09/2006,p25,4.49
+2694,Developing/Printing,01/09/2006,p_median,4.99
+2695,Developing/Printing,01/09/2006,p75,5.38
+2696,35mm Compact Camera,01/09/2006,p_mean,66.86636
+2697,35mm Compact Camera,01/09/2006,p25,29.99
+2698,35mm Compact Camera,01/09/2006,p_median,57.49
+2699,35mm Compact Camera,01/09/2006,p75,99.99
+2700,Disposable Camera - 24-27 EXP,01/09/2006,p_mean,6.293149
+2701,Disposable Camera - 24-27 EXP,01/09/2006,p25,5.99
+2702,Disposable Camera - 24-27 EXP,01/09/2006,p_median,5.99
+2703,Disposable Camera - 24-27 EXP,01/09/2006,p75,6.99
+2704,Developing/Printing,01/10/2006,p_mean,4.836859
+2705,Developing/Printing,01/10/2006,p25,3.99
+2706,Developing/Printing,01/10/2006,p_median,4.99
+2707,Developing/Printing,01/10/2006,p75,4.99
+2708,Disposable Camera - 24-27 EXP,01/10/2006,p_mean,6.301176
+2709,Disposable Camera - 24-27 EXP,01/10/2006,p25,5.99
+2710,Disposable Camera - 24-27 EXP,01/10/2006,p_median,5.99
+2711,Disposable Camera - 24-27 EXP,01/10/2006,p75,6.99
+2712,35mm colour film - 24 EXP,01/10/2006,p_mean,3.288518
+2713,35mm colour film - 24 EXP,01/10/2006,p25,2.195
+2714,35mm colour film - 24 EXP,01/10/2006,p_median,3.195
+2715,35mm colour film - 24 EXP,01/10/2006,p75,3.99
+2716,35mm Compact Camera,01/10/2006,p_mean,56.55306
+2717,35mm Compact Camera,01/10/2006,p25,29.0
+2718,35mm Compact Camera,01/10/2006,p_median,39.99
+2719,35mm Compact Camera,01/10/2006,p75,75.0
+2720,Developing/Printing,01/11/2006,p_mean,4.900763
+2721,Developing/Printing,01/11/2006,p25,3.99
+2722,Developing/Printing,01/11/2006,p_median,4.99
+2723,Developing/Printing,01/11/2006,p75,4.99
+2724,35mm colour film - 24 EXP,01/11/2006,p_mean,3.266038
+2725,35mm colour film - 24 EXP,01/11/2006,p25,2.4
+2726,35mm colour film - 24 EXP,01/11/2006,p_median,3.41
+2727,35mm colour film - 24 EXP,01/11/2006,p75,4.0
+2728,Disposable Camera - 24-27 EXP,01/11/2006,p_mean,6.276869
+2729,Disposable Camera - 24-27 EXP,01/11/2006,p25,5.99
+2730,Disposable Camera - 24-27 EXP,01/11/2006,p_median,5.99
+2731,Disposable Camera - 24-27 EXP,01/11/2006,p75,6.99
+2732,35mm Compact Camera,01/11/2006,p_mean,57.93211
+2733,35mm Compact Camera,01/11/2006,p25,29.99
+2734,35mm Compact Camera,01/11/2006,p_median,39.99
+2735,35mm Compact Camera,01/11/2006,p75,79.95
+2736,35mm colour film - 24 EXP,01/12/2006,p_mean,3.291089
+2737,35mm colour film - 24 EXP,01/12/2006,p25,1.99
+2738,35mm colour film - 24 EXP,01/12/2006,p_median,3.49
+2739,35mm colour film - 24 EXP,01/12/2006,p75,4.0
+2740,Developing/Printing,01/12/2006,p_mean,4.857723
+2741,Developing/Printing,01/12/2006,p25,3.99
+2742,Developing/Printing,01/12/2006,p_median,4.99
+2743,Developing/Printing,01/12/2006,p75,4.99
+2744,Disposable Camera - 24-27 EXP,01/12/2006,p_mean,6.203659
+2745,Disposable Camera - 24-27 EXP,01/12/2006,p25,5.99
+2746,Disposable Camera - 24-27 EXP,01/12/2006,p_median,5.99
+2747,Disposable Camera - 24-27 EXP,01/12/2006,p75,6.99
+2748,35mm Compact Camera,01/12/2006,p_mean,58.73116
+2749,35mm Compact Camera,01/12/2006,p25,29.99
+2750,35mm Compact Camera,01/12/2006,p_median,39.99
+2751,35mm Compact Camera,01/12/2006,p75,89.99
+2752,Developing/Printing,01/01/2007,p_mean,4.78595
+2753,Developing/Printing,01/01/2007,p25,3.99
+2754,Developing/Printing,01/01/2007,p_median,4.99
+2755,Developing/Printing,01/01/2007,p75,4.99
+2756,35mm colour film - 24 EXP,01/01/2007,p_mean,3.3863
+2757,35mm colour film - 24 EXP,01/01/2007,p25,2.79
+2758,35mm colour film - 24 EXP,01/01/2007,p_median,3.79
+2759,35mm colour film - 24 EXP,01/01/2007,p75,4.0
+2760,Disposable Camera - 24-27 EXP,01/01/2007,p_mean,6.364537
+2761,Disposable Camera - 24-27 EXP,01/01/2007,p25,5.99
+2762,Disposable Camera - 24-27 EXP,01/01/2007,p_median,5.99
+2763,Disposable Camera - 24-27 EXP,01/01/2007,p75,6.99
+2764,Developing/Printing,01/02/2007,p_mean,4.83648
+2765,Developing/Printing,01/02/2007,p25,3.99
+2766,Developing/Printing,01/02/2007,p_median,4.99
+2767,Developing/Printing,01/02/2007,p75,4.99
+2768,35mm colour film - 24 EXP,01/02/2007,p_mean,3.315096
+2769,35mm colour film - 24 EXP,01/02/2007,p25,2.39
+2770,35mm colour film - 24 EXP,01/02/2007,p_median,3.79
+2771,35mm colour film - 24 EXP,01/02/2007,p75,4.0
+2772,Disposable Camera - 24-27 EXP,01/02/2007,p_mean,6.393832
+2773,Disposable Camera - 24-27 EXP,01/02/2007,p25,5.99
+2774,Disposable Camera - 24-27 EXP,01/02/2007,p_median,5.99
+2775,Disposable Camera - 24-27 EXP,01/02/2007,p75,6.99
+2776,Developing/Printing,01/03/2007,p_mean,4.842032
+2777,Developing/Printing,01/03/2007,p25,3.99
+2778,Developing/Printing,01/03/2007,p_median,4.99
+2779,Developing/Printing,01/03/2007,p75,4.99
+2780,35mm colour film - 24 EXP,01/03/2007,p_mean,3.336667
+2781,35mm colour film - 24 EXP,01/03/2007,p25,2.49
+2782,35mm colour film - 24 EXP,01/03/2007,p_median,3.79
+2783,35mm colour film - 24 EXP,01/03/2007,p75,4.0
+2784,Disposable Camera - 24-27 EXP,01/03/2007,p_mean,6.36027
+2785,Disposable Camera - 24-27 EXP,01/03/2007,p25,5.99
+2786,Disposable Camera - 24-27 EXP,01/03/2007,p_median,5.99
+2787,Disposable Camera - 24-27 EXP,01/03/2007,p75,6.99
+2788,35mm colour film - 24 EXP,01/04/2007,p_mean,3.38951
+2789,35mm colour film - 24 EXP,01/04/2007,p25,2.49
+2790,35mm colour film - 24 EXP,01/04/2007,p_median,3.99
+2791,35mm colour film - 24 EXP,01/04/2007,p75,4.0
+2792,Developing/Printing,01/04/2007,p_mean,4.877705
+2793,Developing/Printing,01/04/2007,p25,3.99
+2794,Developing/Printing,01/04/2007,p_median,4.99
+2795,Developing/Printing,01/04/2007,p75,4.99
+2796,Disposable Camera - 24-27 EXP,01/04/2007,p_mean,6.415128
+2797,Disposable Camera - 24-27 EXP,01/04/2007,p25,5.99
+2798,Disposable Camera - 24-27 EXP,01/04/2007,p_median,5.99
+2799,Disposable Camera - 24-27 EXP,01/04/2007,p75,6.99
+2800,Disposable Camera - 24-27 EXP,01/05/2007,p_mean,6.630536
+2801,Disposable Camera - 24-27 EXP,01/05/2007,p25,5.99
+2802,Disposable Camera - 24-27 EXP,01/05/2007,p_median,6.99
+2803,Disposable Camera - 24-27 EXP,01/05/2007,p75,6.99
+2804,Developing/Printing,01/05/2007,p_mean,4.888374
+2805,Developing/Printing,01/05/2007,p25,3.99
+2806,Developing/Printing,01/05/2007,p_median,4.99
+2807,Developing/Printing,01/05/2007,p75,4.99
+2808,35mm colour film - 24 EXP,01/05/2007,p_mean,3.495484
+2809,35mm colour film - 24 EXP,01/05/2007,p25,2.5
+2810,35mm colour film - 24 EXP,01/05/2007,p_median,3.99
+2811,35mm colour film - 24 EXP,01/05/2007,p75,4.25
+2812,35mm colour film - 24 EXP,01/06/2007,p_mean,3.575043
+2813,35mm colour film - 24 EXP,01/06/2007,p25,2.79
+2814,35mm colour film - 24 EXP,01/06/2007,p_median,3.99
+2815,35mm colour film - 24 EXP,01/06/2007,p75,3.99
+2816,Disposable Camera - 24-27 EXP,01/06/2007,p_mean,6.599908
+2817,Disposable Camera - 24-27 EXP,01/06/2007,p25,5.99
+2818,Disposable Camera - 24-27 EXP,01/06/2007,p_median,6.99
+2819,Disposable Camera - 24-27 EXP,01/06/2007,p75,6.99
+2820,Developing/Printing,01/06/2007,p_mean,4.918
+2821,Developing/Printing,01/06/2007,p25,4.0
+2822,Developing/Printing,01/06/2007,p_median,4.99
+2823,Developing/Printing,01/06/2007,p75,4.99
+2824,Disposable Camera - 24-27 EXP,01/07/2007,p_mean,6.666429
+2825,Disposable Camera - 24-27 EXP,01/07/2007,p25,5.99
+2826,Disposable Camera - 24-27 EXP,01/07/2007,p_median,6.99
+2827,Disposable Camera - 24-27 EXP,01/07/2007,p75,6.99
+2828,Developing/Printing,01/07/2007,p_mean,4.876554
+2829,Developing/Printing,01/07/2007,p25,3.99
+2830,Developing/Printing,01/07/2007,p_median,4.99
+2831,Developing/Printing,01/07/2007,p75,4.99
+2832,35mm colour film - 24 EXP,01/07/2007,p_mean,3.622804
+2833,35mm colour film - 24 EXP,01/07/2007,p25,2.79
+2834,35mm colour film - 24 EXP,01/07/2007,p_median,3.99
+2835,35mm colour film - 24 EXP,01/07/2007,p75,4.0
+2836,Developing/Printing,01/08/2007,p_mean,4.850825
+2837,Developing/Printing,01/08/2007,p25,3.99
+2838,Developing/Printing,01/08/2007,p_median,4.99
+2839,Developing/Printing,01/08/2007,p75,4.99
+2840,Disposable Camera - 24-27 EXP,01/08/2007,p_mean,6.658481
+2841,Disposable Camera - 24-27 EXP,01/08/2007,p25,4.99
+2842,Disposable Camera - 24-27 EXP,01/08/2007,p_median,6.99
+2843,Disposable Camera - 24-27 EXP,01/08/2007,p75,7.99
+2844,35mm colour film - 24 EXP,01/08/2007,p_mean,3.509149
+2845,35mm colour film - 24 EXP,01/08/2007,p25,2.69
+2846,35mm colour film - 24 EXP,01/08/2007,p_median,3.99
+2847,35mm colour film - 24 EXP,01/08/2007,p75,4.0
+2848,Developing/Printing,01/09/2007,p_mean,4.877228
+2849,Developing/Printing,01/09/2007,p25,3.99
+2850,Developing/Printing,01/09/2007,p_median,4.99
+2851,Developing/Printing,01/09/2007,p75,4.99
+2852,Disposable Camera - 24-27 EXP,01/09/2007,p_mean,6.640875
+2853,Disposable Camera - 24-27 EXP,01/09/2007,p25,4.99
+2854,Disposable Camera - 24-27 EXP,01/09/2007,p_median,6.99
+2855,Disposable Camera - 24-27 EXP,01/09/2007,p75,6.99
+2856,35mm colour film - 24 EXP,01/09/2007,p_mean,3.623437
+2857,35mm colour film - 24 EXP,01/09/2007,p25,2.99
+2858,35mm colour film - 24 EXP,01/09/2007,p_median,3.99
+2859,35mm colour film - 24 EXP,01/09/2007,p75,4.29
+2860,Developing/Printing,01/10/2007,p_mean,4.9785
+2861,Developing/Printing,01/10/2007,p25,4.25
+2862,Developing/Printing,01/10/2007,p_median,4.99
+2863,Developing/Printing,01/10/2007,p75,5.49
+2864,35mm colour film - 24 EXP,01/10/2007,p_mean,3.657065
+2865,35mm colour film - 24 EXP,01/10/2007,p25,3.225
+2866,35mm colour film - 24 EXP,01/10/2007,p_median,3.99
+2867,35mm colour film - 24 EXP,01/10/2007,p75,4.29
+2868,Disposable Camera - 24-27 EXP,01/10/2007,p_mean,6.535158
+2869,Disposable Camera - 24-27 EXP,01/10/2007,p25,4.99
+2870,Disposable Camera - 24-27 EXP,01/10/2007,p_median,6.99
+2871,Disposable Camera - 24-27 EXP,01/10/2007,p75,6.99
+2872,Developing/Printing,01/11/2007,p_mean,5.00099
+2873,Developing/Printing,01/11/2007,p25,4.25
+2874,Developing/Printing,01/11/2007,p_median,4.99
+2875,Developing/Printing,01/11/2007,p75,5.49
+2876,35mm colour film - 24 EXP,01/11/2007,p_mean,3.585481
+2877,35mm colour film - 24 EXP,01/11/2007,p25,3.125
+2878,35mm colour film - 24 EXP,01/11/2007,p_median,3.89
+2879,35mm colour film - 24 EXP,01/11/2007,p75,3.99
+2880,Disposable Camera - 24-27 EXP,01/11/2007,p_mean,6.571368
+2881,Disposable Camera - 24-27 EXP,01/11/2007,p25,4.99
+2882,Disposable Camera - 24-27 EXP,01/11/2007,p_median,6.99
+2883,Disposable Camera - 24-27 EXP,01/11/2007,p75,6.99
+2884,Disposable Camera - 24-27 EXP,01/12/2007,p_mean,6.517938
+2885,Disposable Camera - 24-27 EXP,01/12/2007,p25,4.99
+2886,Disposable Camera - 24-27 EXP,01/12/2007,p_median,6.99
+2887,Disposable Camera - 24-27 EXP,01/12/2007,p75,6.99
+2888,Developing/Printing,01/12/2007,p_mean,4.995904
+2889,Developing/Printing,01/12/2007,p25,4.25
+2890,Developing/Printing,01/12/2007,p_median,4.99
+2891,Developing/Printing,01/12/2007,p75,5.79
+2892,35mm colour film - 24 EXP,01/12/2007,p_mean,3.604245
+2893,35mm colour film - 24 EXP,01/12/2007,p25,3.49
+2894,35mm colour film - 24 EXP,01/12/2007,p_median,3.99
+2895,35mm colour film - 24 EXP,01/12/2007,p75,4.0
+2896,Disposable Camera - 24-27 EXP,01/01/2008,p_mean,6.546882
+2897,Disposable Camera - 24-27 EXP,01/01/2008,p25,4.99
+2898,Disposable Camera - 24-27 EXP,01/01/2008,p_median,6.99
+2899,Disposable Camera - 24-27 EXP,01/01/2008,p75,6.99
+2900,Developing/Printing,01/01/2008,p_mean,5.070891
+2901,Developing/Printing,01/01/2008,p25,4.49
+2902,Developing/Printing,01/01/2008,p_median,4.99
+2903,Developing/Printing,01/01/2008,p75,5.79
+2904,35mm colour film - 24 EXP,01/01/2008,p_mean,3.594639
+2905,35mm colour film - 24 EXP,01/01/2008,p25,3.49
+2906,35mm colour film - 24 EXP,01/01/2008,p_median,3.99
+2907,35mm colour film - 24 EXP,01/01/2008,p75,3.99
+2908,Disposable Camera - 24-27 EXP,01/02/2008,p_mean,6.42699
+2909,Disposable Camera - 24-27 EXP,01/02/2008,p25,4.99
+2910,Disposable Camera - 24-27 EXP,01/02/2008,p_median,6.99
+2911,Disposable Camera - 24-27 EXP,01/02/2008,p75,6.99
+2912,Developing/Printing,01/02/2008,p_mean,5.150377
+2913,Developing/Printing,01/02/2008,p25,4.49
+2914,Developing/Printing,01/02/2008,p_median,4.99
+2915,Developing/Printing,01/02/2008,p75,5.99
+2916,Developing/Printing,01/03/2008,p_mean,5.170804
+2917,Developing/Printing,01/03/2008,p25,4.37
+2918,Developing/Printing,01/03/2008,p_median,4.99
+2919,Developing/Printing,01/03/2008,p75,5.99
+2920,Disposable Camera - 24-27 EXP,01/03/2008,p_mean,6.467567
+2921,Disposable Camera - 24-27 EXP,01/03/2008,p25,4.99
+2922,Disposable Camera - 24-27 EXP,01/03/2008,p_median,6.99
+2923,Disposable Camera - 24-27 EXP,01/03/2008,p75,7.99
+2924,Developing/Printing,01/04/2008,p_mean,5.181454
+2925,Developing/Printing,01/04/2008,p25,4.49
+2926,Developing/Printing,01/04/2008,p_median,4.99
+2927,Developing/Printing,01/04/2008,p75,5.99
+2928,Disposable Camera - 24-27 EXP,01/04/2008,p_mean,6.517041
+2929,Disposable Camera - 24-27 EXP,01/04/2008,p25,4.99
+2930,Disposable Camera - 24-27 EXP,01/04/2008,p_median,6.99
+2931,Disposable Camera - 24-27 EXP,01/04/2008,p75,7.99
+2932,Developing/Printing,01/05/2008,p_mean,5.16211
+2933,Developing/Printing,01/05/2008,p25,4.39
+2934,Developing/Printing,01/05/2008,p_median,4.99
+2935,Developing/Printing,01/05/2008,p75,5.99
+2936,Disposable Camera - 24-27 EXP,01/05/2008,p_mean,6.481237
+2937,Disposable Camera - 24-27 EXP,01/05/2008,p25,4.99
+2938,Disposable Camera - 24-27 EXP,01/05/2008,p_median,6.99
+2939,Disposable Camera - 24-27 EXP,01/05/2008,p75,7.99
+2940,Developing/Printing,01/06/2008,p_mean,5.217727
+2941,Developing/Printing,01/06/2008,p25,4.49
+2942,Developing/Printing,01/06/2008,p_median,4.99
+2943,Developing/Printing,01/06/2008,p75,5.99
+2944,Disposable Camera - 24-27 EXP,01/06/2008,p_mean,6.464062
+2945,Disposable Camera - 24-27 EXP,01/06/2008,p25,4.99
+2946,Disposable Camera - 24-27 EXP,01/06/2008,p_median,6.99
+2947,Disposable Camera - 24-27 EXP,01/06/2008,p75,7.99
+2948,Developing/Printing,01/07/2008,p_mean,5.238468
+2949,Developing/Printing,01/07/2008,p25,4.49
+2950,Developing/Printing,01/07/2008,p_median,4.99
+2951,Developing/Printing,01/07/2008,p75,5.99
+2952,Disposable Camera - 24-27 EXP,01/07/2008,p_mean,6.402596
+2953,Disposable Camera - 24-27 EXP,01/07/2008,p25,4.99
+2954,Disposable Camera - 24-27 EXP,01/07/2008,p_median,6.99
+2955,Disposable Camera - 24-27 EXP,01/07/2008,p75,7.99
+2956,Disposable Camera - 24-27 EXP,01/08/2008,p_mean,6.376571
+2957,Disposable Camera - 24-27 EXP,01/08/2008,p25,4.99
+2958,Disposable Camera - 24-27 EXP,01/08/2008,p_median,6.99
+2959,Disposable Camera - 24-27 EXP,01/08/2008,p75,7.99
+2960,Developing/Printing,01/08/2008,p_mean,5.254107
+2961,Developing/Printing,01/08/2008,p25,4.49
+2962,Developing/Printing,01/08/2008,p_median,4.99
+2963,Developing/Printing,01/08/2008,p75,5.99
+2964,Developing/Printing,01/09/2008,p_mean,5.246576
+2965,Developing/Printing,01/09/2008,p25,4.49
+2966,Developing/Printing,01/09/2008,p_median,4.99
+2967,Developing/Printing,01/09/2008,p75,5.99
+2968,Disposable Camera - 24-27 EXP,01/09/2008,p_mean,6.425143
+2969,Disposable Camera - 24-27 EXP,01/09/2008,p25,4.99
+2970,Disposable Camera - 24-27 EXP,01/09/2008,p_median,6.99
+2971,Disposable Camera - 24-27 EXP,01/09/2008,p75,7.99
+2972,Disposable Camera - 24-27 EXP,01/10/2008,p_mean,6.464545
+2973,Disposable Camera - 24-27 EXP,01/10/2008,p25,4.99
+2974,Disposable Camera - 24-27 EXP,01/10/2008,p_median,6.99
+2975,Disposable Camera - 24-27 EXP,01/10/2008,p75,7.99
+2976,Developing/Printing,01/10/2008,p_mean,5.28375
+2977,Developing/Printing,01/10/2008,p25,4.49
+2978,Developing/Printing,01/10/2008,p_median,4.99
+2979,Developing/Printing,01/10/2008,p75,5.99
+2980,Disposable Camera - 24-27 EXP,01/11/2008,p_mean,6.384821
+2981,Disposable Camera - 24-27 EXP,01/11/2008,p25,4.99
+2982,Disposable Camera - 24-27 EXP,01/11/2008,p_median,6.99
+2983,Disposable Camera - 24-27 EXP,01/11/2008,p75,7.99
+2984,Developing/Printing,01/11/2008,p_mean,5.272212
+2985,Developing/Printing,01/11/2008,p25,4.49
+2986,Developing/Printing,01/11/2008,p_median,4.99
+2987,Developing/Printing,01/11/2008,p75,5.99
+2988,Developing/Printing,01/12/2008,p_mean,5.190194
+2989,Developing/Printing,01/12/2008,p25,4.39
+2990,Developing/Printing,01/12/2008,p_median,4.99
+2991,Developing/Printing,01/12/2008,p75,5.99
+2992,Disposable Camera - 24-27 EXP,01/12/2008,p_mean,6.2634
+2993,Disposable Camera - 24-27 EXP,01/12/2008,p25,4.88
+2994,Disposable Camera - 24-27 EXP,01/12/2008,p_median,5.995
+2995,Disposable Camera - 24-27 EXP,01/12/2008,p75,7.82
+2996,Developing/Printing,01/01/2009,p_mean,5.228
+2997,Developing/Printing,01/01/2009,p25,4.49
+2998,Developing/Printing,01/01/2009,p_median,4.99
+2999,Developing/Printing,01/01/2009,p75,5.99
+3000,Disposable Camera - 24-27 EXP,01/01/2009,p_mean,6.337917
+3001,Disposable Camera - 24-27 EXP,01/01/2009,p25,4.88
+3002,Disposable Camera - 24-27 EXP,01/01/2009,p_median,6.845
+3003,Disposable Camera - 24-27 EXP,01/01/2009,p75,7.99
+3004,Disposable Camera - 24-27 EXP,01/02/2009,p_mean,6.461058
+3005,Disposable Camera - 24-27 EXP,01/02/2009,p25,4.99
+3006,Disposable Camera - 24-27 EXP,01/02/2009,p_median,6.99
+3007,Disposable Camera - 24-27 EXP,01/02/2009,p75,8.0
+3008,Developing/Printing,01/02/2009,p_mean,5.497981
+3009,Developing/Printing,01/02/2009,p25,4.86
+3010,Developing/Printing,01/02/2009,p_median,5.49
+3011,Developing/Printing,01/02/2009,p75,5.99
+3012,Developing/Printing,01/03/2009,p_mean,5.423486
+3013,Developing/Printing,01/03/2009,p25,4.79
+3014,Developing/Printing,01/03/2009,p_median,5.49
+3015,Developing/Printing,01/03/2009,p75,5.99
+3016,Disposable Camera - 24-27 EXP,01/03/2009,p_mean,6.426316
+3017,Disposable Camera - 24-27 EXP,01/03/2009,p25,4.99
+3018,Disposable Camera - 24-27 EXP,01/03/2009,p_median,5.99
+3019,Disposable Camera - 24-27 EXP,01/03/2009,p75,8.0
+3020,Disposable Camera - 24-27 EXP,01/04/2009,p_mean,6.348099
+3021,Disposable Camera - 24-27 EXP,01/04/2009,p25,4.99
+3022,Disposable Camera - 24-27 EXP,01/04/2009,p_median,5.99
+3023,Disposable Camera - 24-27 EXP,01/04/2009,p75,8.0
+3024,Developing/Printing,01/04/2009,p_mean,5.434336
+3025,Developing/Printing,01/04/2009,p25,4.88
+3026,Developing/Printing,01/04/2009,p_median,5.49
+3027,Developing/Printing,01/04/2009,p75,5.99
+3028,Developing/Printing,01/05/2009,p_mean,5.439292
+3029,Developing/Printing,01/05/2009,p25,4.88
+3030,Developing/Printing,01/05/2009,p_median,5.49
+3031,Developing/Printing,01/05/2009,p75,5.99
+3032,Disposable Camera - 24-27 EXP,01/05/2009,p_mean,6.318017
+3033,Disposable Camera - 24-27 EXP,01/05/2009,p25,4.99
+3034,Disposable Camera - 24-27 EXP,01/05/2009,p_median,5.99
+3035,Disposable Camera - 24-27 EXP,01/05/2009,p75,8.0
+3036,Developing/Printing,01/06/2009,p_mean,5.470536
+3037,Developing/Printing,01/06/2009,p25,4.99
+3038,Developing/Printing,01/06/2009,p_median,5.49
+3039,Developing/Printing,01/06/2009,p75,5.99
+3040,Disposable Camera - 24-27 EXP,01/06/2009,p_mean,6.34584
+3041,Disposable Camera - 24-27 EXP,01/06/2009,p25,4.99
+3042,Disposable Camera - 24-27 EXP,01/06/2009,p_median,5.99
+3043,Disposable Camera - 24-27 EXP,01/06/2009,p75,8.0
+3044,Disposable Camera - 24-27 EXP,01/07/2009,p_mean,6.386428
+3045,Disposable Camera - 24-27 EXP,01/07/2009,p25,4.99
+3046,Disposable Camera - 24-27 EXP,01/07/2009,p_median,5.99
+3047,Disposable Camera - 24-27 EXP,01/07/2009,p75,8.0
+3048,Developing/Printing,01/07/2009,p_mean,5.461802
+3049,Developing/Printing,01/07/2009,p25,4.99
+3050,Developing/Printing,01/07/2009,p_median,5.49
+3051,Developing/Printing,01/07/2009,p75,5.99
+3052,Developing/Printing,01/08/2009,p_mean,5.492478
+3053,Developing/Printing,01/08/2009,p25,4.99
+3054,Developing/Printing,01/08/2009,p_median,5.49
+3055,Developing/Printing,01/08/2009,p75,5.99
+3056,Disposable Camera - 24-27 EXP,01/08/2009,p_mean,6.449076
+3057,Disposable Camera - 24-27 EXP,01/08/2009,p25,4.99
+3058,Disposable Camera - 24-27 EXP,01/08/2009,p_median,5.99
+3059,Disposable Camera - 24-27 EXP,01/08/2009,p75,8.0
+3060,Developing/Printing,01/09/2009,p_mean,5.518246
+3061,Developing/Printing,01/09/2009,p25,4.99
+3062,Developing/Printing,01/09/2009,p_median,5.49
+3063,Developing/Printing,01/09/2009,p75,5.99
+3064,Disposable Camera - 24-27 EXP,01/09/2009,p_mean,6.330932
+3065,Disposable Camera - 24-27 EXP,01/09/2009,p25,4.99
+3066,Disposable Camera - 24-27 EXP,01/09/2009,p_median,5.99
+3067,Disposable Camera - 24-27 EXP,01/09/2009,p75,8.0
+3068,Disposable Camera - 24-27 EXP,01/10/2009,p_mean,6.1964
+3069,Disposable Camera - 24-27 EXP,01/10/2009,p25,4.99
+3070,Disposable Camera - 24-27 EXP,01/10/2009,p_median,5.99
+3071,Disposable Camera - 24-27 EXP,01/10/2009,p75,8.0
+3072,Developing/Printing,01/10/2009,p_mean,5.485089
+3073,Developing/Printing,01/10/2009,p25,4.99
+3074,Developing/Printing,01/10/2009,p_median,5.49
+3075,Developing/Printing,01/10/2009,p75,5.99
+3076,Developing/Printing,01/11/2009,p_mean,5.537544
+3077,Developing/Printing,01/11/2009,p25,4.99
+3078,Developing/Printing,01/11/2009,p_median,5.49
+3079,Developing/Printing,01/11/2009,p75,5.99
+3080,Disposable Camera - 24-27 EXP,01/11/2009,p_mean,6.230236
+3081,Disposable Camera - 24-27 EXP,01/11/2009,p25,4.99
+3082,Disposable Camera - 24-27 EXP,01/11/2009,p_median,5.99
+3083,Disposable Camera - 24-27 EXP,01/11/2009,p75,8.0
+3084,Disposable Camera - 24-27 EXP,01/12/2009,p_mean,6.36252
+3085,Disposable Camera - 24-27 EXP,01/12/2009,p25,4.99
+3086,Disposable Camera - 24-27 EXP,01/12/2009,p_median,5.99
+3087,Disposable Camera - 24-27 EXP,01/12/2009,p75,8.0
+3088,Developing/Printing,01/12/2009,p_mean,5.519826
+3089,Developing/Printing,01/12/2009,p25,4.99
+3090,Developing/Printing,01/12/2009,p_median,5.49
+3091,Developing/Printing,01/12/2009,p75,5.99
+3092,Developing/Printing,01/01/2010,p_mean,5.605091
+3093,Developing/Printing,01/01/2010,p25,4.99
+3094,Developing/Printing,01/01/2010,p_median,5.49
+3095,Developing/Printing,01/01/2010,p75,6.2
+3096,Disposable Camera - 24-27 EXP,01/01/2010,p_mean,6.103083
+3097,Disposable Camera - 24-27 EXP,01/01/2010,p25,4.99
+3098,Disposable Camera - 24-27 EXP,01/01/2010,p_median,5.99
+3099,Disposable Camera - 24-27 EXP,01/01/2010,p75,8.0
+3100,Developing/Printing,01/02/2010,p_mean,5.664018
+3101,Developing/Printing,01/02/2010,p25,4.99
+3102,Developing/Printing,01/02/2010,p_median,5.49
+3103,Developing/Printing,01/02/2010,p75,6.1
+3104,Developing/Printing,01/03/2010,p_mean,5.764454
+3105,Developing/Printing,01/03/2010,p25,4.99
+3106,Developing/Printing,01/03/2010,p_median,5.5
+3107,Developing/Printing,01/03/2010,p75,6.49
+3108,Developing/Printing,01/04/2010,p_mean,5.722631
+3109,Developing/Printing,01/04/2010,p25,4.99
+3110,Developing/Printing,01/04/2010,p_median,5.5
+3111,Developing/Printing,01/04/2010,p75,6.49
+3112,Developing/Printing,01/05/2010,p_mean,5.725664
+3113,Developing/Printing,01/05/2010,p25,4.99
+3114,Developing/Printing,01/05/2010,p_median,5.5
+3115,Developing/Printing,01/05/2010,p75,6.49
+3116,Developing/Printing,01/06/2010,p_mean,5.690265
+3117,Developing/Printing,01/06/2010,p25,4.99
+3118,Developing/Printing,01/06/2010,p_median,5.5
+3119,Developing/Printing,01/06/2010,p75,6.49
+3120,Developing/Printing,01/07/2010,p_mean,5.699115
+3121,Developing/Printing,01/07/2010,p25,4.99
+3122,Developing/Printing,01/07/2010,p_median,5.5
+3123,Developing/Printing,01/07/2010,p75,6.2
+3124,Developing/Printing,01/08/2010,p_mean,5.752212
+3125,Developing/Printing,01/08/2010,p25,4.99
+3126,Developing/Printing,01/08/2010,p_median,5.5
+3127,Developing/Printing,01/08/2010,p75,6.2
+3128,Developing/Printing,01/09/2010,p_mean,5.80899
+3129,Developing/Printing,01/09/2010,p25,4.99
+3130,Developing/Printing,01/09/2010,p_median,5.5
+3131,Developing/Printing,01/09/2010,p75,6.2
+3132,Developing/Printing,01/10/2010,p_mean,5.809464
+3133,Developing/Printing,01/10/2010,p25,4.99
+3134,Developing/Printing,01/10/2010,p_median,5.5
+3135,Developing/Printing,01/10/2010,p75,6.1
+3136,Developing/Printing,01/11/2010,p_mean,5.821261
+3137,Developing/Printing,01/11/2010,p25,4.99
+3138,Developing/Printing,01/11/2010,p_median,5.5
+3139,Developing/Printing,01/11/2010,p75,6.2
+3140,Developing/Printing,01/12/2010,p_mean,5.841081
+3141,Developing/Printing,01/12/2010,p25,4.99
+3142,Developing/Printing,01/12/2010,p_median,5.5
+3143,Developing/Printing,01/12/2010,p75,6.49
+3144,Developing/Printing,01/01/2011,p_mean,5.975192
+3145,Developing/Printing,01/01/2011,p25,5.0
+3146,Developing/Printing,01/01/2011,p_median,5.79
+3147,Developing/Printing,01/01/2011,p75,6.99
+3148,Developing/Printing,01/02/2011,p_mean,6.021441
+3149,Developing/Printing,01/02/2011,p25,5.0
+3150,Developing/Printing,01/02/2011,p_median,5.99
+3151,Developing/Printing,01/02/2011,p75,6.99
+3152,Developing/Printing,01/03/2011,p_mean,6.039363
+3153,Developing/Printing,01/03/2011,p25,5.0
+3154,Developing/Printing,01/03/2011,p_median,5.99
+3155,Developing/Printing,01/03/2011,p75,6.99
+3156,Developing/Printing,01/04/2011,p_mean,6.042115
+3157,Developing/Printing,01/04/2011,p25,5.0
+3158,Developing/Printing,01/04/2011,p_median,5.99
+3159,Developing/Printing,01/04/2011,p75,6.99
+3160,Developing/Printing,01/05/2011,p_mean,6.057905
+3161,Developing/Printing,01/05/2011,p25,5.0
+3162,Developing/Printing,01/05/2011,p_median,5.99
+3163,Developing/Printing,01/05/2011,p75,6.99
+3164,Developing/Printing,01/06/2011,p_mean,6.107339
+3165,Developing/Printing,01/06/2011,p25,5.0
+3166,Developing/Printing,01/06/2011,p_median,5.99
+3167,Developing/Printing,01/06/2011,p75,6.99
+3168,Developing/Printing,01/07/2011,p_mean,6.074339
+3169,Developing/Printing,01/07/2011,p25,5.0
+3170,Developing/Printing,01/07/2011,p_median,5.99
+3171,Developing/Printing,01/07/2011,p75,6.99
+3172,Developing/Printing,01/08/2011,p_mean,6.096415
+3173,Developing/Printing,01/08/2011,p25,5.0
+3174,Developing/Printing,01/08/2011,p_median,5.99
+3175,Developing/Printing,01/08/2011,p75,6.99
+3176,Developing/Printing,01/09/2011,p_mean,6.165769
+3177,Developing/Printing,01/09/2011,p25,5.0
+3178,Developing/Printing,01/09/2011,p_median,5.99
+3179,Developing/Printing,01/09/2011,p75,6.99
+3180,Developing/Printing,01/10/2011,p_mean,6.259514
+3181,Developing/Printing,01/10/2011,p25,5.0
+3182,Developing/Printing,01/10/2011,p_median,5.99
+3183,Developing/Printing,01/10/2011,p75,6.99
+3184,Developing/Printing,01/11/2011,p_mean,6.234807
+3185,Developing/Printing,01/11/2011,p25,5.0
+3186,Developing/Printing,01/11/2011,p_median,5.99
+3187,Developing/Printing,01/11/2011,p75,6.99
+3188,Developing/Printing,01/12/2011,p_mean,6.278725
+3189,Developing/Printing,01/12/2011,p25,5.0
+3190,Developing/Printing,01/12/2011,p_median,5.99
+3191,Developing/Printing,01/12/2011,p75,6.99
+3192,Developing/Printing,01/01/2012,p_mean,6.2927
+3193,Developing/Printing,01/01/2012,p25,5.145
+3194,Developing/Printing,01/01/2012,p_median,5.99
+3195,Developing/Printing,01/01/2012,p75,6.99
