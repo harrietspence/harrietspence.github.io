@@ -1,0 +1,49 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "width": 400,
+  "height": 400,
+  "title": {
+    "text": "Affordable Housing Units",
+    "subtitle": "Source: Chicago Data Portal",
+    "subtitleFontStyle": "italic",
+    "subtitleFontSize": 10,
+    "anchor": "start",
+    "color": "black"
+  },
+  "data": {
+    "url": "https://raw.githubusercontent.com/harrietspence/harrietspence.github.io/main/Boundaries%20-%20Community%20Areas%20(current).geojson",
+    "format": {"property": "features"}
+  },
+  "projection": {"type": "mercator"},
+  "transform": [
+    {
+      "lookup": "properties.area_numbe",
+      "from": {
+        "data": {
+          "url": "https://raw.githubusercontent.com/harrietspence/harrietspence.github.io/main/P_affordable_housing_tidy.csv"
+        },
+        "key": "Community Area Number",
+        "fields": [
+          "Total Number of Units",
+          "Affordable Rental Housing"
+        ]
+      }
+    }
+  ],
+  "mark": {"type": "geoshape", "stroke": "transparent", "strokeWidth": 0.5},
+  "encoding": {
+    "tooltip": [
+      {"field": "properties.community", "type": "nominal", "title": "Neighbourhood"},
+      {
+        "field": "Total Number of Units",
+        "type": "quantitative",
+        "title": "Total Number of Units in Neighbourhood"
+      }
+    ],
+    "color": {
+      "field": "Total Number of Units",
+      "type": "quantitative",
+      "scale": {"scheme": "orangered"}
+    }
+  }
+}
