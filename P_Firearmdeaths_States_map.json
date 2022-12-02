@@ -6,10 +6,7 @@
   "title": {
     "text": "Firearm Mortality Rates in the US",
     "fontSize": 12,
-    "subtitle": [
-      "Source: Centers for Disease Control and Prevention"
-    
-    ],
+    "subtitle": ["Source: Centers for Disease Control and Prevention"],
     "subtitleFontStyle": "italic",
     "subtitleFontSize": 10,
     "anchor": "middle"
@@ -52,12 +49,18 @@
       "field": "Firearm Mortality Rate",
       "legend": {"title": null, "orient": "right", "direction": "vertical"},
       "type": "quantitative",
-      "scale": {"scheme": "lighttealblue"}
+      "scale": {
+        "domain": [0, 30],
+        "scheme": "yellowgreenblue"}
     },
     "tooltip": [
-      {"field": "properties.NAME", "type":"nominal", "title": "State"},
-      {"field": "Firearm Mortality Rate", "type":"nominal", "title": "Firearm Mortality Rate"},
-      {"field": "YEAR", "type":"nominal", "title": "Year"}
+      {"field": "properties.NAME", "type": "nominal", "title": "State"},
+      {
+        "field": "Firearm Mortality Rate",
+        "type": "nominal",
+        "title": "Firearm Mortality Rate"
+      },
+      {"field": "YEAR", "type": "nominal", "title": "Year"}
     ]
   }
 }
