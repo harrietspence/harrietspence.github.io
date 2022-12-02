@@ -9,7 +9,6 @@
     "subtitle": [
       "Source: Chicago Data Portal",
       "Chicago Police Department's CLEAR system"
-    
     ],
     "subtitleFontStyle": "italic",
     "subtitleFontSize": 12,
@@ -53,12 +52,22 @@
       "field": "Total for Year",
       "legend": {"title": null, "orient": "right", "direction": "vertical"},
       "type": "quantitative",
-      "scale": {"scheme": "orangered"}
+      "scale": {
+        "domain": [0, 1360],        
+        "scheme": "yelloworangered"}
     },
     "tooltip": [
-      {"field": "properties.community", "type":"nominal", "title": "Neighbourhood"},
-      {"field": "Total for Year", "type":"nominal", "title": "Total gun related incidents reported in given year"},
-      {"field": "Year", "type":"nominal", "title": "Year"}
+      {
+        "field": "properties.community",
+        "type": "nominal",
+        "title": "Neighbourhood"
+      },
+      {
+        "field": "Total for Year",
+        "type": "nominal",
+        "title": "Total gun related incidents reported in given year"
+      },
+      {"field": "Year", "type": "nominal", "title": "Year"}
     ]
   }
 }
