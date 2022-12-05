@@ -13,16 +13,16 @@
     "anchor": "start",
     "color": "black"
   },
-
   "height": 300,
   "width": 300,
-       "mark": {
-        "type": "point",
-        "size": 80,
-        "filled": true,
-        "color": "#FFA057",
-        "strokeWidth": 12,
-        "opacity": 0.7},
+  "mark": {
+    "type": "point",
+    "size": 80,
+    "filled": true,
+    "color": "#FFA057",
+    "strokeWidth": 12,
+    "opacity": 0.7
+  },
   "selection": {
     "Year": {
       "type": "single",
@@ -31,14 +31,14 @@
         "input": "select",
         "options": [
           null,
-                "2014",
-                "2015",
-                "2016",
-                "2017",                
-                "2018",
-                "2019",
-                "2020"
-                       ],
+          "2014",
+          "2015",
+          "2016",
+          "2017",
+          "2018",
+          "2019",
+          "2020"
+        ],
         "name": "Year"
       }
     }
@@ -57,6 +57,6 @@
       "title": "Firearm Mortality rate",
       "scale": {"domain": [0, 30]}
     },
-    "tooltip": [{"field": "State", "type": "nominal", "title": "State"}]
+    "tooltip": [{"field": "State", "type": "nominal", "title": "State"}, {"field": "Year", "type": "quantitative", "title": "Year"}]
   }
 }
