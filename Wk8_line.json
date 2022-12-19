@@ -17276,7 +17276,11 @@
         "field":"code",
         "type":"nominal",
         "title": "Key",
-        "legend": ["GS30", "GS10", "GS5", "GS1", "GS3M", "FEDFUNDS"]
+        "legend": {
+          "columns": 2,
+          "labelLimit": 900,
+          "orient": "bottom",
+          "labelExpr": "{'FEDFUNDS': 'Federal Funds Effective Rate', 'GS30': 'Market Yield on U.S. Treasury Securities at 30-Year Constant Maturity', 'GS10': 'Market Yield on U.S. Treasury Securities at 10-Year Constant Maturity', 'GS5': 'Market Yield on U.S. Treasury Securities at 5-Year Constant Maturity', 'GS1': 'Market Yield on U.S. Treasury Securities at 1-Year Constant Maturity', 'GS3M':'Market Yield on U.S. Treasury Securities at 3-Month Constant Maturity'}[datum.label]"}
       },
       "value": "grey"
     },
@@ -17313,5 +17317,5 @@
       "encoding": {"text": {"field":"code", "type": "nominal"}}
     }]
   }],
-  "config": {"view": {"stroke": null}}
+  "config": {"view": {"stroke": null}, "padding": 10}
 }
