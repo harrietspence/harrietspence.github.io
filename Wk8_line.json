@@ -17265,12 +17265,53 @@
 ]
 },
   
-  "mark": "line",
   "height": 300,
   "width": 700,
   "encoding": {
     "x": {"field": "DATE", "type": "temporal", "title": "Date"},
     "y": {"field": "yield", "type": "quantitative","title": "Percent"},
-    "color": {"field": "code", "type": "nominal", "title": "Key"}
-  }
+    "color": {
+      "condition": {
+        "param": "hover",
+        "field":"code",
+        "type":"nominal",
+        "title": "Key",
+        "legend": ["GS30", "GS10", "GS5", "GS1", "GS3M", "FEDFUNDS"]
+      },
+      "value": "grey"
+    },
+    "opacity": {
+      "condition": {
+        "param": "hover",
+        "value": 1
+      },
+      "value": 0.2
+    }
+  },
+  "layer": [{
+    "params": [{
+      "name": "hover",
+      "value": [{"code": "GS30"}],
+      "select": {
+        "type": "point",
+        "fields": ["code"],
+        "on": "mouseover"
+      }
+    }],
+    "mark": {"type": "line", "strokeWidth": 10, "stroke": "transparent"}
+  }, {
+    "mark": "line"
+  }, {
+    "encoding": {
+      "x": {"aggregate": "max", "field": "date"},
+      "y": {"aggregate": {"argmax": "DATE"}, "field": "percent"}
+    },
+    "layer": [{
+      "mark": {"type": "circle"}
+    }, {
+      "mark": {"type": "text", "align": "left", "dx": 4},
+      "encoding": {"text": {"field":"code", "type": "nominal"}}
+    }]
+  }],
+  "config": {"view": {"stroke": null}}
 }
