@@ -1,0 +1,29 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "description": "wk 8",
+  "title": {
+    "text": "Venture capital Investmnets",
+    "fontSize": 18,
+    "subtitle": ["NASDAQ Composite - 45 Year Historical Chart", "Source: macrotrends"],
+    "subtitleFontStyle": "italic",
+    "subtitleFontSize": 14,
+    "anchor": "start",
+    "color": "black"
+  },
+ "data": {
+    "url": "https://raw.githubusercontent.com/harrietspence/harrietspence.github.io/main/Wk8_venturecapital.csv"
+  },
+
+  "mark": {"type": "line", "color": "teal", "strokeWidth": 3, "opacity": 0.7},
+  "height": 300,
+  "width": 700,
+  "encoding": {
+    "x": {"field": "date", "type": "temporal", "title": "Date"},
+    "y": {"field": " value", "type": "quantitative", "title": "Percent"}
+  },
+  "config": {
+    "line": {
+      "interpolate": "monotone"
+    }
+  }
+}
