@@ -1,0 +1,61 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "width": 450,
+  "height": 450,
+  "view": {"stroke": "transparent"},
+  "title": {
+    "text": "Median Household income by tract",
+    "fontSize": 14,
+    "subtitle": ["Median income in the past 12 months (in 2021 inflation-adjusted dollars)","American Community Survey 5-Year estimate","Source: United States Census Bureau"],
+    "subtitleFontStyle": "italic",
+    "subtitleFontSize": 12,
+    "anchor": "middle"
+  },
+  "data": {
+    "url": "https://raw.githubusercontent.com/harrietspence/harrietspence.github.io/main/HH_inc.csv",
+    "format": {"type": "csv"}
+  },
+  "transform": [
+    {
+      "lookup": "geoid10",
+      "from": {
+        "data": {
+          "url": "https://raw.githubusercontent.com/harrietspence/harrietspence.github.io/main/Boundaries%20-%20Census%20Tracts%20-%202010%20(1).geojson",
+          "format": {"property": "features"}
+        },
+        "key": "properties.geoid10",
+        "fields": ["properties", "type", "geometry"]
+      }
+    }
+  ],
+  "projection": {"type": "mercator"},
+  "mark": "geoshape",
+  "encoding": {
+    "color": {
+      "field": "med_hh_inc",
+      "legend": {
+        "title": "median household income",
+        "titleAlign": "left",
+        "orient": "bottom-left",
+        "direction": "vertical",
+        "titlePadding": 6,
+        "titleAnchor": "start",
+        "gradientLength": 250
+      },
+      "type": "quantitative",
+      "scale": {"domain": [0, 250000], "scheme": "goldgreen"}
+    },
+    "tooltip": [
+      {
+        "field": "Geographic Area Name",
+        "type": "nominal",
+        "title": "Local Authority"
+      },
+      {
+        "field": "dollars",
+        "type": "nominal",
+        "title": "Median Household income, 5 year estimate"
+      }
+    ]
+  }
+}
