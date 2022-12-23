@@ -32,7 +32,8 @@
         <p> The Consumer Price Index (CPI) in The UK over time</p>
         <div class="chart" id="Chart1"></div>
         <div class="chart" id="Chart2"></div>            
-        
+        <div class="chart" id="Chart3"></div>
+        <div class="chart" id="Chart4"></div>     
     
 
     
@@ -45,11 +46,15 @@
 <script>
     //Define charts:
     var myChart1 = "P_Income_guns_scatter.json";
-    var myChart2 = "P_ReportedGunCrimesMap.json";
+    var myChart2 = "P_barchart2.json";
+    var myChart3 = "P_ReportedGunCrimesMap.json";
+    var myChart4 = "HH_income_map.json";
 
     // Embed charts:
     vegaEmbed('#Chart1', myChart1);
     vegaEmbed('#Chart2', myChart2);
+    vegaEmbed('#Chart3', myChart3);
+    vegaEmbed('#Chart4', myChart4);
 </script>
 
 </html>
