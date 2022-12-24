@@ -43,7 +43,7 @@
         "gradientLength": 250
       },
       "type": "quantitative",
-      "scale": {"domain": [0, 250000], "scheme": "goldgreen"}
+      "scale": {"domain": [0, 250000], "scheme": "redyellowgreen"}
     },
     "tooltip": [
       {
