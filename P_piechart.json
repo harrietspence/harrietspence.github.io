@@ -1,0 +1,321 @@
+{
+    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+    "description": "Pie Chart",
+    "width": 200,
+    "height": 200,
+    "view": {"stroke": "transparent"},
+    "title": {
+      "text": ["Breakdown of reported gun crimes", "in Chicago"],
+      "fontSize": 18,
+      "subtitle": [
+        "","Source: Chicago Data Portal",
+        "Chicago Police Department's CLEAR system",
+        ""
+      ],
+      "subtitleFontStyle": "italic",
+      "subtitleFontSize": 12,
+      "anchor": "middle"
+    },
+    "params": [
+      {
+        "name": "minYear",
+        "value": 2021,
+        "bind": {
+          "input": "range",
+          "min": 2014,
+          "max": 2022,
+          "step": 1,
+          "name": "Start year:"
+        }
+      },
+      {
+        "name": "maxYear",
+        "value": 2021,
+        "bind": {
+          "input": "range",
+          "min": 2014,
+          "max": 2022,
+          "step": 1,
+          "name": "End year:"
+        }
+      }
+    ],
+    "data": {
+      "values": [
+    {  
+      "Primary Type": "Assault",
+      "Year": 2014,
+      "Total for Year": 1988
+    },
+    {
+      "Primary Type": "Assault",
+      "Year": 2015,
+      "Total for Year": 2140
+    },
+    {
+      "Primary Type": "Assault",
+      "Year": 2016,
+      "Total for Year": 3139
+    },
+    {
+      "Primary Type": "Assault",
+      "Year": 2017,
+      "Total for Year": 3059
+    },
+    {
+      "Primary Type": "Assault",
+      "Year": 2018,
+      "Total for Year": 3118
+    },
+    {
+      "Primary Type": "Assault",
+      "Year": 2019,
+      "Total for Year": 2966
+    },
+    {
+      "Primary Type": "Assault",
+      "Year": 2020,
+      "Total for Year": 3788
+    },
+    {
+      "Primary Type": "Assault",
+      "Year": 2021,
+      "Total for Year": 4830
+    },
+    {
+      "Primary Type": "Assault",
+      "Year": 2022,
+      "Total for Year": 4286
+    },
+    {
+      "Primary Type": "Battery",
+      "Year": 2014,
+      "Total for Year": 1605
+    },
+    {
+      "Primary Type": "Battery",
+      "Year": 2015,
+      "Total for Year": 1898
+    },
+    {
+      "Primary Type": "Battery",
+      "Year": 2016,
+      "Total for Year": 2719
+    },
+    {
+      "Primary Type": "Battery",
+      "Year": 2017,
+      "Total for Year": 2079
+    },
+    {
+      "Primary Type": "Battery",
+      "Year": 2018,
+      "Total for Year": 1823
+    },
+    {
+      "Primary Type": "Battery",
+      "Year": 2019,
+      "Total for Year": 1630
+    },
+    {
+      "Primary Type": "Battery",
+      "Year": 2020,
+      "Total for Year": 2462
+    },
+    {
+      "Primary Type": "Battery",
+      "Year": 2021,
+      "Total for Year": 2716
+    },
+    {
+      "Primary Type": "Battery",
+      "Year": 2022,
+      "Total for Year": 1939
+    },
+    {
+      "Primary Type": "Criminal Sexual Assault",
+      "Year": 2014,
+      "Total for Year": 69
+    },
+    {
+      "Primary Type": "Criminal Sexual Assault",
+      "Year": 2015,
+      "Total for Year": 59
+    },
+    {
+      "Primary Type": "Criminal Sexual Assault",
+      "Year": 2016,
+      "Total for Year": 66
+    },
+    {
+      "Primary Type": "Criminal Sexual Assault",
+      "Year": 2017,
+      "Total for Year": 60
+    },
+    {
+      "Primary Type": "Criminal Sexual Assault",
+      "Year": 2018,
+      "Total for Year": 52
+    },
+    {
+      "Primary Type": "Criminal Sexual Assault",
+      "Year": 2019,
+      "Total for Year": 29
+    },
+    {
+      "Primary Type": "Criminal Sexual Assault",
+      "Year": 2020,
+      "Total for Year": 1
+    },
+    {
+      "Primary Type": "Criminal Sexual Assault",
+      "Year": 2014,
+      "Total for Year": 4
+    },
+    {
+      "Primary Type": "Criminal Sexual Assault",
+      "Year": 2015,
+      "Total for Year": 4
+    },
+    {
+      "Primary Type": "Criminal Sexual Assault",
+      "Year": 2016,
+      "Total for Year": 5
+    },
+    {
+      "Primary Type": "Criminal Sexual Assault",
+      "Year": 2017,
+      "Total for Year": 12
+    },
+    {
+      "Primary Type": "Criminal Sexual Assault",
+      "Year": 2018,
+      "Total for Year": 10
+    },
+    {
+      "Primary Type": "Criminal Sexual Assault",
+      "Year": 2019,
+      "Total for Year": 21
+    },
+    {
+      "Primary Type": "Criminal Sexual Assault",
+      "Year": 2020,
+      "Total for Year": 56
+    },
+    {
+      "Primary Type": "Criminal Sexual Assault",
+      "Year": 2021,
+      "Total for Year": 72
+    },
+    {
+      "Primary Type": "Criminal Sexual Assault",
+      "Year": 2022,
+      "Total for Year": 58
+    },
+    {
+      "Primary Type": "Robbery",
+      "Year": 2014,
+      "Total for Year": 3799
+    },
+    {
+      "Primary Type": "Robbery",
+      "Year": 2015,
+      "Total for Year": 4069
+    },
+    {
+      "Primary Type": "Robbery",
+      "Year": 2016,
+      "Total for Year": 5277
+    },
+    {
+      "Primary Type": "Robbery",
+      "Year": 2017,
+      "Total for Year": 5025
+    },
+    {
+      "Primary Type": "Robbery",
+      "Year": 2018,
+      "Total for Year": 3884
+    },
+    {
+      "Primary Type": "Robbery",
+      "Year": 2019,
+      "Total for Year": 2933
+    },
+    {
+      "Primary Type": "Robbery",
+      "Year": 2020,
+      "Total for Year": 2950
+    },
+    {
+      "Primary Type": "Robbery",
+      "Year": 2021,
+      "Total for Year": 2999
+    },
+    {
+      "Primary Type": "Robbery",
+      "Year": 2022,
+      "Total for Year": 3257
+    },
+    {
+      "Primary Type": "Weapons Violation",
+      "Year": 2014,
+      "Total for Year": 2663
+    },
+    {
+      "Primary Type": "Weapons Violation",
+      "Year": 2015,
+      "Total for Year": 2958
+    },
+    {
+      "Primary Type": "Weapons Violation",
+      "Year": 2016,
+      "Total for Year": 3196
+    },
+    {
+      "Primary Type": "Weapons Violation",
+      "Year": 2017,
+      "Total for Year": 4437
+    },
+    {
+      "Primary Type": "Weapons Violation",
+      "Year": 2018,
+      "Total for Year": 5201
+    },
+    {
+      "Primary Type": "Weapons Violation",
+      "Year": 2019,
+      "Total for Year": 6094
+    },
+    {
+      "Primary Type": "Weapons Violation",
+      "Year": 2020,
+      "Total for Year": 8286
+    },
+    {
+      "Primary Type": "Weapons Violation",
+      "Year": 2021,
+      "Total for Year": 8846
+    },
+    {
+      "Primary Type": "Weapons Violation",
+      "Year": 2022,
+      "Total for Year": 7714
+    }
+  ]
+  },
+   "transform": [
+        {"filter": "datum.Year>=minYear"},
+      {"filter": "datum.Year<=maxYear"}
+   ],
+    "mark": {"type": "arc", "tooltip": true},
+    "encoding": {
+      "theta": {"field": "Total for Year", "type": "quantitative", "stack": "normalize"},
+      "color": {
+        "field": "Primary Type", 
+        "type": "nominal", 
+        "title": "",
+        "scale": {"scheme": "yelloworangered"}
+    }
+    }
+  }
