@@ -1,0 +1,69 @@
+{
+    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+    "width": 300,
+    "height": 160,
+    "data": {
+      "values": [
+        {"place": "Austin", "inc": "< $25,000", "Count": 12476, "Percent": 37.3},
+        {"place": "Chicago", "inc": "< $25,000", "Count": 247276, "Percent": 22.9},
+        {"place": "Austin", "inc": "$25,000 to $49,999", "Count": 8288, "Percent": 24.8},
+        {"place": "Chicago", "inc": "$25,000 to $49,999", "Count": 206530, "Percent": 19.1},
+        {"place": "Austin", "inc": "$50,000 to $74,999","Count": 4903, "Percent": 14.7}, 
+        {"place": "Chicago", "inc": "$50,000 to $74,999", "Count": 165058, "Percent": 15.3},
+        {"place": "Austin", "inc": "$75,000 to $99,999", "Count": 2424, "Percent": 7.2},
+        {"place": "Chicago", "inc": "$75,000 to $99,999", "Count": 124195, "Percent": 11.5},
+        {"place": "Austin", "inc": "$100,000 to $149,999", "Count": 3582, "Percent": 10.7}, 
+        {"place": "Chicago", "inc": "$100,000 to $149,999", "Count": 155086, "Percent": 16.9},
+        {"place": "Austin", "inc": "≥ $150,000", "Count": 1788, "Percent": 5.3}, 
+       {"place": "Chicago", "inc": "≥ $150,000", "Count": 182998, "Percent": 16.9}
+      ]
+    },
+    "title": {
+      "text": ["Household Income Distribution in Austin and in the City of Chicago"],
+      "fontSize": 15,
+      "subtitle": [
+        "2016-2020 American Community Survey five-year estimates.","Source: Chicago Metropolitan Agency for Planning", ""
+      ],
+      "subtitleFontStyle": "italic",
+      "subtitleFontSize": 11,
+      "anchor": "middle",
+      "color": "black"
+    },
+    "mark": {
+      "type": "bar", 
+      "cornerRadiusEnd": 4
+      },
+    "encoding": {
+      "y": {
+        "field": "inc",
+        "type": "ordinal",
+        "sort": [{"field": "inc", "order": "ascending"}],
+        "axis": {"title": [""], "labelFontSize": 14}
+      },
+      "x": {"field": "Percent", "type": "quantitative", "axis": {
+        "title": "Percentage", "labelFontSize": 14
+        }
+        
+      },
+      "facet": {
+        "field": "place", 
+        "title": null,
+        "header": {
+          "labelFontSize": 16,
+          "labelAnchor": "middle",
+          "labelColor": "black"}
+        },
+      "tooltip": [
+        {
+        "field": "Count", 
+        "type": "nominal", 
+        "title": "Count"
+        },
+      
+        {
+        "field": "Percent", "type": "quantitative", "title": "%"
+        }
+      ],
+      "color": {"value": "#ff9e66"}
+    }
+  }
