@@ -1,0 +1,74 @@
+{
+    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+      "width": 200,
+    "height": 500,
+    "data": {
+      "url": "https://raw.githubusercontent.com/harrietspence/harrietspence.github.io/main/P_tidy_top_10_cities.csv"
+    },
+    "title": {
+      "text": ["Gun Injuries and Deaths in the US 10 most", "populated cities"],
+      "fontSize": 15,
+      "subtitle": [
+        "Source: National Gun Archive & United States",
+        "Census Bureau"
+      ],
+      "subtitleFontStyle": "italic",
+      "subtitleFontSize": 11,
+      "anchor": "middle",
+      "color": "black"
+    },
+    "selection": {
+      "year": {
+        "type": "single",
+        "fields": ["year"],
+        "bind": {
+          "input": "select",
+          "options": [
+            null,
+            "2014",
+            "2015",
+            "2016",
+            "2017",
+            "2018",
+            "2019",
+            "2020",
+            "2021",
+            "2022"
+          ],
+          "name": "Year"
+        }
+      }
+    },
+    "transform": [
+      {"filter": {"selection": "year"}},
+      {"fold": ["n_killed", "n_injured"], "as": ["var", "val"]}
+    ],
+    "mark": "bar",
+    "encoding": {
+      "y": {
+        "field": "City",
+        "type": "ordinal",
+        "sort": [{"field": "2021rank", "order": "ascending"}],
+        "axis": {"title": [""], "labelFontSize": 14}
+      },
+      "x": {
+        "field": "val",
+        "type": "quantitative",
+        "axis": {
+          "title": "Number of people killed / injured",
+          "labelFontSize": 14
+        }
+      },
+      "color": {
+        "field": "var",
+        "type": "nominal",
+        "scale": {"scheme": "yelloworangered"},
+        "title": ["Number killed and injured"],
+        "legend": {
+          "orient": "bottom-right",
+          "labelExpr": "{'n_killed': 'number killed', 'n_injured': 'number injured'}[datum.label]"
+        }
+      },
+      "yOffset": {"field": "var", "type": "nominal"}
+    }
+  }
