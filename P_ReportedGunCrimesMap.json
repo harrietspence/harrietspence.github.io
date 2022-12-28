@@ -50,7 +50,7 @@
   "encoding": {
     "color": {
       "field": "Total for Year",
-      "legend": {"title": "Reported Gun Incidents", "orient": "right", "direction": "vertical"},
+      "legend": {"title": "Reported Gun Incidents", "orient": "bottom-left", "direction": "vertical"},
       "type": "quantitative",
       "scale": {
         "domain": [0, 1360],        
