@@ -20,7 +20,7 @@
   "params": [
     {
       "name": "yearSelector",
-      "value": 2020,
+      "value": 2021,
       "bind": {
         "input": "range",
         "min": 2014,
