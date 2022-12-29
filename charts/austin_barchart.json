@@ -37,7 +37,7 @@
       "y": {
         "field": "inc",
         "type": "ordinal",
-        "sort": {"field": "inc", "order": "ascending"}],
+        "sort": {"field": "inc", "order": "ascending"},
         "axis": {"title": [""], "labelFontSize": 14}
       },
       "x": {"field": "Percent", "type": "quantitative", "axis": {
