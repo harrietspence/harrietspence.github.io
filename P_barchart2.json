@@ -24,7 +24,7 @@
       "bind": {
         "input": "range",
         "min": 2014,
-        "max": 202,
+        "max": 2022,
         "step": 1,
         "name": "Year:"
       }
