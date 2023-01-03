@@ -1,0 +1,70 @@
+{
+    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+    "width": 450,
+    "height": 450,
+    "background": null,
+    "padding": 20,
+    "view": {"stroke": "transparent"},
+    "title": {
+      "text": ["Where do children rise out of poverty?","Mean Household Income at age 35"],
+      "fontSize": 19,
+      "subtitle": [
+        "Mean household income rank for children whose parents were at",
+        "the 25th percentile of the national income distribution. Measured in ",
+        "2014-15 when induviduals were between ages 31-37.",
+        "Source: Opportunities Insight"
+      ],
+      "subtitleFontStyle": "italic",
+      "subtitleFontSize": 14,
+      "subtitlePadding": 8,
+      "anchor": "middle"
+    },
+    "data": {
+      "url": "https://raw.githubusercontent.com/harrietspence/harrietspence.github.io/main/Opportunity_Insight_data.csv",
+      "format": {"type": "csv"}
+    },
+    "transform": [
+      {
+        "lookup": "tract",
+        "from": {
+          "data": {
+            "url": "https://raw.githubusercontent.com/harrietspence/harrietspence.github.io/main/Boundaries%20-%20Census%20Tracts%20-%202010%20(1).geojson",
+            "format": {"property": "features"}
+          },
+          "key": "properties.tractce10",
+          "fields": ["properties", "type", "geometry"]
+        }
+      }
+    ],
+    "projection": {"type": "mercator"},
+    "mark": "geoshape",
+    "encoding": {
+      "color": {
+        "field": "kfr_pooled_pooled_p25",
+        "legend": {
+          "title": "Mean household income rank",
+          "titleAlign": "left",
+          "orient": "bottom-left",
+          "direction": "vertical",
+          "titlePadding": 6,
+          "titleAnchor": "start",
+          "gradientLength": 70
+        },
+        "type": "quantitative",
+        "scale": {"domain": [0, 0.01, 0.25, 0.5, 1], "range": ["#540303", "#faca82","#cc0501", "#faf082", "#18f21f"]}
+      },
+      "tooltip": [
+        {
+          "field": "properties.namelsad10",
+          "type": "nominal",
+          "title": "Tract"
+        },
+        {
+          "field": "kfr_pooled_pooled_p25_percent",
+          "type": "nominal",
+          "title": "Mean household income rank for children whose parents were at the 25th percentile of the national income distribution"
+        },
+        {"field": "kfr_pooled_pooled_p25_se", "type": "nominal", "title": "Standard error"}
+      ]
+    }
+  }
