@@ -1,0 +1,81 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "width": 420,
+  "height": 500,
+  "background": null,
+  "data": {
+    "url": "https://raw.githubusercontent.com/harrietspence/harrietspence.github.io/main/P_tidy_top_10_cities.csv"
+  },
+  "title": {
+    "text": ["Gun Injuries and Deaths in the US 10 most", "populated cities"],
+    "fontSize": 22,
+    "subtitle": [
+      "Source: National Gun Archive & United States",
+      "Census Bureau"
+    ],
+    "subtitleFontStyle": "italic",
+    "subtitleFontSize": 15,
+    "subtitlePadding": 8,
+    "anchor": "middle",
+    "color": "black"
+  },
+  "params": [
+    {
+      "name": "yearSelector",
+      "value": 2021,
+      "bind": {
+        "input": "range",
+        "min": 2014,
+        "max": 2022,
+        "step": 1,
+        "name": "Year:"
+      }
+    }
+  ],
+  "transform": [
+    {"filter": "datum.year == yearSelector"},
+    {"fold": ["n_killed", "n_injured"], "as": ["var", "val"]}
+  ],
+  "mark": "bar",
+  "encoding": {
+    "y": {
+      "field": "City",
+      "type": "ordinal",
+      "sort": [{"field": "2021rank", "order": "ascending"}],
+      "axis": {"title": [""], "labelFontSize": 14}
+    },
+    "x": {
+      "field": "val",
+      "type": "quantitative",
+      "axis": {
+        "title": "Number of people killed / injured",
+        "labelFontSize": 15,
+        "tickCount": 4,
+        "tickWidth": 1,
+        "ticks": false,
+        "tickOpacity": 0.7,
+        "gridOpacity": 0.8,
+        "titleFontSize": 17,
+        "titlePadding": 2,
+        "titleFontWeight": "bold"
+      }
+    },
+    "color": {
+      "field": "var",
+      "type": "nominal",
+      "scale": {"scheme": "yelloworangered"},
+      "title": ["Number killed and injured"],
+      "legend": {
+        "orient": "bottom-right",
+        "labelExpr": "{'n_killed': 'number killed', 'n_injured': 'number injured'}[datum.label]"
+      }
+    },
+    "yOffset": {"field": "var", "type": "nominal"}, 
+
+    "tooltip": [
+      {"field": "n_injured", "type": "nominal", "title": "Number injured in given year"},
+      {"field": "n_killed", "type": "nominal", "title": "Number killed in given year"}
+      
+    ]
+  }
+}
