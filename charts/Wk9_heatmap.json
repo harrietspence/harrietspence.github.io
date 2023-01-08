@@ -1,0 +1,42 @@
+{
+    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+    "data": {
+      "url": "https://raw.githubusercontent.com/harrietspence/harrietspence.github.io/main/Wk9_temp.csv"
+    },
+    "height": 400,
+    "width": 500,
+    "title": {
+      "text": "Observed meteorological temperature from Bristol Airport in December",
+      "fontSize": 16,
+      "subtitle": "Source: Supplied by IEM and converted to SI units by Bristol City Council",
+      "subtitleFontStyle": "italic",
+      "subtitleFontSize": 12
+    },
+    "mark": "rect",
+    "encoding": {
+      "x": {
+        "field": "date",
+        "type": "ordinal",
+        "timeUnit": "date",
+        "axis": {"title": "Date"}
+      },
+      "y": {
+        "field": "date",
+        "type": "ordinal",
+        "timeUnit": "hours",
+        "axis": {"title": "Time"}
+      },
+      "size": {"field": "temp", "type": "nominal"},
+      "color": {
+        "field": "temp",
+        "type": "quantitative",
+        "title": ["Temperature", "in degrees celcius"],
+        "scale": {"scheme": "lighttealblue"}
+      },
+      "tooltip": [
+        {"field": "temp", "type": "nominal", "title": "Temperature"},
+        {"field": "date2", "type": "temporal", "title": "Date"},
+        {"field": "date2", "type": "ordinal","timeUnit": "hours","title": "Time"}
+      ]
+    }
+  }
